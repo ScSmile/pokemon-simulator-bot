@@ -1,0 +1,28 @@
+{
+  "id": 552,
+  "name": "Krokorok",
+  "type": [
+    "GROUND",
+    "DARK"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 82
+    },
+    "DEFENSE": {
+      "baseValue": 45
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 45
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 45
+    },
+    "SPEED": {
+      "baseValue": 74
+    }
+  }
+}

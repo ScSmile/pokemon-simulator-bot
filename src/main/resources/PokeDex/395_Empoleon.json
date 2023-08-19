@@ -1,0 +1,28 @@
+{
+  "id": 395,
+  "name": "Empoleon",
+  "type": [
+    "WATER",
+    "STEEL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 84
+    },
+    "ATTACK": {
+      "baseValue": 86
+    },
+    "DEFENSE": {
+      "baseValue": 88
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 111
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 101
+    },
+    "SPEED": {
+      "baseValue": 60
+    }
+  }
+}

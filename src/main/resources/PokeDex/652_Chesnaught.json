@@ -1,0 +1,28 @@
+{
+  "id": 652,
+  "name": "Chesnaught",
+  "type": [
+    "GRASS",
+    "FIGHTING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 88
+    },
+    "ATTACK": {
+      "baseValue": 107
+    },
+    "DEFENSE": {
+      "baseValue": 122
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 74
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 75
+    },
+    "SPEED": {
+      "baseValue": 64
+    }
+  }
+}

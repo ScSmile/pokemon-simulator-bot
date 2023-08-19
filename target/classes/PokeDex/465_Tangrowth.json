@@ -1,0 +1,27 @@
+{
+  "id": 465,
+  "name": "Tangrowth",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 100
+    },
+    "ATTACK": {
+      "baseValue": 100
+    },
+    "DEFENSE": {
+      "baseValue": 125
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 110
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 50
+    },
+    "SPEED": {
+      "baseValue": 50
+    }
+  }
+}

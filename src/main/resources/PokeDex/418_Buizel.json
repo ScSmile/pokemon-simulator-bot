@@ -1,0 +1,27 @@
+{
+  "id": 418,
+  "name": "Buizel",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 55
+    },
+    "ATTACK": {
+      "baseValue": 65
+    },
+    "DEFENSE": {
+      "baseValue": 35
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 60
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 30
+    },
+    "SPEED": {
+      "baseValue": 85
+    }
+  }
+}

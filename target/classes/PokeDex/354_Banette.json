@@ -1,0 +1,27 @@
+{
+  "id": 354,
+  "name": "Banette",
+  "type": [
+    "GHOST"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 64
+    },
+    "ATTACK": {
+      "baseValue": 115
+    },
+    "DEFENSE": {
+      "baseValue": 65
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 83
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 63
+    },
+    "SPEED": {
+      "baseValue": 65
+    }
+  }
+}

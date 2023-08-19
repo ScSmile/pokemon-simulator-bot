@@ -1,0 +1,27 @@
+{
+  "id": 807,
+  "name": "Zeraora",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 88
+    },
+    "ATTACK": {
+      "baseValue": 112
+    },
+    "DEFENSE": {
+      "baseValue": 75
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 102
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 80
+    },
+    "SPEED": {
+      "baseValue": 143
+    }
+  }
+}

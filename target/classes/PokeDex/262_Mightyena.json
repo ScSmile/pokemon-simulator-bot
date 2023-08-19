@@ -1,0 +1,27 @@
+{
+  "id": 262,
+  "name": "Mightyena",
+  "type": [
+    "DARK"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 70
+    },
+    "ATTACK": {
+      "baseValue": 90
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 60
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 60
+    },
+    "SPEED": {
+      "baseValue": 70
+    }
+  }
+}

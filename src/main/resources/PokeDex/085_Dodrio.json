@@ -1,0 +1,28 @@
+{
+  "id": 85,
+  "name": "Dodrio",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 110
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 60
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 60
+    },
+    "SPEED": {
+      "baseValue": 110
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 431,
+  "name": "Glameow",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 49
+    },
+    "ATTACK": {
+      "baseValue": 55
+    },
+    "DEFENSE": {
+      "baseValue": 42
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 42
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 37
+    },
+    "SPEED": {
+      "baseValue": 85
+    }
+  }
+}

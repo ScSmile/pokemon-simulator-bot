@@ -1,0 +1,27 @@
+{
+  "id": 325,
+  "name": "Spoink",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 25
+    },
+    "DEFENSE": {
+      "baseValue": 35
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 70
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 80
+    },
+    "SPEED": {
+      "baseValue": 60
+    }
+  }
+}

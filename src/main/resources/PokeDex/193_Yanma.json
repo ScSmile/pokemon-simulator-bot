@@ -1,0 +1,28 @@
+{
+  "id": 193,
+  "name": "Yanma",
+  "type": [
+    "BUG",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 65
+    },
+    "ATTACK": {
+      "baseValue": 65
+    },
+    "DEFENSE": {
+      "baseValue": 45
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 75
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 45
+    },
+    "SPEED": {
+      "baseValue": 95
+    }
+  }
+}

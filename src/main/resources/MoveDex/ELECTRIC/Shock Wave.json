@@ -1,0 +1,8 @@
+{
+  "name": "Shock Wave",
+  "power": 60,
+  "accuracy": 100,
+  "type": "ELECTRIC",
+  "category": "SPECIAL",
+  "recoil": 0
+}

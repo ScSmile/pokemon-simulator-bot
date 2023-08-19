@@ -1,0 +1,28 @@
+{
+  "id": 177,
+  "name": "Natu",
+  "type": [
+    "PSYCHIC",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 40
+    },
+    "ATTACK": {
+      "baseValue": 50
+    },
+    "DEFENSE": {
+      "baseValue": 45
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 70
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 45
+    },
+    "SPEED": {
+      "baseValue": 70
+    }
+  }
+}

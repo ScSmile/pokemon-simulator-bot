@@ -1,0 +1,27 @@
+{
+  "id": 377,
+  "name": "Regirock",
+  "type": [
+    "ROCK"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 80
+    },
+    "ATTACK": {
+      "baseValue": 100
+    },
+    "DEFENSE": {
+      "baseValue": 200
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 50
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 100
+    },
+    "SPEED": {
+      "baseValue": 50
+    }
+  }
+}

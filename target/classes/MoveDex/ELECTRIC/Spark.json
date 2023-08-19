@@ -1,0 +1,8 @@
+{
+  "name": "Spark",
+  "power": 65,
+  "accuracy": 100,
+  "type": "ELECTRIC",
+  "category": "SPECIAL",
+  "recoil": 0
+}

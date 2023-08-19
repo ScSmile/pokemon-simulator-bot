@@ -1,0 +1,8 @@
+{
+  "name": "Meteor Mash",
+  "power": 100,
+  "accuracy": 85,
+  "type": "STEEL",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

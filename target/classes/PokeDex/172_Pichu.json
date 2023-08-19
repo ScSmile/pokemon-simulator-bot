@@ -1,0 +1,27 @@
+{
+  "id": 172,
+  "name": "Pichu",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 20
+    },
+    "ATTACK": {
+      "baseValue": 40
+    },
+    "DEFENSE": {
+      "baseValue": 15
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 35
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 35
+    },
+    "SPEED": {
+      "baseValue": 60
+    }
+  }
+}

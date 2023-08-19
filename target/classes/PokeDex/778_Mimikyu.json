@@ -1,0 +1,28 @@
+{
+  "id": 778,
+  "name": "Mimikyu",
+  "type": [
+    "GHOST",
+    "FAIRY"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 55
+    },
+    "ATTACK": {
+      "baseValue": 90
+    },
+    "DEFENSE": {
+      "baseValue": 80
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 50
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 105
+    },
+    "SPEED": {
+      "baseValue": 96
+    }
+  }
+}

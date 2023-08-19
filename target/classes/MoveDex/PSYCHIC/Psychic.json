@@ -1,0 +1,8 @@
+{
+  "name": "Psychic",
+  "power": 90,
+  "accuracy": 100,
+  "type": "PSYCHIC",
+  "category": "SPECIAL",
+  "recoil": 0
+}

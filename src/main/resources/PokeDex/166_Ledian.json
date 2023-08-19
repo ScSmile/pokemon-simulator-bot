@@ -1,0 +1,28 @@
+{
+  "id": 166,
+  "name": "Ledian",
+  "type": [
+    "BUG",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 55
+    },
+    "ATTACK": {
+      "baseValue": 35
+    },
+    "DEFENSE": {
+      "baseValue": 50
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 55
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 110
+    },
+    "SPEED": {
+      "baseValue": 85
+    }
+  }
+}

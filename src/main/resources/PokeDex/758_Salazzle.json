@@ -1,0 +1,28 @@
+{
+  "id": 758,
+  "name": "Salazzle",
+  "type": [
+    "POISON",
+    "FIRE"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 68
+    },
+    "ATTACK": {
+      "baseValue": 64
+    },
+    "DEFENSE": {
+      "baseValue": 60
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 111
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 60
+    },
+    "SPEED": {
+      "baseValue": 117
+    }
+  }
+}

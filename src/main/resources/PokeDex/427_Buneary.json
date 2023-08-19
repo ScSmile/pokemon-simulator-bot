@@ -1,0 +1,27 @@
+{
+  "id": 427,
+  "name": "Buneary",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 55
+    },
+    "ATTACK": {
+      "baseValue": 66
+    },
+    "DEFENSE": {
+      "baseValue": 44
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 44
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 56
+    },
+    "SPEED": {
+      "baseValue": 85
+    }
+  }
+}

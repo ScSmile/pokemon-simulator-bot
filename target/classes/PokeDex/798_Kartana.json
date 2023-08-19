@@ -1,0 +1,28 @@
+{
+  "id": 798,
+  "name": "Kartana",
+  "type": [
+    "GRASS",
+    "STEEL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 59
+    },
+    "ATTACK": {
+      "baseValue": 181
+    },
+    "DEFENSE": {
+      "baseValue": 131
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 59
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 31
+    },
+    "SPEED": {
+      "baseValue": 109
+    }
+  }
+}

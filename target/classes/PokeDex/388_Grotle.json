@@ -1,0 +1,27 @@
+{
+  "id": 388,
+  "name": "Grotle",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 75
+    },
+    "ATTACK": {
+      "baseValue": 89
+    },
+    "DEFENSE": {
+      "baseValue": 85
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 55
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 65
+    },
+    "SPEED": {
+      "baseValue": 36
+    }
+  }
+}

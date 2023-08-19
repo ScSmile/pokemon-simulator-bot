@@ -1,0 +1,27 @@
+{
+  "id": 518,
+  "name": "Musharna",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 116
+    },
+    "ATTACK": {
+      "baseValue": 55
+    },
+    "DEFENSE": {
+      "baseValue": 85
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 107
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 95
+    },
+    "SPEED": {
+      "baseValue": 29
+    }
+  }
+}

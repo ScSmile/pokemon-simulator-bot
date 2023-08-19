@@ -1,0 +1,27 @@
+{
+  "id": 147,
+  "name": "Dratini",
+  "type": [
+    "DRAGON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 41
+    },
+    "ATTACK": {
+      "baseValue": 64
+    },
+    "DEFENSE": {
+      "baseValue": 45
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 50
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 50
+    },
+    "SPEED": {
+      "baseValue": 50
+    }
+  }
+}

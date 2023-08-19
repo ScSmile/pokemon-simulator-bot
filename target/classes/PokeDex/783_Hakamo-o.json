@@ -1,0 +1,28 @@
+{
+  "id": 783,
+  "name": "Hakamo-o",
+  "type": [
+    "DRAGON",
+    "FIGHTING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 55
+    },
+    "ATTACK": {
+      "baseValue": 75
+    },
+    "DEFENSE": {
+      "baseValue": 90
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 65
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 70
+    },
+    "SPEED": {
+      "baseValue": 65
+    }
+  }
+}

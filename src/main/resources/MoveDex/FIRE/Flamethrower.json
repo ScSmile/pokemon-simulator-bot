@@ -1,0 +1,8 @@
+{
+  "name": "Flamethrower",
+  "power": 95,
+  "accuracy": 100,
+  "type": "FIRE",
+  "category": "SPECIAL",
+  "recoil": 0
+}

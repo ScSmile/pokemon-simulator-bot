@@ -1,0 +1,8 @@
+{
+  "name": "Razor Leaf",
+  "power": 55,
+  "accuracy": 95,
+  "type": "GRASS",
+  "category": "SPECIAL",
+  "recoil": 0
+}

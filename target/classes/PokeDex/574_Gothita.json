@@ -1,0 +1,27 @@
+{
+  "id": 574,
+  "name": "Gothita",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 45
+    },
+    "ATTACK": {
+      "baseValue": 30
+    },
+    "DEFENSE": {
+      "baseValue": 50
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 55
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 65
+    },
+    "SPEED": {
+      "baseValue": 45
+    }
+  }
+}

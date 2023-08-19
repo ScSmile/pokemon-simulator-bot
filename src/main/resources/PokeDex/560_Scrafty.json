@@ -1,0 +1,28 @@
+{
+  "id": 560,
+  "name": "Scrafty",
+  "type": [
+    "DARK",
+    "FIGHTING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 65
+    },
+    "ATTACK": {
+      "baseValue": 90
+    },
+    "DEFENSE": {
+      "baseValue": 115
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 45
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 115
+    },
+    "SPEED": {
+      "baseValue": 58
+    }
+  }
+}

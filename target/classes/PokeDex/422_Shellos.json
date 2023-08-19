@@ -1,0 +1,27 @@
+{
+  "id": 422,
+  "name": "Shellos",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 76
+    },
+    "ATTACK": {
+      "baseValue": 48
+    },
+    "DEFENSE": {
+      "baseValue": 48
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 57
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 62
+    },
+    "SPEED": {
+      "baseValue": 34
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28,
+  "name": "Sandslash",
+  "type": [
+    "GROUND"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 75
+    },
+    "ATTACK": {
+      "baseValue": 100
+    },
+    "DEFENSE": {
+      "baseValue": 110
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 45
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 55
+    },
+    "SPEED": {
+      "baseValue": 65
+    }
+  }
+}

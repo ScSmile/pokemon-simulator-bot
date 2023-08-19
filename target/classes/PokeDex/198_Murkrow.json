@@ -1,0 +1,28 @@
+{
+  "id": 198,
+  "name": "Murkrow",
+  "type": [
+    "DARK",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 85
+    },
+    "DEFENSE": {
+      "baseValue": 42
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 85
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 42
+    },
+    "SPEED": {
+      "baseValue": 91
+    }
+  }
+}

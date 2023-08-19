@@ -1,0 +1,27 @@
+{
+  "id": 10,
+  "name": "Caterpie",
+  "type": [
+    "BUG"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 45
+    },
+    "ATTACK": {
+      "baseValue": 30
+    },
+    "DEFENSE": {
+      "baseValue": 35
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 20
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 20
+    },
+    "SPEED": {
+      "baseValue": 45
+    }
+  }
+}

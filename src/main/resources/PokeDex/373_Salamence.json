@@ -1,0 +1,28 @@
+{
+  "id": 373,
+  "name": "Salamence",
+  "type": [
+    "DRAGON",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 95
+    },
+    "ATTACK": {
+      "baseValue": 135
+    },
+    "DEFENSE": {
+      "baseValue": 80
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 110
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 80
+    },
+    "SPEED": {
+      "baseValue": 100
+    }
+  }
+}

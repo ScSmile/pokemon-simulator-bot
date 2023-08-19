@@ -1,0 +1,27 @@
+{
+  "id": 148,
+  "name": "Dragonair",
+  "type": [
+    "DRAGON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 61
+    },
+    "ATTACK": {
+      "baseValue": 84
+    },
+    "DEFENSE": {
+      "baseValue": 65
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 70
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 70
+    },
+    "SPEED": {
+      "baseValue": 70
+    }
+  }
+}

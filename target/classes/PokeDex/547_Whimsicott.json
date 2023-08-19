@@ -1,0 +1,28 @@
+{
+  "id": 547,
+  "name": "Whimsicott",
+  "type": [
+    "GRASS",
+    "FAIRY"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 67
+    },
+    "DEFENSE": {
+      "baseValue": 85
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 77
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 75
+    },
+    "SPEED": {
+      "baseValue": 116
+    }
+  }
+}

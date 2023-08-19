@@ -1,0 +1,27 @@
+{
+  "id": 117,
+  "name": "Seadra",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 55
+    },
+    "ATTACK": {
+      "baseValue": 65
+    },
+    "DEFENSE": {
+      "baseValue": 95
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 95
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 45
+    },
+    "SPEED": {
+      "baseValue": 85
+    }
+  }
+}

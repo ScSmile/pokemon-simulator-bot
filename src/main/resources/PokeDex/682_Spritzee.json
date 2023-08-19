@@ -1,0 +1,27 @@
+{
+  "id": 682,
+  "name": "Spritzee",
+  "type": [
+    "FAIRY"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 78
+    },
+    "ATTACK": {
+      "baseValue": 52
+    },
+    "DEFENSE": {
+      "baseValue": 60
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 63
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 65
+    },
+    "SPEED": {
+      "baseValue": 23
+    }
+  }
+}

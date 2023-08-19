@@ -1,0 +1,28 @@
+{
+  "id": 581,
+  "name": "Swanna",
+  "type": [
+    "WATER",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 75
+    },
+    "ATTACK": {
+      "baseValue": 87
+    },
+    "DEFENSE": {
+      "baseValue": 63
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 87
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 63
+    },
+    "SPEED": {
+      "baseValue": 98
+    }
+  }
+}

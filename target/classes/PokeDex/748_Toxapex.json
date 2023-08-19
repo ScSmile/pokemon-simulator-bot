@@ -1,0 +1,28 @@
+{
+  "id": 748,
+  "name": "Toxapex",
+  "type": [
+    "POISON",
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 50
+    },
+    "ATTACK": {
+      "baseValue": 63
+    },
+    "DEFENSE": {
+      "baseValue": 152
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 53
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 142
+    },
+    "SPEED": {
+      "baseValue": 35
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Faint Attack",
+  "power": 60,
+  "accuracy": 100,
+  "type": "DARK",
+  "category": "SPECIAL",
+  "recoil": 0
+}

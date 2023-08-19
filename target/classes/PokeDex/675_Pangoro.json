@@ -1,0 +1,28 @@
+{
+  "id": 675,
+  "name": "Pangoro",
+  "type": [
+    "FIGHTING",
+    "DARK"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 95
+    },
+    "ATTACK": {
+      "baseValue": 124
+    },
+    "DEFENSE": {
+      "baseValue": 78
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 69
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 71
+    },
+    "SPEED": {
+      "baseValue": 58
+    }
+  }
+}

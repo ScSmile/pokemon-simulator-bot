@@ -1,0 +1,28 @@
+{
+  "id": 794,
+  "name": "Buzzwole",
+  "type": [
+    "BUG",
+    "FIGHTING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 107
+    },
+    "ATTACK": {
+      "baseValue": 139
+    },
+    "DEFENSE": {
+      "baseValue": 139
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 53
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 53
+    },
+    "SPEED": {
+      "baseValue": 79
+    }
+  }
+}

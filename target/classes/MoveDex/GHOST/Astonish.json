@@ -1,0 +1,8 @@
+{
+  "name": "Astonish",
+  "power": 30,
+  "accuracy": 100,
+  "type": "GHOST",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

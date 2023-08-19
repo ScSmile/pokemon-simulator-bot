@@ -1,0 +1,27 @@
+{
+  "id": 24,
+  "name": "Arbok",
+  "type": [
+    "POISON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 95
+    },
+    "DEFENSE": {
+      "baseValue": 69
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 65
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 79
+    },
+    "SPEED": {
+      "baseValue": 80
+    }
+  }
+}

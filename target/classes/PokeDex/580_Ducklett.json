@@ -1,0 +1,28 @@
+{
+  "id": 580,
+  "name": "Ducklett",
+  "type": [
+    "WATER",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 62
+    },
+    "ATTACK": {
+      "baseValue": 44
+    },
+    "DEFENSE": {
+      "baseValue": 50
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 44
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 50
+    },
+    "SPEED": {
+      "baseValue": 55
+    }
+  }
+}

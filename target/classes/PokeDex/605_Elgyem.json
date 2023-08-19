@@ -1,0 +1,27 @@
+{
+  "id": 605,
+  "name": "Elgyem",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 55
+    },
+    "ATTACK": {
+      "baseValue": 55
+    },
+    "DEFENSE": {
+      "baseValue": 55
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 85
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 55
+    },
+    "SPEED": {
+      "baseValue": 30
+    }
+  }
+}

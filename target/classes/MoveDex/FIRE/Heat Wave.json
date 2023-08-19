@@ -1,0 +1,8 @@
+{
+  "name": "Heat Wave",
+  "power": 100,
+  "accuracy": 90,
+  "type": "FIRE",
+  "category": "SPECIAL",
+  "recoil": 0
+}

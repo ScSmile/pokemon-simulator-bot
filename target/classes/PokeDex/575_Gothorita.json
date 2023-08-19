@@ -1,0 +1,27 @@
+{
+  "id": 575,
+  "name": "Gothorita",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 45
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 75
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 85
+    },
+    "SPEED": {
+      "baseValue": 55
+    }
+  }
+}

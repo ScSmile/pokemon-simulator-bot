@@ -1,0 +1,27 @@
+{
+  "id": 288,
+  "name": "Vigoroth",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 80
+    },
+    "ATTACK": {
+      "baseValue": 80
+    },
+    "DEFENSE": {
+      "baseValue": 80
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 55
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 55
+    },
+    "SPEED": {
+      "baseValue": 90
+    }
+  }
+}

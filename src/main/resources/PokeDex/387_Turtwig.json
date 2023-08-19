@@ -1,0 +1,27 @@
+{
+  "id": 387,
+  "name": "Turtwig",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 55
+    },
+    "ATTACK": {
+      "baseValue": 68
+    },
+    "DEFENSE": {
+      "baseValue": 64
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 45
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 55
+    },
+    "SPEED": {
+      "baseValue": 31
+    }
+  }
+}

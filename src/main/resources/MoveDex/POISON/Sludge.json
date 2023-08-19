@@ -1,0 +1,8 @@
+{
+  "name": "Sludge",
+  "power": 65,
+  "accuracy": 100,
+  "type": "POISON",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 243,
+  "name": "Raikou",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 90
+    },
+    "ATTACK": {
+      "baseValue": 85
+    },
+    "DEFENSE": {
+      "baseValue": 75
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 115
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 100
+    },
+    "SPEED": {
+      "baseValue": 115
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Low Kick",
+  "power": 50,
+  "accuracy": 100,
+  "type": "FIGHTING",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

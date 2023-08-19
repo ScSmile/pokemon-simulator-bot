@@ -1,0 +1,28 @@
+{
+  "id": 473,
+  "name": "Mamoswine",
+  "type": [
+    "ICE",
+    "GROUND"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 110
+    },
+    "ATTACK": {
+      "baseValue": 130
+    },
+    "DEFENSE": {
+      "baseValue": 80
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 70
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 60
+    },
+    "SPEED": {
+      "baseValue": 80
+    }
+  }
+}

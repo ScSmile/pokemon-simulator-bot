@@ -1,0 +1,28 @@
+{
+  "id": 171,
+  "name": "Lanturn",
+  "type": [
+    "WATER",
+    "ELECTRIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 125
+    },
+    "ATTACK": {
+      "baseValue": 58
+    },
+    "DEFENSE": {
+      "baseValue": 58
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 76
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 76
+    },
+    "SPEED": {
+      "baseValue": 67
+    }
+  }
+}

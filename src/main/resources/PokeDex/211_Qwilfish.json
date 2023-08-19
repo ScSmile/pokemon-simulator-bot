@@ -1,0 +1,28 @@
+{
+  "id": 211,
+  "name": "Qwilfish",
+  "type": [
+    "WATER",
+    "POISON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 65
+    },
+    "ATTACK": {
+      "baseValue": 95
+    },
+    "DEFENSE": {
+      "baseValue": 85
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 55
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 55
+    },
+    "SPEED": {
+      "baseValue": 85
+    }
+  }
+}

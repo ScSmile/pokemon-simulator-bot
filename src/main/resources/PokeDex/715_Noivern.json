@@ -1,0 +1,28 @@
+{
+  "id": 715,
+  "name": "Noivern",
+  "type": [
+    "FLYING",
+    "DRAGON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 85
+    },
+    "ATTACK": {
+      "baseValue": 70
+    },
+    "DEFENSE": {
+      "baseValue": 80
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 97
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 80
+    },
+    "SPEED": {
+      "baseValue": 123
+    }
+  }
+}

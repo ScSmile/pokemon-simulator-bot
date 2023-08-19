@@ -1,0 +1,27 @@
+{
+  "id": 602,
+  "name": "Tynamo",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 35
+    },
+    "ATTACK": {
+      "baseValue": 55
+    },
+    "DEFENSE": {
+      "baseValue": 40
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 45
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 40
+    },
+    "SPEED": {
+      "baseValue": 60
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Superpower",
+  "power": 120,
+  "accuracy": 100,
+  "type": "FIGHTING",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

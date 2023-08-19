@@ -1,0 +1,27 @@
+{
+  "id": 402,
+  "name": "Kricketune",
+  "type": [
+    "BUG"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 77
+    },
+    "ATTACK": {
+      "baseValue": 85
+    },
+    "DEFENSE": {
+      "baseValue": 51
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 55
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 51
+    },
+    "SPEED": {
+      "baseValue": 65
+    }
+  }
+}

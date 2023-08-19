@@ -1,0 +1,28 @@
+{
+  "id": 636,
+  "name": "Larvesta",
+  "type": [
+    "BUG",
+    "FIRE"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 55
+    },
+    "ATTACK": {
+      "baseValue": 85
+    },
+    "DEFENSE": {
+      "baseValue": 55
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 50
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 55
+    },
+    "SPEED": {
+      "baseValue": 60
+    }
+  }
+}

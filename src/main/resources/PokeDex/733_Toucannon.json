@@ -1,0 +1,28 @@
+{
+  "id": 733,
+  "name": "Toucannon",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 80
+    },
+    "ATTACK": {
+      "baseValue": 120
+    },
+    "DEFENSE": {
+      "baseValue": 75
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 75
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 75
+    },
+    "SPEED": {
+      "baseValue": 60
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 230,
+  "name": "Kingdra",
+  "type": [
+    "WATER",
+    "DRAGON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 75
+    },
+    "ATTACK": {
+      "baseValue": 95
+    },
+    "DEFENSE": {
+      "baseValue": 95
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 95
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 95
+    },
+    "SPEED": {
+      "baseValue": 85
+    }
+  }
+}

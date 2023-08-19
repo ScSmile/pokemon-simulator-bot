@@ -1,0 +1,28 @@
+{
+  "id": 774,
+  "name": "Minior",
+  "type": [
+    "ROCK",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 60
+    },
+    "DEFENSE": {
+      "baseValue": 100
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 60
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 100
+    },
+    "SPEED": {
+      "baseValue": 60
+    }
+  }
+}

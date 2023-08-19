@@ -1,0 +1,28 @@
+{
+  "id": 87,
+  "name": "Dewgong",
+  "type": [
+    "WATER",
+    "ICE"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 90
+    },
+    "ATTACK": {
+      "baseValue": 70
+    },
+    "DEFENSE": {
+      "baseValue": 80
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 70
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 95
+    },
+    "SPEED": {
+      "baseValue": 70
+    }
+  }
+}

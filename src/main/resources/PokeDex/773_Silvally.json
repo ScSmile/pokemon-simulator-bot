@@ -1,0 +1,27 @@
+{
+  "id": 773,
+  "name": "Silvally",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 95
+    },
+    "ATTACK": {
+      "baseValue": 95
+    },
+    "DEFENSE": {
+      "baseValue": 95
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 95
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 95
+    },
+    "SPEED": {
+      "baseValue": 95
+    }
+  }
+}

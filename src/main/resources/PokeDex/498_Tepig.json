@@ -1,0 +1,27 @@
+{
+  "id": 498,
+  "name": "Tepig",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 65
+    },
+    "ATTACK": {
+      "baseValue": 63
+    },
+    "DEFENSE": {
+      "baseValue": 45
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 45
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 45
+    },
+    "SPEED": {
+      "baseValue": 45
+    }
+  }
+}

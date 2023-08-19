@@ -1,0 +1,27 @@
+{
+  "id": 683,
+  "name": "Aromatisse",
+  "type": [
+    "FAIRY"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 101
+    },
+    "ATTACK": {
+      "baseValue": 72
+    },
+    "DEFENSE": {
+      "baseValue": 72
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 99
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 89
+    },
+    "SPEED": {
+      "baseValue": 29
+    }
+  }
+}

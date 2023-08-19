@@ -1,0 +1,8 @@
+{
+  "name": "Overheat",
+  "power": 140,
+  "accuracy": 90,
+  "type": "FIRE",
+  "category": "SPECIAL",
+  "recoil": 0
+}

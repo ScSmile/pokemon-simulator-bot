@@ -1,0 +1,28 @@
+{
+  "id": 544,
+  "name": "Whirlipede",
+  "type": [
+    "BUG",
+    "POISON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 40
+    },
+    "ATTACK": {
+      "baseValue": 55
+    },
+    "DEFENSE": {
+      "baseValue": 99
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 40
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 79
+    },
+    "SPEED": {
+      "baseValue": 47
+    }
+  }
+}

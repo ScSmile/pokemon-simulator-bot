@@ -1,0 +1,27 @@
+{
+  "id": 729,
+  "name": "Brionne",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 69
+    },
+    "DEFENSE": {
+      "baseValue": 69
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 91
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 81
+    },
+    "SPEED": {
+      "baseValue": 50
+    }
+  }
+}

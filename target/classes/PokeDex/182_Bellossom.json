@@ -1,0 +1,27 @@
+{
+  "id": 182,
+  "name": "Bellossom",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 75
+    },
+    "ATTACK": {
+      "baseValue": 80
+    },
+    "DEFENSE": {
+      "baseValue": 95
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 90
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 100
+    },
+    "SPEED": {
+      "baseValue": 50
+    }
+  }
+}

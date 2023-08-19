@@ -1,0 +1,28 @@
+{
+  "id": 275,
+  "name": "Shiftry",
+  "type": [
+    "GRASS",
+    "DARK"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 90
+    },
+    "ATTACK": {
+      "baseValue": 100
+    },
+    "DEFENSE": {
+      "baseValue": 60
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 90
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 60
+    },
+    "SPEED": {
+      "baseValue": 80
+    }
+  }
+}

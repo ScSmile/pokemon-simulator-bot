@@ -1,0 +1,27 @@
+{
+  "id": 704,
+  "name": "Goomy",
+  "type": [
+    "DRAGON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 45
+    },
+    "ATTACK": {
+      "baseValue": 50
+    },
+    "DEFENSE": {
+      "baseValue": 35
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 55
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 75
+    },
+    "SPEED": {
+      "baseValue": 40
+    }
+  }
+}

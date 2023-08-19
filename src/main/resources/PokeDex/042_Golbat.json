@@ -1,0 +1,28 @@
+{
+  "id": 42,
+  "name": "Golbat",
+  "type": [
+    "POISON",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 75
+    },
+    "ATTACK": {
+      "baseValue": 80
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 65
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 75
+    },
+    "SPEED": {
+      "baseValue": 90
+    }
+  }
+}

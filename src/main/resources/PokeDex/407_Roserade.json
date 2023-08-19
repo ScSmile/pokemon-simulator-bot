@@ -1,0 +1,28 @@
+{
+  "id": 407,
+  "name": "Roserade",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 70
+    },
+    "DEFENSE": {
+      "baseValue": 65
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 125
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 105
+    },
+    "SPEED": {
+      "baseValue": 90
+    }
+  }
+}

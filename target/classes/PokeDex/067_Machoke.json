@@ -1,0 +1,27 @@
+{
+  "id": 67,
+  "name": "Machoke",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 80
+    },
+    "ATTACK": {
+      "baseValue": 100
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 50
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 60
+    },
+    "SPEED": {
+      "baseValue": 45
+    }
+  }
+}

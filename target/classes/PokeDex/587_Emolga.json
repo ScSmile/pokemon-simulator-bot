@@ -1,0 +1,28 @@
+{
+  "id": 587,
+  "name": "Emolga",
+  "type": [
+    "ELECTRIC",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 55
+    },
+    "ATTACK": {
+      "baseValue": 75
+    },
+    "DEFENSE": {
+      "baseValue": 60
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 75
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 60
+    },
+    "SPEED": {
+      "baseValue": 103
+    }
+  }
+}

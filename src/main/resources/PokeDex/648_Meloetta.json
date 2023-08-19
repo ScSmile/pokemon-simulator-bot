@@ -1,0 +1,28 @@
+{
+  "id": 648,
+  "name": "Meloetta",
+  "type": [
+    "NORMAL",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 100
+    },
+    "ATTACK": {
+      "baseValue": 77
+    },
+    "DEFENSE": {
+      "baseValue": 77
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 128
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 128
+    },
+    "SPEED": {
+      "baseValue": 90
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 161,
+  "name": "Sentret",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 35
+    },
+    "ATTACK": {
+      "baseValue": 46
+    },
+    "DEFENSE": {
+      "baseValue": 34
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 35
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 45
+    },
+    "SPEED": {
+      "baseValue": 20
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Steel Wing",
+  "power": 70,
+  "accuracy": 10,
+  "type": "STEEL",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

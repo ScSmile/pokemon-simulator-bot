@@ -1,0 +1,27 @@
+{
+  "id": 503,
+  "name": "Samurott",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 95
+    },
+    "ATTACK": {
+      "baseValue": 100
+    },
+    "DEFENSE": {
+      "baseValue": 85
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 108
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 70
+    },
+    "SPEED": {
+      "baseValue": 70
+    }
+  }
+}

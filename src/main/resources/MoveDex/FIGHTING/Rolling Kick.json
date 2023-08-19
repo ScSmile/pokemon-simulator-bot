@@ -1,0 +1,8 @@
+{
+  "name": "Rolling Kick",
+  "power": 60,
+  "accuracy": 85,
+  "type": "FIGHTING",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

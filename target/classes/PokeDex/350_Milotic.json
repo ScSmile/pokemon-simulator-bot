@@ -1,0 +1,27 @@
+{
+  "id": 350,
+  "name": "Milotic",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 95
+    },
+    "ATTACK": {
+      "baseValue": 60
+    },
+    "DEFENSE": {
+      "baseValue": 79
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 100
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 125
+    },
+    "SPEED": {
+      "baseValue": 81
+    }
+  }
+}

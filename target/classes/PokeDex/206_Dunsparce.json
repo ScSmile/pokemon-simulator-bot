@@ -1,0 +1,27 @@
+{
+  "id": 206,
+  "name": "Dunsparce",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 100
+    },
+    "ATTACK": {
+      "baseValue": 70
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 65
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 65
+    },
+    "SPEED": {
+      "baseValue": 45
+    }
+  }
+}

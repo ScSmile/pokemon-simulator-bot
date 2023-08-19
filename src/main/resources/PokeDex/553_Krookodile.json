@@ -1,0 +1,28 @@
+{
+  "id": 553,
+  "name": "Krookodile",
+  "type": [
+    "GROUND",
+    "DARK"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 95
+    },
+    "ATTACK": {
+      "baseValue": 117
+    },
+    "DEFENSE": {
+      "baseValue": 80
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 65
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 70
+    },
+    "SPEED": {
+      "baseValue": 92
+    }
+  }
+}

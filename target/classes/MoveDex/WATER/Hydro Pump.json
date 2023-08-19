@@ -1,0 +1,8 @@
+{
+  "name": "Hydro Pump",
+  "power": 120,
+  "accuracy": 80,
+  "type": "WATER",
+  "category": "SPECIAL",
+  "recoil": 0
+}

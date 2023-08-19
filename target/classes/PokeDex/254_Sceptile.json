@@ -1,0 +1,27 @@
+{
+  "id": 254,
+  "name": "Sceptile",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 70
+    },
+    "ATTACK": {
+      "baseValue": 85
+    },
+    "DEFENSE": {
+      "baseValue": 65
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 105
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 85
+    },
+    "SPEED": {
+      "baseValue": 120
+    }
+  }
+}

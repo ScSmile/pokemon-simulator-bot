@@ -1,0 +1,27 @@
+{
+  "id": 594,
+  "name": "Alomomola",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 165
+    },
+    "ATTACK": {
+      "baseValue": 75
+    },
+    "DEFENSE": {
+      "baseValue": 80
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 40
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 45
+    },
+    "SPEED": {
+      "baseValue": 65
+    }
+  }
+}

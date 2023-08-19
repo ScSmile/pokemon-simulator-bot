@@ -1,0 +1,27 @@
+{
+  "id": 438,
+  "name": "Bonsly",
+  "type": [
+    "ROCK"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 50
+    },
+    "ATTACK": {
+      "baseValue": 80
+    },
+    "DEFENSE": {
+      "baseValue": 95
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 10
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 45
+    },
+    "SPEED": {
+      "baseValue": 10
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Slam",
+  "power": 80,
+  "accuracy": 75,
+  "type": "NORMAL",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

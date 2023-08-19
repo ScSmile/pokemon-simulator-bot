@@ -1,0 +1,28 @@
+{
+  "id": 681,
+  "name": "Aegislash",
+  "type": [
+    "STEEL",
+    "GHOST"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 50
+    },
+    "DEFENSE": {
+      "baseValue": 150
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 50
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 150
+    },
+    "SPEED": {
+      "baseValue": 60
+    }
+  }
+}

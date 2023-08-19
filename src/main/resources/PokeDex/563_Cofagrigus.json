@@ -1,0 +1,27 @@
+{
+  "id": 563,
+  "name": "Cofagrigus",
+  "type": [
+    "GHOST"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 58
+    },
+    "ATTACK": {
+      "baseValue": 50
+    },
+    "DEFENSE": {
+      "baseValue": 145
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 95
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 105
+    },
+    "SPEED": {
+      "baseValue": 30
+    }
+  }
+}

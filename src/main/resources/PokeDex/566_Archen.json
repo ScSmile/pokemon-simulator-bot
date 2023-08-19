@@ -1,0 +1,28 @@
+{
+  "id": 566,
+  "name": "Archen",
+  "type": [
+    "ROCK",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 55
+    },
+    "ATTACK": {
+      "baseValue": 112
+    },
+    "DEFENSE": {
+      "baseValue": 45
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 74
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 45
+    },
+    "SPEED": {
+      "baseValue": 70
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 450,
+  "name": "Hippowdon",
+  "type": [
+    "GROUND"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 108
+    },
+    "ATTACK": {
+      "baseValue": 112
+    },
+    "DEFENSE": {
+      "baseValue": 118
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 68
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 72
+    },
+    "SPEED": {
+      "baseValue": 47
+    }
+  }
+}

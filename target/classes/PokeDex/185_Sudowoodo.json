@@ -1,0 +1,27 @@
+{
+  "id": 185,
+  "name": "Sudowoodo",
+  "type": [
+    "ROCK"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 70
+    },
+    "ATTACK": {
+      "baseValue": 100
+    },
+    "DEFENSE": {
+      "baseValue": 115
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 30
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 65
+    },
+    "SPEED": {
+      "baseValue": 30
+    }
+  }
+}

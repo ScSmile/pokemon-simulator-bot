@@ -1,0 +1,27 @@
+{
+  "id": 20,
+  "name": "Raticate",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 55
+    },
+    "ATTACK": {
+      "baseValue": 81
+    },
+    "DEFENSE": {
+      "baseValue": 60
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 50
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 70
+    },
+    "SPEED": {
+      "baseValue": 97
+    }
+  }
+}

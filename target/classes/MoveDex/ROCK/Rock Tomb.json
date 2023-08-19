@@ -1,0 +1,8 @@
+{
+  "name": "Rock Tomb",
+  "power": 50,
+  "accuracy": 80,
+  "type": "ROCK",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

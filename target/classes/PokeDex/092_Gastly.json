@@ -1,0 +1,28 @@
+{
+  "id": 92,
+  "name": "Gastly",
+  "type": [
+    "GHOST",
+    "POISON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 30
+    },
+    "ATTACK": {
+      "baseValue": 35
+    },
+    "DEFENSE": {
+      "baseValue": 30
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 100
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 35
+    },
+    "SPEED": {
+      "baseValue": 80
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 775,
+  "name": "Komala",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 65
+    },
+    "ATTACK": {
+      "baseValue": 115
+    },
+    "DEFENSE": {
+      "baseValue": 65
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 75
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 95
+    },
+    "SPEED": {
+      "baseValue": 65
+    }
+  }
+}

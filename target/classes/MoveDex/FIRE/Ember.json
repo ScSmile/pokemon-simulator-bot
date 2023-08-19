@@ -1,0 +1,8 @@
+{
+  "name": "Ember",
+  "power": 40,
+  "accuracy": 100,
+  "type": "FIRE",
+  "category": "SPECIAL",
+  "recoil": 0
+}

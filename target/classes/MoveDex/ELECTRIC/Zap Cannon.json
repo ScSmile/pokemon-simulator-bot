@@ -1,0 +1,8 @@
+{
+  "name": "Zap Cannon",
+  "power": 100,
+  "accuracy": 50,
+  "type": "ELECTRIC",
+  "category": "SPECIAL",
+  "recoil": 0
+}

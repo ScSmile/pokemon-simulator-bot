@@ -1,0 +1,27 @@
+{
+  "id": 578,
+  "name": "Duosion",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 65
+    },
+    "ATTACK": {
+      "baseValue": 40
+    },
+    "DEFENSE": {
+      "baseValue": 50
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 125
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 60
+    },
+    "SPEED": {
+      "baseValue": 30
+    }
+  }
+}

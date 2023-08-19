@@ -1,0 +1,27 @@
+{
+  "id": 160,
+  "name": "Feraligatr",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 85
+    },
+    "ATTACK": {
+      "baseValue": 105
+    },
+    "DEFENSE": {
+      "baseValue": 100
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 79
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 83
+    },
+    "SPEED": {
+      "baseValue": 78
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 797,
+  "name": "Celesteela",
+  "type": [
+    "STEEL",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 97
+    },
+    "ATTACK": {
+      "baseValue": 101
+    },
+    "DEFENSE": {
+      "baseValue": 103
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 107
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 101
+    },
+    "SPEED": {
+      "baseValue": 61
+    }
+  }
+}

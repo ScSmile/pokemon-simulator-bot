@@ -1,0 +1,27 @@
+{
+  "id": 753,
+  "name": "Fomantis",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 40
+    },
+    "ATTACK": {
+      "baseValue": 55
+    },
+    "DEFENSE": {
+      "baseValue": 35
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 50
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 35
+    },
+    "SPEED": {
+      "baseValue": 35
+    }
+  }
+}

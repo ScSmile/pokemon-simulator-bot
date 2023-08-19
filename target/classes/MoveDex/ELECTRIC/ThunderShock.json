@@ -1,0 +1,8 @@
+{
+  "name": "ThunderShock",
+  "power": 40,
+  "accuracy": 100,
+  "type": "ELECTRIC",
+  "category": "SPECIAL",
+  "recoil": 0
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Constrict",
+  "power": 10,
+  "accuracy": 100,
+  "type": "NORMAL",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

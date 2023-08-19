@@ -1,0 +1,28 @@
+{
+  "id": 280,
+  "name": "Ralts",
+  "type": [
+    "PSYCHIC",
+    "FAIRY"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 28
+    },
+    "ATTACK": {
+      "baseValue": 25
+    },
+    "DEFENSE": {
+      "baseValue": 25
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 45
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 35
+    },
+    "SPEED": {
+      "baseValue": 40
+    }
+  }
+}

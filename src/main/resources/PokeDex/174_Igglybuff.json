@@ -1,0 +1,28 @@
+{
+  "id": 174,
+  "name": "Igglybuff",
+  "type": [
+    "NORMAL",
+    "FAIRY"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 90
+    },
+    "ATTACK": {
+      "baseValue": 30
+    },
+    "DEFENSE": {
+      "baseValue": 15
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 40
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 20
+    },
+    "SPEED": {
+      "baseValue": 15
+    }
+  }
+}

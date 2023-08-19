@@ -1,0 +1,8 @@
+{
+  "name": "Iron Tail",
+  "power": 100,
+  "accuracy": 75,
+  "type": "STEEL",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

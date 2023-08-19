@@ -1,0 +1,28 @@
+{
+  "id": 141,
+  "name": "Kabutops",
+  "type": [
+    "ROCK",
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 115
+    },
+    "DEFENSE": {
+      "baseValue": 105
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 65
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 70
+    },
+    "SPEED": {
+      "baseValue": 80
+    }
+  }
+}

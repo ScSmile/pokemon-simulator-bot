@@ -1,0 +1,27 @@
+{
+  "id": 790,
+  "name": "Cosmoem",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 43
+    },
+    "ATTACK": {
+      "baseValue": 29
+    },
+    "DEFENSE": {
+      "baseValue": 131
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 29
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 131
+    },
+    "SPEED": {
+      "baseValue": 37
+    }
+  }
+}

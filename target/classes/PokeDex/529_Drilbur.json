@@ -1,0 +1,27 @@
+{
+  "id": 529,
+  "name": "Drilbur",
+  "type": [
+    "GROUND"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 85
+    },
+    "DEFENSE": {
+      "baseValue": 40
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 30
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 45
+    },
+    "SPEED": {
+      "baseValue": 68
+    }
+  }
+}

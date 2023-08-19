@@ -1,0 +1,27 @@
+{
+  "id": 677,
+  "name": "Espurr",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 62
+    },
+    "ATTACK": {
+      "baseValue": 48
+    },
+    "DEFENSE": {
+      "baseValue": 54
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 63
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 60
+    },
+    "SPEED": {
+      "baseValue": 68
+    }
+  }
+}

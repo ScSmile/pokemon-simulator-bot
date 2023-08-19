@@ -1,0 +1,27 @@
+{
+  "id": 368,
+  "name": "Gorebyss",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 55
+    },
+    "ATTACK": {
+      "baseValue": 84
+    },
+    "DEFENSE": {
+      "baseValue": 105
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 114
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 75
+    },
+    "SPEED": {
+      "baseValue": 52
+    }
+  }
+}

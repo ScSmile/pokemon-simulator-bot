@@ -1,0 +1,28 @@
+{
+  "id": 43,
+  "name": "Oddish",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 45
+    },
+    "ATTACK": {
+      "baseValue": 50
+    },
+    "DEFENSE": {
+      "baseValue": 55
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 75
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 65
+    },
+    "SPEED": {
+      "baseValue": 30
+    }
+  }
+}

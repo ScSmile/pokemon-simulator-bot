@@ -1,0 +1,27 @@
+{
+  "id": 223,
+  "name": "Remoraid",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 35
+    },
+    "ATTACK": {
+      "baseValue": 65
+    },
+    "DEFENSE": {
+      "baseValue": 35
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 65
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 35
+    },
+    "SPEED": {
+      "baseValue": 65
+    }
+  }
+}

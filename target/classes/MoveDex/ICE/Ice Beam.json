@@ -1,0 +1,8 @@
+{
+  "name": "Ice Beam",
+  "power": 95,
+  "accuracy": 100,
+  "type": "ICE",
+  "category": "SPECIAL",
+  "recoil": 0
+}

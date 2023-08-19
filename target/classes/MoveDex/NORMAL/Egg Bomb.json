@@ -1,0 +1,8 @@
+{
+  "name": "Egg Bomb",
+  "power": 100,
+  "accuracy": 75,
+  "type": "NORMAL",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

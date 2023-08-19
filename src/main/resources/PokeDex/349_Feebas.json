@@ -1,0 +1,27 @@
+{
+  "id": 349,
+  "name": "Feebas",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 20
+    },
+    "ATTACK": {
+      "baseValue": 15
+    },
+    "DEFENSE": {
+      "baseValue": 20
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 10
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 55
+    },
+    "SPEED": {
+      "baseValue": 80
+    }
+  }
+}

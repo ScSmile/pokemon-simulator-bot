@@ -1,0 +1,8 @@
+{
+  "name": "Rock Throw",
+  "power": 50,
+  "accuracy": 90,
+  "type": "ROCK",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

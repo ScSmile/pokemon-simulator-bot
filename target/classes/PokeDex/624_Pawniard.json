@@ -1,0 +1,28 @@
+{
+  "id": 624,
+  "name": "Pawniard",
+  "type": [
+    "DARK",
+    "STEEL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 45
+    },
+    "ATTACK": {
+      "baseValue": 85
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 40
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 40
+    },
+    "SPEED": {
+      "baseValue": 60
+    }
+  }
+}

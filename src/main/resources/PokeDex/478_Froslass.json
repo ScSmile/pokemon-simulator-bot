@@ -1,0 +1,28 @@
+{
+  "id": 478,
+  "name": "Froslass",
+  "type": [
+    "ICE",
+    "GHOST"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 70
+    },
+    "ATTACK": {
+      "baseValue": 80
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 80
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 70
+    },
+    "SPEED": {
+      "baseValue": 110
+    }
+  }
+}

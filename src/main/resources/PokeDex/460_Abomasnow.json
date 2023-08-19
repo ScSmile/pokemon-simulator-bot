@@ -1,0 +1,28 @@
+{
+  "id": 460,
+  "name": "Abomasnow",
+  "type": [
+    "GRASS",
+    "ICE"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 90
+    },
+    "ATTACK": {
+      "baseValue": 92
+    },
+    "DEFENSE": {
+      "baseValue": 75
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 92
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 85
+    },
+    "SPEED": {
+      "baseValue": 60
+    }
+  }
+}

@@ -1,0 +1,12 @@
+enum Command {
+  START,
+  HELP,
+  NON_COMMAND,
+  MANUAL,
+  RANDOM,
+  YES,
+  NO,
+  CORRECT_INPUT,
+  RESTART,
+  BACK
+}

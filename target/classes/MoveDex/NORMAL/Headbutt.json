@@ -1,0 +1,8 @@
+{
+  "name": "Headbutt",
+  "power": 70,
+  "accuracy": 100,
+  "type": "NORMAL",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

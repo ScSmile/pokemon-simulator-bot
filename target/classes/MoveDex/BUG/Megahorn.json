@@ -1,0 +1,8 @@
+{
+  "name": "Megahorn",
+  "power": 120,
+  "accuracy": 85,
+  "type": "BUG",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

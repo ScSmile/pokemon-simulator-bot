@@ -1,0 +1,28 @@
+{
+  "id": 346,
+  "name": "Cradily",
+  "type": [
+    "ROCK",
+    "GRASS"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 86
+    },
+    "ATTACK": {
+      "baseValue": 81
+    },
+    "DEFENSE": {
+      "baseValue": 97
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 81
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 107
+    },
+    "SPEED": {
+      "baseValue": 43
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 695,
+  "name": "Heliolisk",
+  "type": [
+    "ELECTRIC",
+    "NORMAL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 62
+    },
+    "ATTACK": {
+      "baseValue": 55
+    },
+    "DEFENSE": {
+      "baseValue": 52
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 109
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 94
+    },
+    "SPEED": {
+      "baseValue": 109
+    }
+  }
+}

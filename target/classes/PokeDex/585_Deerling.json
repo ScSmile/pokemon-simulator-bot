@@ -1,0 +1,28 @@
+{
+  "id": 585,
+  "name": "Deerling",
+  "type": [
+    "NORMAL",
+    "GRASS"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 60
+    },
+    "DEFENSE": {
+      "baseValue": 50
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 40
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 50
+    },
+    "SPEED": {
+      "baseValue": 75
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 257,
+  "name": "Blaziken",
+  "type": [
+    "FIRE",
+    "FIGHTING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 80
+    },
+    "ATTACK": {
+      "baseValue": 120
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 110
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 70
+    },
+    "SPEED": {
+      "baseValue": 80
+    }
+  }
+}

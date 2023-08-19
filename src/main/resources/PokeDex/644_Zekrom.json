@@ -1,0 +1,28 @@
+{
+  "id": 644,
+  "name": "Zekrom",
+  "type": [
+    "DRAGON",
+    "ELECTRIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 100
+    },
+    "ATTACK": {
+      "baseValue": 150
+    },
+    "DEFENSE": {
+      "baseValue": 120
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 120
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 100
+    },
+    "SPEED": {
+      "baseValue": 90
+    }
+  }
+}

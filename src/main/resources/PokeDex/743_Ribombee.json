@@ -1,0 +1,28 @@
+{
+  "id": 743,
+  "name": "Ribombee",
+  "type": [
+    "BUG",
+    "FAIRY"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 55
+    },
+    "DEFENSE": {
+      "baseValue": 60
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 95
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 70
+    },
+    "SPEED": {
+      "baseValue": 124
+    }
+  }
+}

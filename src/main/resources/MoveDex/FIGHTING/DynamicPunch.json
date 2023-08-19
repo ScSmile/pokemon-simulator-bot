@@ -1,0 +1,8 @@
+{
+  "name": "DynamicPunch",
+  "power": 100,
+  "accuracy": 50,
+  "type": "FIGHTING",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

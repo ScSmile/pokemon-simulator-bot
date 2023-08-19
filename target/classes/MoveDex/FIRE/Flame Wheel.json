@@ -1,0 +1,8 @@
+{
+  "name": "Flame Wheel",
+  "power": 60,
+  "accuracy": 100,
+  "type": "FIRE",
+  "category": "SPECIAL",
+  "recoil": 0
+}

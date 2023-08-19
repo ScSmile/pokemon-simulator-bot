@@ -1,0 +1,8 @@
+{
+  "name": "Psybeam",
+  "power": 65,
+  "accuracy": 100,
+  "type": "PSYCHIC",
+  "category": "SPECIAL",
+  "recoil": 0
+}

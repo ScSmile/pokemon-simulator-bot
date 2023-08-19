@@ -1,0 +1,8 @@
+{
+  "name": "Body Slam",
+  "power": 85,
+  "accuracy": 100,
+  "type": "NORMAL",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 589,
+  "name": "Escavalier",
+  "type": [
+    "BUG",
+    "STEEL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 70
+    },
+    "ATTACK": {
+      "baseValue": 135
+    },
+    "DEFENSE": {
+      "baseValue": 105
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 60
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 105
+    },
+    "SPEED": {
+      "baseValue": 20
+    }
+  }
+}

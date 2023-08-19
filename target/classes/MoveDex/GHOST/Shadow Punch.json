@@ -1,0 +1,8 @@
+{
+  "name": "Shadow Punch",
+  "power": 60,
+  "accuracy": 100,
+  "type": "GHOST",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

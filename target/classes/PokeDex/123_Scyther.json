@@ -1,0 +1,28 @@
+{
+  "id": 123,
+  "name": "Scyther",
+  "type": [
+    "BUG",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 70
+    },
+    "ATTACK": {
+      "baseValue": 110
+    },
+    "DEFENSE": {
+      "baseValue": 80
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 55
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 80
+    },
+    "SPEED": {
+      "baseValue": 105
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 107,
+  "name": "Hitmonchan",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 50
+    },
+    "ATTACK": {
+      "baseValue": 105
+    },
+    "DEFENSE": {
+      "baseValue": 79
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 35
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 110
+    },
+    "SPEED": {
+      "baseValue": 76
+    }
+  }
+}

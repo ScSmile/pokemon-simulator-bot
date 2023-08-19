@@ -1,0 +1,27 @@
+{
+  "id": 523,
+  "name": "Zebstrika",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 75
+    },
+    "ATTACK": {
+      "baseValue": 100
+    },
+    "DEFENSE": {
+      "baseValue": 63
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 80
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 63
+    },
+    "SPEED": {
+      "baseValue": 116
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Confusion",
+  "power": 50,
+  "accuracy": 100,
+  "type": "PSYCHIC",
+  "category": "SPECIAL",
+  "recoil": 0
+}

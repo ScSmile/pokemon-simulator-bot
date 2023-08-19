@@ -1,0 +1,28 @@
+{
+  "id": 637,
+  "name": "Volcarona",
+  "type": [
+    "BUG",
+    "FIRE"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 85
+    },
+    "ATTACK": {
+      "baseValue": 60
+    },
+    "DEFENSE": {
+      "baseValue": 65
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 135
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 105
+    },
+    "SPEED": {
+      "baseValue": 100
+    }
+  }
+}

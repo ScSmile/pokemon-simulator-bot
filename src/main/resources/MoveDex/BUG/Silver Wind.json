@@ -1,0 +1,8 @@
+{
+  "name": "Silver Wind",
+  "power": 60,
+  "accuracy": 100,
+  "type": "BUG",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

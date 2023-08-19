@@ -1,0 +1,27 @@
+{
+  "id": 64,
+  "name": "Kadabra",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 40
+    },
+    "ATTACK": {
+      "baseValue": 35
+    },
+    "DEFENSE": {
+      "baseValue": 30
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 120
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 70
+    },
+    "SPEED": {
+      "baseValue": 105
+    }
+  }
+}

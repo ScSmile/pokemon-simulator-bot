@@ -1,0 +1,27 @@
+{
+  "id": 706,
+  "name": "Goodra",
+  "type": [
+    "DRAGON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 90
+    },
+    "ATTACK": {
+      "baseValue": 100
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 110
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 150
+    },
+    "SPEED": {
+      "baseValue": 80
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 788,
+  "name": "Tapu Fini",
+  "type": [
+    "WATER",
+    "FAIRY"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 70
+    },
+    "ATTACK": {
+      "baseValue": 75
+    },
+    "DEFENSE": {
+      "baseValue": 115
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 95
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 130
+    },
+    "SPEED": {
+      "baseValue": 85
+    }
+  }
+}

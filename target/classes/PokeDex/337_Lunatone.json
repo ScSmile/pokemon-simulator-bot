@@ -1,0 +1,28 @@
+{
+  "id": 337,
+  "name": "Lunatone",
+  "type": [
+    "ROCK",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 90
+    },
+    "ATTACK": {
+      "baseValue": 55
+    },
+    "DEFENSE": {
+      "baseValue": 65
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 95
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 85
+    },
+    "SPEED": {
+      "baseValue": 70
+    }
+  }
+}

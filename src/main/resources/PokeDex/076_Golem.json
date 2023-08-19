@@ -1,0 +1,28 @@
+{
+  "id": 76,
+  "name": "Golem",
+  "type": [
+    "ROCK",
+    "GROUND"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 80
+    },
+    "ATTACK": {
+      "baseValue": 120
+    },
+    "DEFENSE": {
+      "baseValue": 130
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 55
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 65
+    },
+    "SPEED": {
+      "baseValue": 45
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 766,
+  "name": "Passimian",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 100
+    },
+    "ATTACK": {
+      "baseValue": 120
+    },
+    "DEFENSE": {
+      "baseValue": 90
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 40
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 60
+    },
+    "SPEED": {
+      "baseValue": 80
+    }
+  }
+}

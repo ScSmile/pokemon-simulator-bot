@@ -1,0 +1,28 @@
+{
+  "id": 435,
+  "name": "Skuntank",
+  "type": [
+    "POISON",
+    "DARK"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 103
+    },
+    "ATTACK": {
+      "baseValue": 93
+    },
+    "DEFENSE": {
+      "baseValue": 67
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 71
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 61
+    },
+    "SPEED": {
+      "baseValue": 84
+    }
+  }
+}

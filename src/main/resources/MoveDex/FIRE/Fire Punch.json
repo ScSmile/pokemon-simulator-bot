@@ -1,0 +1,8 @@
+{
+  "name": "Fire Punch",
+  "power": 75,
+  "accuracy": 100,
+  "type": "FIRE",
+  "category": "SPECIAL",
+  "recoil": 0
+}

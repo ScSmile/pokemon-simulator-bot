@@ -1,0 +1,27 @@
+{
+  "id": 116,
+  "name": "Horsea",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 30
+    },
+    "ATTACK": {
+      "baseValue": 40
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 70
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 25
+    },
+    "SPEED": {
+      "baseValue": 60
+    }
+  }
+}

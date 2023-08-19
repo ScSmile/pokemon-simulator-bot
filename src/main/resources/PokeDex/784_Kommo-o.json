@@ -1,0 +1,28 @@
+{
+  "id": 784,
+  "name": "Kommo-o",
+  "type": [
+    "DRAGON",
+    "FIGHTING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 75
+    },
+    "ATTACK": {
+      "baseValue": 110
+    },
+    "DEFENSE": {
+      "baseValue": 125
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 100
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 105
+    },
+    "SPEED": {
+      "baseValue": 85
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 533,
+  "name": "Gurdurr",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 85
+    },
+    "ATTACK": {
+      "baseValue": 105
+    },
+    "DEFENSE": {
+      "baseValue": 85
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 40
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 50
+    },
+    "SPEED": {
+      "baseValue": 40
+    }
+  }
+}

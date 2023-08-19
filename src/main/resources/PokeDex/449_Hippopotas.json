@@ -1,0 +1,27 @@
+{
+  "id": 449,
+  "name": "Hippopotas",
+  "type": [
+    "GROUND"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 68
+    },
+    "ATTACK": {
+      "baseValue": 72
+    },
+    "DEFENSE": {
+      "baseValue": 78
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 38
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 42
+    },
+    "SPEED": {
+      "baseValue": 32
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 279,
+  "name": "Pelipper",
+  "type": [
+    "WATER",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 50
+    },
+    "DEFENSE": {
+      "baseValue": 100
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 95
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 70
+    },
+    "SPEED": {
+      "baseValue": 65
+    }
+  }
+}

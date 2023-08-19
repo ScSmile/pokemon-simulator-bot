@@ -1,0 +1,27 @@
+{
+  "id": 650,
+  "name": "Chespin",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 56
+    },
+    "ATTACK": {
+      "baseValue": 61
+    },
+    "DEFENSE": {
+      "baseValue": 65
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 48
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 45
+    },
+    "SPEED": {
+      "baseValue": 38
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 272,
+  "name": "Ludicolo",
+  "type": [
+    "WATER",
+    "GRASS"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 80
+    },
+    "ATTACK": {
+      "baseValue": 70
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 90
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 100
+    },
+    "SPEED": {
+      "baseValue": 70
+    }
+  }
+}

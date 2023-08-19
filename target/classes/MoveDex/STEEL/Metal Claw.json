@@ -1,0 +1,8 @@
+{
+  "name": "Metal Claw",
+  "power": 50,
+  "accuracy": 95,
+  "type": "STEEL",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

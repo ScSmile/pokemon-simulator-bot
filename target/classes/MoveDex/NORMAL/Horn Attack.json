@@ -1,0 +1,8 @@
+{
+  "name": "Horn Attack",
+  "power": 65,
+  "accuracy": 100,
+  "type": "NORMAL",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

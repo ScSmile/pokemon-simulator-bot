@@ -1,0 +1,27 @@
+{
+  "id": 408,
+  "name": "Cranidos",
+  "type": [
+    "ROCK"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 67
+    },
+    "ATTACK": {
+      "baseValue": 125
+    },
+    "DEFENSE": {
+      "baseValue": 40
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 30
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 30
+    },
+    "SPEED": {
+      "baseValue": 58
+    }
+  }
+}

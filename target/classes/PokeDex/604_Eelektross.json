@@ -1,0 +1,27 @@
+{
+  "id": 604,
+  "name": "Eelektross",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 85
+    },
+    "ATTACK": {
+      "baseValue": 115
+    },
+    "DEFENSE": {
+      "baseValue": 80
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 105
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 80
+    },
+    "SPEED": {
+      "baseValue": 50
+    }
+  }
+}

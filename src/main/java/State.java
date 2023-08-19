@@ -1,0 +1,10 @@
+enum State {
+  INIT,
+  STARTED,
+  HELP,
+  PKMN_INPUT,
+  CHOICE,
+  BATTLE,
+  WRONG,
+  WRONG_INPUT
+}

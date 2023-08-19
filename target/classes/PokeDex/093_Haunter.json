@@ -1,0 +1,28 @@
+{
+  "id": 93,
+  "name": "Haunter",
+  "type": [
+    "GHOST",
+    "POISON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 45
+    },
+    "ATTACK": {
+      "baseValue": 50
+    },
+    "DEFENSE": {
+      "baseValue": 45
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 115
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 55
+    },
+    "SPEED": {
+      "baseValue": 95
+    }
+  }
+}

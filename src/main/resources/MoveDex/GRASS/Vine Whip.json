@@ -1,0 +1,8 @@
+{
+  "name": "Vine Whip",
+  "power": 35,
+  "accuracy": 100,
+  "type": "GRASS",
+  "category": "SPECIAL",
+  "recoil": 0
+}

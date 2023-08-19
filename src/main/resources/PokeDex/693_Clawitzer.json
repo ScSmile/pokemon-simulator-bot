@@ -1,0 +1,27 @@
+{
+  "id": 693,
+  "name": "Clawitzer",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 71
+    },
+    "ATTACK": {
+      "baseValue": 73
+    },
+    "DEFENSE": {
+      "baseValue": 88
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 120
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 89
+    },
+    "SPEED": {
+      "baseValue": 59
+    }
+  }
+}

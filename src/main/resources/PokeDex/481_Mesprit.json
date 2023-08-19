@@ -1,0 +1,27 @@
+{
+  "id": 481,
+  "name": "Mesprit",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 80
+    },
+    "ATTACK": {
+      "baseValue": 105
+    },
+    "DEFENSE": {
+      "baseValue": 105
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 105
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 105
+    },
+    "SPEED": {
+      "baseValue": 80
+    }
+  }
+}

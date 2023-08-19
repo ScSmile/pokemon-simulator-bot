@@ -1,0 +1,28 @@
+{
+  "id": 184,
+  "name": "Azumarill",
+  "type": [
+    "WATER",
+    "FAIRY"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 100
+    },
+    "ATTACK": {
+      "baseValue": 50
+    },
+    "DEFENSE": {
+      "baseValue": 80
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 60
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 80
+    },
+    "SPEED": {
+      "baseValue": 50
+    }
+  }
+}

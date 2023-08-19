@@ -1,0 +1,28 @@
+{
+  "id": 140,
+  "name": "Kabuto",
+  "type": [
+    "ROCK",
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 30
+    },
+    "ATTACK": {
+      "baseValue": 80
+    },
+    "DEFENSE": {
+      "baseValue": 90
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 55
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 45
+    },
+    "SPEED": {
+      "baseValue": 55
+    }
+  }
+}

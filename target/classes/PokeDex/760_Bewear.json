@@ -1,0 +1,28 @@
+{
+  "id": 760,
+  "name": "Bewear",
+  "type": [
+    "NORMAL",
+    "FIGHTING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 120
+    },
+    "ATTACK": {
+      "baseValue": 125
+    },
+    "DEFENSE": {
+      "baseValue": 80
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 55
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 60
+    },
+    "SPEED": {
+      "baseValue": 60
+    }
+  }
+}

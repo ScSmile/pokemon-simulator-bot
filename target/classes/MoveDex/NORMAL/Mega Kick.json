@@ -1,0 +1,8 @@
+{
+  "name": "Mega Kick",
+  "power": 120,
+  "accuracy": 75,
+  "type": "NORMAL",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

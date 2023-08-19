@@ -1,0 +1,8 @@
+{
+  "name": "Air Cutter",
+  "power": 55,
+  "accuracy": 95,
+  "type": "FLYING",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

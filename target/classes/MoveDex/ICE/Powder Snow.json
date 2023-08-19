@@ -1,0 +1,8 @@
+{
+  "name": "Powder Snow",
+  "power": 40,
+  "accuracy": 100,
+  "type": "ICE",
+  "category": "SPECIAL",
+  "recoil": 0
+}

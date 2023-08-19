@@ -1,0 +1,8 @@
+{
+  "name": "Fire Blast",
+  "power": 120,
+  "accuracy": 85,
+  "type": "FIRE",
+  "category": "SPECIAL",
+  "recoil": 0
+}

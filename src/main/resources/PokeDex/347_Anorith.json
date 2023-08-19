@@ -1,0 +1,28 @@
+{
+  "id": 347,
+  "name": "Anorith",
+  "type": [
+    "ROCK",
+    "BUG"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 45
+    },
+    "ATTACK": {
+      "baseValue": 95
+    },
+    "DEFENSE": {
+      "baseValue": 50
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 40
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 50
+    },
+    "SPEED": {
+      "baseValue": 75
+    }
+  }
+}

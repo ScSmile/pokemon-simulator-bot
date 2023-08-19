@@ -1,0 +1,28 @@
+{
+  "id": 49,
+  "name": "Venomoth",
+  "type": [
+    "BUG",
+    "POISON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 70
+    },
+    "ATTACK": {
+      "baseValue": 65
+    },
+    "DEFENSE": {
+      "baseValue": 60
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 90
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 75
+    },
+    "SPEED": {
+      "baseValue": 90
+    }
+  }
+}

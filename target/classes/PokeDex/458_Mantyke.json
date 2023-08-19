@@ -1,0 +1,28 @@
+{
+  "id": 458,
+  "name": "Mantyke",
+  "type": [
+    "WATER",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 45
+    },
+    "ATTACK": {
+      "baseValue": 20
+    },
+    "DEFENSE": {
+      "baseValue": 50
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 60
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 120
+    },
+    "SPEED": {
+      "baseValue": 50
+    }
+  }
+}

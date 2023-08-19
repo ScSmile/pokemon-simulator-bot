@@ -1,0 +1,27 @@
+{
+  "id": 252,
+  "name": "Treecko",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 40
+    },
+    "ATTACK": {
+      "baseValue": 45
+    },
+    "DEFENSE": {
+      "baseValue": 35
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 65
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 55
+    },
+    "SPEED": {
+      "baseValue": 70
+    }
+  }
+}

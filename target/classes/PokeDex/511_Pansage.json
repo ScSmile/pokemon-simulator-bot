@@ -1,0 +1,27 @@
+{
+  "id": 511,
+  "name": "Pansage",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 50
+    },
+    "ATTACK": {
+      "baseValue": 53
+    },
+    "DEFENSE": {
+      "baseValue": 48
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 53
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 48
+    },
+    "SPEED": {
+      "baseValue": 64
+    }
+  }
+}

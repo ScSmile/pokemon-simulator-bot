@@ -1,0 +1,8 @@
+{
+  "name": "Earthquake",
+  "power": 100,
+  "accuracy": 100,
+  "type": "GROUND",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

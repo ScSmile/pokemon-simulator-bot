@@ -1,0 +1,27 @@
+{
+  "id": 746,
+  "name": "Wishiwashi",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 45
+    },
+    "ATTACK": {
+      "baseValue": 20
+    },
+    "DEFENSE": {
+      "baseValue": 20
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 25
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 25
+    },
+    "SPEED": {
+      "baseValue": 40
+    }
+  }
+}

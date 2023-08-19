@@ -1,0 +1,28 @@
+{
+  "id": 472,
+  "name": "Gliscor",
+  "type": [
+    "GROUND",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 75
+    },
+    "ATTACK": {
+      "baseValue": 95
+    },
+    "DEFENSE": {
+      "baseValue": 125
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 45
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 75
+    },
+    "SPEED": {
+      "baseValue": 95
+    }
+  }
+}

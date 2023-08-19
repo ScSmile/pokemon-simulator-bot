@@ -1,0 +1,27 @@
+{
+  "id": 204,
+  "name": "Pineco",
+  "type": [
+    "BUG"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 50
+    },
+    "ATTACK": {
+      "baseValue": 65
+    },
+    "DEFENSE": {
+      "baseValue": 90
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 35
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 35
+    },
+    "SPEED": {
+      "baseValue": 15
+    }
+  }
+}

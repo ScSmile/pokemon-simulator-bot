@@ -1,0 +1,27 @@
+{
+  "id": 106,
+  "name": "Hitmonlee",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 50
+    },
+    "ATTACK": {
+      "baseValue": 120
+    },
+    "DEFENSE": {
+      "baseValue": 53
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 35
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 110
+    },
+    "SPEED": {
+      "baseValue": 87
+    }
+  }
+}

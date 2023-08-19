@@ -1,0 +1,28 @@
+{
+  "id": 168,
+  "name": "Ariados",
+  "type": [
+    "BUG",
+    "POISON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 70
+    },
+    "ATTACK": {
+      "baseValue": 90
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 60
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 70
+    },
+    "SPEED": {
+      "baseValue": 40
+    }
+  }
+}

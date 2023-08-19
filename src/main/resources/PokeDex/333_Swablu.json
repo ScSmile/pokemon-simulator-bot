@@ -1,0 +1,28 @@
+{
+  "id": 333,
+  "name": "Swablu",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 45
+    },
+    "ATTACK": {
+      "baseValue": 40
+    },
+    "DEFENSE": {
+      "baseValue": 60
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 40
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 75
+    },
+    "SPEED": {
+      "baseValue": 50
+    }
+  }
+}

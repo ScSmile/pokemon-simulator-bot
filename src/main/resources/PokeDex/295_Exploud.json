@@ -1,0 +1,27 @@
+{
+  "id": 295,
+  "name": "Exploud",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 104
+    },
+    "ATTACK": {
+      "baseValue": 91
+    },
+    "DEFENSE": {
+      "baseValue": 63
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 91
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 73
+    },
+    "SPEED": {
+      "baseValue": 68
+    }
+  }
+}

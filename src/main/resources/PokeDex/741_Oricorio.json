@@ -1,0 +1,28 @@
+{
+  "id": 741,
+  "name": "Oricorio",
+  "type": [
+    "FIRE",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 75
+    },
+    "ATTACK": {
+      "baseValue": 70
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 98
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 70
+    },
+    "SPEED": {
+      "baseValue": 93
+    }
+  }
+}

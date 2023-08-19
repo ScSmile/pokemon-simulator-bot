@@ -1,0 +1,8 @@
+{
+  "name": "Waterfall",
+  "power": 80,
+  "accuracy": 100,
+  "type": "WATER",
+  "category": "SPECIAL",
+  "recoil": 0
+}

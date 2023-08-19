@@ -1,0 +1,28 @@
+{
+  "id": 777,
+  "name": "Togedemaru",
+  "type": [
+    "ELECTRIC",
+    "STEEL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 65
+    },
+    "ATTACK": {
+      "baseValue": 98
+    },
+    "DEFENSE": {
+      "baseValue": 63
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 40
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 73
+    },
+    "SPEED": {
+      "baseValue": 96
+    }
+  }
+}

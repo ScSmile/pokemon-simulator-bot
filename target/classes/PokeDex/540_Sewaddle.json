@@ -1,0 +1,28 @@
+{
+  "id": 540,
+  "name": "Sewaddle",
+  "type": [
+    "BUG",
+    "GRASS"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 45
+    },
+    "ATTACK": {
+      "baseValue": 53
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 40
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 60
+    },
+    "SPEED": {
+      "baseValue": 42
+    }
+  }
+}

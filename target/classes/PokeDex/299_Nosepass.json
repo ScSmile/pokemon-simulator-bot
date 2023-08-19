@@ -1,0 +1,27 @@
+{
+  "id": 299,
+  "name": "Nosepass",
+  "type": [
+    "ROCK"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 30
+    },
+    "ATTACK": {
+      "baseValue": 45
+    },
+    "DEFENSE": {
+      "baseValue": 135
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 45
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 90
+    },
+    "SPEED": {
+      "baseValue": 30
+    }
+  }
+}

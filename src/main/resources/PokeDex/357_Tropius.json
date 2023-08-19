@@ -1,0 +1,28 @@
+{
+  "id": 357,
+  "name": "Tropius",
+  "type": [
+    "GRASS",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 99
+    },
+    "ATTACK": {
+      "baseValue": 68
+    },
+    "DEFENSE": {
+      "baseValue": 83
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 72
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 87
+    },
+    "SPEED": {
+      "baseValue": 51
+    }
+  }
+}

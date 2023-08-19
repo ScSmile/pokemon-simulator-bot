@@ -1,0 +1,28 @@
+{
+  "id": 487,
+  "name": "Giratina",
+  "type": [
+    "GHOST",
+    "DRAGON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 150
+    },
+    "ATTACK": {
+      "baseValue": 100
+    },
+    "DEFENSE": {
+      "baseValue": 120
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 100
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 120
+    },
+    "SPEED": {
+      "baseValue": 90
+    }
+  }
+}

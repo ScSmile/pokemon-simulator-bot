@@ -1,0 +1,28 @@
+{
+  "id": 226,
+  "name": "Mantine",
+  "type": [
+    "WATER",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 85
+    },
+    "ATTACK": {
+      "baseValue": 40
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 80
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 140
+    },
+    "SPEED": {
+      "baseValue": 70
+    }
+  }
+}

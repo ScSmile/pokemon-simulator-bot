@@ -1,0 +1,27 @@
+{
+  "id": 692,
+  "name": "Clauncher",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 50
+    },
+    "ATTACK": {
+      "baseValue": 53
+    },
+    "DEFENSE": {
+      "baseValue": 62
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 58
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 63
+    },
+    "SPEED": {
+      "baseValue": 44
+    }
+  }
+}

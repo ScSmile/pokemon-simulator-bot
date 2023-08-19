@@ -1,0 +1,8 @@
+{
+  "name": "Crabhammer",
+  "power": 90,
+  "accuracy": 85,
+  "type": "WATER",
+  "category": "SPECIAL",
+  "recoil": 0
+}

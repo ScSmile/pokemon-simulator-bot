@@ -1,0 +1,27 @@
+{
+  "id": 390,
+  "name": "Chimchar",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 44
+    },
+    "ATTACK": {
+      "baseValue": 58
+    },
+    "DEFENSE": {
+      "baseValue": 44
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 58
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 44
+    },
+    "SPEED": {
+      "baseValue": 61
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Gust",
+  "power": 40,
+  "accuracy": 100,
+  "type": "FLYING",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

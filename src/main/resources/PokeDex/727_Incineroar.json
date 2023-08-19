@@ -1,0 +1,28 @@
+{
+  "id": 727,
+  "name": "Incineroar",
+  "type": [
+    "FIRE",
+    "DARK"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 95
+    },
+    "ATTACK": {
+      "baseValue": 115
+    },
+    "DEFENSE": {
+      "baseValue": 90
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 80
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 90
+    },
+    "SPEED": {
+      "baseValue": 60
+    }
+  }
+}

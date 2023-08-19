@@ -1,0 +1,8 @@
+{
+  "name": "Swift",
+  "power": 60,
+  "accuracy": -1,
+  "type": "NORMAL",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

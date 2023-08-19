@@ -1,0 +1,28 @@
+{
+  "id": 722,
+  "name": "Rowlet",
+  "type": [
+    "GRASS",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 68
+    },
+    "ATTACK": {
+      "baseValue": 55
+    },
+    "DEFENSE": {
+      "baseValue": 55
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 50
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 50
+    },
+    "SPEED": {
+      "baseValue": 42
+    }
+  }
+}

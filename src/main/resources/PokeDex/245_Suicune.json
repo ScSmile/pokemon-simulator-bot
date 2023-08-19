@@ -1,0 +1,27 @@
+{
+  "id": 245,
+  "name": "Suicune",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 100
+    },
+    "ATTACK": {
+      "baseValue": 75
+    },
+    "DEFENSE": {
+      "baseValue": 115
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 90
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 115
+    },
+    "SPEED": {
+      "baseValue": 85
+    }
+  }
+}

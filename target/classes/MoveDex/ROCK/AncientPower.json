@@ -1,0 +1,8 @@
+{
+  "name": "AncientPower",
+  "power": 60,
+  "accuracy": 100,
+  "type": "ROCK",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

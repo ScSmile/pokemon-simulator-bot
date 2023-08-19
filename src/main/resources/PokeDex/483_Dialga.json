@@ -1,0 +1,28 @@
+{
+  "id": 483,
+  "name": "Dialga",
+  "type": [
+    "STEEL",
+    "DRAGON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 100
+    },
+    "ATTACK": {
+      "baseValue": 120
+    },
+    "DEFENSE": {
+      "baseValue": 120
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 150
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 100
+    },
+    "SPEED": {
+      "baseValue": 90
+    }
+  }
+}

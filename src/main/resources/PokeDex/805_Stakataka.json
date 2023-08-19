@@ -1,0 +1,28 @@
+{
+  "id": 805,
+  "name": "Stakataka",
+  "type": [
+    "ROCK",
+    "STEEL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 61
+    },
+    "ATTACK": {
+      "baseValue": 131
+    },
+    "DEFENSE": {
+      "baseValue": 211
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 53
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 101
+    },
+    "SPEED": {
+      "baseValue": 13
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 426,
+  "name": "Drifblim",
+  "type": [
+    "GHOST",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 150
+    },
+    "ATTACK": {
+      "baseValue": 80
+    },
+    "DEFENSE": {
+      "baseValue": 44
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 90
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 54
+    },
+    "SPEED": {
+      "baseValue": 80
+    }
+  }
+}

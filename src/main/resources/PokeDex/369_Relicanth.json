@@ -1,0 +1,28 @@
+{
+  "id": 369,
+  "name": "Relicanth",
+  "type": [
+    "WATER",
+    "ROCK"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 100
+    },
+    "ATTACK": {
+      "baseValue": 90
+    },
+    "DEFENSE": {
+      "baseValue": 130
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 45
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 65
+    },
+    "SPEED": {
+      "baseValue": 55
+    }
+  }
+}

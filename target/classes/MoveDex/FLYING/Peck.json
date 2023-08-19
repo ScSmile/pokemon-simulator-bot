@@ -1,0 +1,8 @@
+{
+  "name": "Peck",
+  "power": 35,
+  "accuracy": 100,
+  "type": "FLYING",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

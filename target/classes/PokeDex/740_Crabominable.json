@@ -1,0 +1,28 @@
+{
+  "id": 740,
+  "name": "Crabominable",
+  "type": [
+    "FIGHTING",
+    "ICE"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 97
+    },
+    "ATTACK": {
+      "baseValue": 132
+    },
+    "DEFENSE": {
+      "baseValue": 77
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 62
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 67
+    },
+    "SPEED": {
+      "baseValue": 43
+    }
+  }
+}

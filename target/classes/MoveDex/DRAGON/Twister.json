@@ -1,0 +1,8 @@
+{
+  "name": "Twister",
+  "power": 40,
+  "accuracy": 100,
+  "type": "DRAGON",
+  "category": "SPECIAL",
+  "recoil": 0
+}

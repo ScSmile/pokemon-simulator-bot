@@ -1,0 +1,28 @@
+{
+  "id": 633,
+  "name": "Deino",
+  "type": [
+    "DARK",
+    "DRAGON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 52
+    },
+    "ATTACK": {
+      "baseValue": 65
+    },
+    "DEFENSE": {
+      "baseValue": 50
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 45
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 50
+    },
+    "SPEED": {
+      "baseValue": 38
+    }
+  }
+}

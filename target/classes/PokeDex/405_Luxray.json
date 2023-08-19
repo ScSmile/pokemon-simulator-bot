@@ -1,0 +1,27 @@
+{
+  "id": 405,
+  "name": "Luxray",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 80
+    },
+    "ATTACK": {
+      "baseValue": 120
+    },
+    "DEFENSE": {
+      "baseValue": 79
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 95
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 79
+    },
+    "SPEED": {
+      "baseValue": 70
+    }
+  }
+}

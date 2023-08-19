@@ -1,0 +1,28 @@
+{
+  "id": 344,
+  "name": "Claydol",
+  "type": [
+    "GROUND",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 70
+    },
+    "DEFENSE": {
+      "baseValue": 105
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 70
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 120
+    },
+    "SPEED": {
+      "baseValue": 75
+    }
+  }
+}

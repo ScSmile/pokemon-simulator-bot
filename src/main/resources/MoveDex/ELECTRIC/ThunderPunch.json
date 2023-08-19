@@ -1,0 +1,8 @@
+{
+  "name": "ThunderPunch",
+  "power": 75,
+  "accuracy": 100,
+  "type": "ELECTRIC",
+  "category": "SPECIAL",
+  "recoil": 0
+}

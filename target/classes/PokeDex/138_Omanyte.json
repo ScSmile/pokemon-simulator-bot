@@ -1,0 +1,28 @@
+{
+  "id": 138,
+  "name": "Omanyte",
+  "type": [
+    "ROCK",
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 35
+    },
+    "ATTACK": {
+      "baseValue": 40
+    },
+    "DEFENSE": {
+      "baseValue": 100
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 90
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 55
+    },
+    "SPEED": {
+      "baseValue": 35
+    }
+  }
+}

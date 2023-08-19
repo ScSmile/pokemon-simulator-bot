@@ -1,0 +1,28 @@
+{
+  "id": 139,
+  "name": "Omastar",
+  "type": [
+    "ROCK",
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 70
+    },
+    "ATTACK": {
+      "baseValue": 60
+    },
+    "DEFENSE": {
+      "baseValue": 125
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 115
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 70
+    },
+    "SPEED": {
+      "baseValue": 55
+    }
+  }
+}

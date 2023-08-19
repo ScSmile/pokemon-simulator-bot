@@ -1,0 +1,28 @@
+{
+  "id": 315,
+  "name": "Roselia",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 50
+    },
+    "ATTACK": {
+      "baseValue": 60
+    },
+    "DEFENSE": {
+      "baseValue": 45
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 100
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 80
+    },
+    "SPEED": {
+      "baseValue": 65
+    }
+  }
+}

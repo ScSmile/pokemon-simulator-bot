@@ -1,0 +1,28 @@
+{
+  "id": 618,
+  "name": "Stunfisk",
+  "type": [
+    "GROUND",
+    "ELECTRIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 109
+    },
+    "ATTACK": {
+      "baseValue": 66
+    },
+    "DEFENSE": {
+      "baseValue": 84
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 81
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 99
+    },
+    "SPEED": {
+      "baseValue": 32
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Aerial Ace",
+  "power": 60,
+  "accuracy": -1,
+  "type": "FLYING",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

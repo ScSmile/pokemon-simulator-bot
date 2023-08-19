@@ -1,0 +1,27 @@
+{
+  "id": 379,
+  "name": "Registeel",
+  "type": [
+    "STEEL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 80
+    },
+    "ATTACK": {
+      "baseValue": 75
+    },
+    "DEFENSE": {
+      "baseValue": 150
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 75
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 150
+    },
+    "SPEED": {
+      "baseValue": 50
+    }
+  }
+}

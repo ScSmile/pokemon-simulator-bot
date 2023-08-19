@@ -1,0 +1,28 @@
+{
+  "id": 565,
+  "name": "Carracosta",
+  "type": [
+    "WATER",
+    "ROCK"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 74
+    },
+    "ATTACK": {
+      "baseValue": 108
+    },
+    "DEFENSE": {
+      "baseValue": 133
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 83
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 65
+    },
+    "SPEED": {
+      "baseValue": 32
+    }
+  }
+}

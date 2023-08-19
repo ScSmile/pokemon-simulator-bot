@@ -1,0 +1,8 @@
+{
+  "name": "DragonBreath",
+  "power": 60,
+  "accuracy": 100,
+  "type": "DRAGON",
+  "category": "SPECIAL",
+  "recoil": 0
+}

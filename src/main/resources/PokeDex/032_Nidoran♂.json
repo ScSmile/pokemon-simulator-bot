@@ -1,0 +1,27 @@
+{
+  "id": 32,
+  "name": "Nidoran♂",
+  "type": [
+    "POISON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 46
+    },
+    "ATTACK": {
+      "baseValue": 57
+    },
+    "DEFENSE": {
+      "baseValue": 40
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 40
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 40
+    },
+    "SPEED": {
+      "baseValue": 50
+    }
+  }
+}

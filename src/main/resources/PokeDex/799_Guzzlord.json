@@ -1,0 +1,28 @@
+{
+  "id": 799,
+  "name": "Guzzlord",
+  "type": [
+    "DARK",
+    "DRAGON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 223
+    },
+    "ATTACK": {
+      "baseValue": 101
+    },
+    "DEFENSE": {
+      "baseValue": 53
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 97
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 53
+    },
+    "SPEED": {
+      "baseValue": 43
+    }
+  }
+}

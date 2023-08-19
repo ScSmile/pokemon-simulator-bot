@@ -1,0 +1,28 @@
+{
+  "id": 81,
+  "name": "Magnemite",
+  "type": [
+    "ELECTRIC",
+    "STEEL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 25
+    },
+    "ATTACK": {
+      "baseValue": 35
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 95
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 55
+    },
+    "SPEED": {
+      "baseValue": 45
+    }
+  }
+}

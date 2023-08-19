@@ -1,0 +1,27 @@
+{
+  "id": 54,
+  "name": "Psyduck",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 50
+    },
+    "ATTACK": {
+      "baseValue": 52
+    },
+    "DEFENSE": {
+      "baseValue": 48
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 65
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 50
+    },
+    "SPEED": {
+      "baseValue": 55
+    }
+  }
+}

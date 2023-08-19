@@ -1,0 +1,27 @@
+{
+  "id": 432,
+  "name": "Purugly",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 71
+    },
+    "ATTACK": {
+      "baseValue": 82
+    },
+    "DEFENSE": {
+      "baseValue": 64
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 64
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 59
+    },
+    "SPEED": {
+      "baseValue": 112
+    }
+  }
+}

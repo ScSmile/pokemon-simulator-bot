@@ -1,0 +1,8 @@
+{
+  "name": "Thunderbolt",
+  "power": 95,
+  "accuracy": 100,
+  "type": "ELECTRIC",
+  "category": "SPECIAL",
+  "recoil": 0
+}

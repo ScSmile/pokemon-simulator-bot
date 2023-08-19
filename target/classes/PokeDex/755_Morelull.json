@@ -1,0 +1,28 @@
+{
+  "id": 755,
+  "name": "Morelull",
+  "type": [
+    "GRASS",
+    "FAIRY"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 40
+    },
+    "ATTACK": {
+      "baseValue": 35
+    },
+    "DEFENSE": {
+      "baseValue": 55
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 65
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 75
+    },
+    "SPEED": {
+      "baseValue": 15
+    }
+  }
+}

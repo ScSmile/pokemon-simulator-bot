@@ -1,0 +1,8 @@
+{
+  "name": "Smog",
+  "power": 20,
+  "accuracy": 70,
+  "type": "POISON",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

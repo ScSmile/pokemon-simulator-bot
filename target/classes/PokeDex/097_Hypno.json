@@ -1,0 +1,27 @@
+{
+  "id": 97,
+  "name": "Hypno",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 85
+    },
+    "ATTACK": {
+      "baseValue": 73
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 73
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 115
+    },
+    "SPEED": {
+      "baseValue": 67
+    }
+  }
+}

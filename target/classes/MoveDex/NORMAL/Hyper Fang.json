@@ -1,0 +1,8 @@
+{
+  "name": "Hyper Fang",
+  "power": 80,
+  "accuracy": 90,
+  "type": "NORMAL",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

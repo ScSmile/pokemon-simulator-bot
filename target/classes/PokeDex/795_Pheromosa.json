@@ -1,0 +1,28 @@
+{
+  "id": 795,
+  "name": "Pheromosa",
+  "type": [
+    "BUG",
+    "FIGHTING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 71
+    },
+    "ATTACK": {
+      "baseValue": 137
+    },
+    "DEFENSE": {
+      "baseValue": 37
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 137
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 37
+    },
+    "SPEED": {
+      "baseValue": 151
+    }
+  }
+}

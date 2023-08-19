@@ -1,0 +1,8 @@
+{
+  "name": "Poison Fang",
+  "power": 15,
+  "accuracy": 100,
+  "type": "POISON",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

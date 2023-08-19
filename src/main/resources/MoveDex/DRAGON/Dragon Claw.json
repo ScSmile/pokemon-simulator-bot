@@ -1,0 +1,8 @@
+{
+  "name": "Dragon Claw",
+  "power": 80,
+  "accuracy": 100,
+  "type": "DRAGON",
+  "category": "SPECIAL",
+  "recoil": 0
+}

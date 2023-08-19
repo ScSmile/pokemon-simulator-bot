@@ -1,0 +1,28 @@
+{
+  "id": 144,
+  "name": "Articuno",
+  "type": [
+    "ICE",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 90
+    },
+    "ATTACK": {
+      "baseValue": 85
+    },
+    "DEFENSE": {
+      "baseValue": 100
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 95
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 125
+    },
+    "SPEED": {
+      "baseValue": 85
+    }
+  }
+}

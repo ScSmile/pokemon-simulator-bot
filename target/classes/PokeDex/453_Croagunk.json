@@ -1,0 +1,28 @@
+{
+  "id": 453,
+  "name": "Croagunk",
+  "type": [
+    "POISON",
+    "FIGHTING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 48
+    },
+    "ATTACK": {
+      "baseValue": 61
+    },
+    "DEFENSE": {
+      "baseValue": 40
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 61
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 40
+    },
+    "SPEED": {
+      "baseValue": 50
+    }
+  }
+}

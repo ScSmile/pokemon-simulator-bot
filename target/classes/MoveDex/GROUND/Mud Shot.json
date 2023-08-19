@@ -1,0 +1,8 @@
+{
+  "name": "Mud Shot",
+  "power": 55,
+  "accuracy": 95,
+  "type": "GROUND",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

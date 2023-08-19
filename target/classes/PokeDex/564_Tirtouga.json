@@ -1,0 +1,28 @@
+{
+  "id": 564,
+  "name": "Tirtouga",
+  "type": [
+    "WATER",
+    "ROCK"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 54
+    },
+    "ATTACK": {
+      "baseValue": 78
+    },
+    "DEFENSE": {
+      "baseValue": 103
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 53
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 45
+    },
+    "SPEED": {
+      "baseValue": 22
+    }
+  }
+}

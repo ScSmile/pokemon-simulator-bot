@@ -1,0 +1,27 @@
+{
+  "id": 5,
+  "name": "Charmeleon",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 58
+    },
+    "ATTACK": {
+      "baseValue": 64
+    },
+    "DEFENSE": {
+      "baseValue": 58
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 80
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 65
+    },
+    "SPEED": {
+      "baseValue": 80
+    }
+  }
+}

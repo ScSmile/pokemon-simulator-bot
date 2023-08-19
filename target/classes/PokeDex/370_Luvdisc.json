@@ -1,0 +1,27 @@
+{
+  "id": 370,
+  "name": "Luvdisc",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 43
+    },
+    "ATTACK": {
+      "baseValue": 30
+    },
+    "DEFENSE": {
+      "baseValue": 55
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 40
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 65
+    },
+    "SPEED": {
+      "baseValue": 97
+    }
+  }
+}

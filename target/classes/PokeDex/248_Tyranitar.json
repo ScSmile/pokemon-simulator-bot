@@ -1,0 +1,28 @@
+{
+  "id": 248,
+  "name": "Tyranitar",
+  "type": [
+    "ROCK",
+    "DARK"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 100
+    },
+    "ATTACK": {
+      "baseValue": 134
+    },
+    "DEFENSE": {
+      "baseValue": 110
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 95
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 100
+    },
+    "SPEED": {
+      "baseValue": 61
+    }
+  }
+}

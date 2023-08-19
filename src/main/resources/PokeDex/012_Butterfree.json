@@ -1,0 +1,28 @@
+{
+  "id": 12,
+  "name": "Butterfree",
+  "type": [
+    "BUG",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 45
+    },
+    "DEFENSE": {
+      "baseValue": 50
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 90
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 80
+    },
+    "SPEED": {
+      "baseValue": 70
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Bone Club",
+  "power": 65,
+  "accuracy": 85,
+  "type": "GROUND",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

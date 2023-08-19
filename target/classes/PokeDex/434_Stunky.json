@@ -1,0 +1,28 @@
+{
+  "id": 434,
+  "name": "Stunky",
+  "type": [
+    "POISON",
+    "DARK"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 63
+    },
+    "ATTACK": {
+      "baseValue": 63
+    },
+    "DEFENSE": {
+      "baseValue": 47
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 41
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 41
+    },
+    "SPEED": {
+      "baseValue": 74
+    }
+  }
+}

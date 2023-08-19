@@ -1,0 +1,28 @@
+{
+  "id": 710,
+  "name": "Pumpkaboo",
+  "type": [
+    "GHOST",
+    "GRASS"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 59
+    },
+    "ATTACK": {
+      "baseValue": 66
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 44
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 55
+    },
+    "SPEED": {
+      "baseValue": 41
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 283,
+  "name": "Surskit",
+  "type": [
+    "BUG",
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 40
+    },
+    "ATTACK": {
+      "baseValue": 30
+    },
+    "DEFENSE": {
+      "baseValue": 32
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 50
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 52
+    },
+    "SPEED": {
+      "baseValue": 65
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 269,
+  "name": "Dustox",
+  "type": [
+    "BUG",
+    "POISON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 60
+    },
+    "ATTACK": {
+      "baseValue": 50
+    },
+    "DEFENSE": {
+      "baseValue": 70
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 50
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 90
+    },
+    "SPEED": {
+      "baseValue": 65
+    }
+  }
+}

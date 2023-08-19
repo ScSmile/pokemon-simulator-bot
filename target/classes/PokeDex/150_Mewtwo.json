@@ -1,0 +1,27 @@
+{
+  "id": 150,
+  "name": "Mewtwo",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 106
+    },
+    "ATTACK": {
+      "baseValue": 110
+    },
+    "DEFENSE": {
+      "baseValue": 90
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 154
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 90
+    },
+    "SPEED": {
+      "baseValue": 130
+    }
+  }
+}

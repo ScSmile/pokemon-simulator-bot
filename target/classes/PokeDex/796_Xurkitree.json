@@ -1,0 +1,27 @@
+{
+  "id": 796,
+  "name": "Xurkitree",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 83
+    },
+    "ATTACK": {
+      "baseValue": 89
+    },
+    "DEFENSE": {
+      "baseValue": 71
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 173
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 71
+    },
+    "SPEED": {
+      "baseValue": 83
+    }
+  }
+}

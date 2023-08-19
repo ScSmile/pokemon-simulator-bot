@@ -1,0 +1,27 @@
+{
+  "id": 110,
+  "name": "Weezing",
+  "type": [
+    "POISON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 65
+    },
+    "ATTACK": {
+      "baseValue": 90
+    },
+    "DEFENSE": {
+      "baseValue": 120
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 85
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 70
+    },
+    "SPEED": {
+      "baseValue": 60
+    }
+  }
+}

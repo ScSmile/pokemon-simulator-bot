@@ -1,0 +1,8 @@
+{
+  "name": "Shadow Ball",
+  "power": 80,
+  "accuracy": 100,
+  "type": "GHOST",
+  "category": "PHYSICAL",
+  "recoil": 0
+}

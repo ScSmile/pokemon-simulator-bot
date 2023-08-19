@@ -1,0 +1,28 @@
+{
+  "id": 75,
+  "name": "Graveler",
+  "type": [
+    "ROCK",
+    "GROUND"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 55
+    },
+    "ATTACK": {
+      "baseValue": 95
+    },
+    "DEFENSE": {
+      "baseValue": 115
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 45
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 45
+    },
+    "SPEED": {
+      "baseValue": 35
+    }
+  }
+}

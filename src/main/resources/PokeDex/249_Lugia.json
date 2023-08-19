@@ -1,0 +1,28 @@
+{
+  "id": 249,
+  "name": "Lugia",
+  "type": [
+    "PSYCHIC",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 106
+    },
+    "ATTACK": {
+      "baseValue": 90
+    },
+    "DEFENSE": {
+      "baseValue": 130
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 90
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 154
+    },
+    "SPEED": {
+      "baseValue": 110
+    }
+  }
+}

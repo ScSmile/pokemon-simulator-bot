@@ -1,0 +1,27 @@
+{
+  "id": 657,
+  "name": "Frogadier",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 54
+    },
+    "ATTACK": {
+      "baseValue": 63
+    },
+    "DEFENSE": {
+      "baseValue": 52
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 83
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 56
+    },
+    "SPEED": {
+      "baseValue": 97
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 561,
+  "name": "Sigilyph",
+  "type": [
+    "PSYCHIC",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 72
+    },
+    "ATTACK": {
+      "baseValue": 58
+    },
+    "DEFENSE": {
+      "baseValue": 80
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 103
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 80
+    },
+    "SPEED": {
+      "baseValue": 97
+    }
+  }
+}

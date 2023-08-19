@@ -1,0 +1,27 @@
+{
+  "id": 514,
+  "name": "Simisear",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 75
+    },
+    "ATTACK": {
+      "baseValue": 98
+    },
+    "DEFENSE": {
+      "baseValue": 63
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 98
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 63
+    },
+    "SPEED": {
+      "baseValue": 101
+    }
+  }
+}

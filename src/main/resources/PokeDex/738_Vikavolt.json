@@ -1,0 +1,28 @@
+{
+  "id": 738,
+  "name": "Vikavolt",
+  "type": [
+    "BUG",
+    "ELECTRIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 77
+    },
+    "ATTACK": {
+      "baseValue": 70
+    },
+    "DEFENSE": {
+      "baseValue": 90
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 145
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 75
+    },
+    "SPEED": {
+      "baseValue": 43
+    }
+  }
+}

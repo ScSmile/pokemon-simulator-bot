@@ -1,0 +1,8 @@
+{
+  "name": "Icy Wind",
+  "power": 55,
+  "accuracy": 95,
+  "type": "ICE",
+  "category": "SPECIAL",
+  "recoil": 0
+}

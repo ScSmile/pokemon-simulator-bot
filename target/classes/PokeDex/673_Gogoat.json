@@ -1,0 +1,27 @@
+{
+  "id": 673,
+  "name": "Gogoat",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 123
+    },
+    "ATTACK": {
+      "baseValue": 100
+    },
+    "DEFENSE": {
+      "baseValue": 62
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 97
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 81
+    },
+    "SPEED": {
+      "baseValue": 68
+    }
+  }
+}

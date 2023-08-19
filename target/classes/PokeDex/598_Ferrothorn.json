@@ -1,0 +1,28 @@
+{
+  "id": 598,
+  "name": "Ferrothorn",
+  "type": [
+    "GRASS",
+    "STEEL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 74
+    },
+    "ATTACK": {
+      "baseValue": 94
+    },
+    "DEFENSE": {
+      "baseValue": 131
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 54
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 116
+    },
+    "SPEED": {
+      "baseValue": 20
+    }
+  }
+}

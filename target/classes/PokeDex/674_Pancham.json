@@ -1,0 +1,27 @@
+{
+  "id": 674,
+  "name": "Pancham",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 67
+    },
+    "ATTACK": {
+      "baseValue": 82
+    },
+    "DEFENSE": {
+      "baseValue": 62
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 46
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 48
+    },
+    "SPEED": {
+      "baseValue": 43
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 530,
+  "name": "Excadrill",
+  "type": [
+    "GROUND",
+    "STEEL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 110
+    },
+    "ATTACK": {
+      "baseValue": 135
+    },
+    "DEFENSE": {
+      "baseValue": 60
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 50
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 65
+    },
+    "SPEED": {
+      "baseValue": 88
+    }
+  }
+}

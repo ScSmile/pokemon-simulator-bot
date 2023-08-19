@@ -1,0 +1,28 @@
+{
+  "id": 145,
+  "name": "Zapdos",
+  "type": [
+    "ELECTRIC",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 90
+    },
+    "ATTACK": {
+      "baseValue": 90
+    },
+    "DEFENSE": {
+      "baseValue": 85
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 125
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 90
+    },
+    "SPEED": {
+      "baseValue": 100
+    }
+  }
+}

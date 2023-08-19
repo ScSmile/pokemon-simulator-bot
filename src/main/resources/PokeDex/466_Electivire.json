@@ -1,0 +1,27 @@
+{
+  "id": 466,
+  "name": "Electivire",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 75
+    },
+    "ATTACK": {
+      "baseValue": 123
+    },
+    "DEFENSE": {
+      "baseValue": 67
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 95
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 85
+    },
+    "SPEED": {
+      "baseValue": 95
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 694,
+  "name": "Helioptile",
+  "type": [
+    "ELECTRIC",
+    "NORMAL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 44
+    },
+    "ATTACK": {
+      "baseValue": 38
+    },
+    "DEFENSE": {
+      "baseValue": 33
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 61
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 43
+    },
+    "SPEED": {
+      "baseValue": 70
+    }
+  }
+}

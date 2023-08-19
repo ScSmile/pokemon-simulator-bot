@@ -1,0 +1,27 @@
+{
+  "id": 202,
+  "name": "Wobbuffet",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 190
+    },
+    "ATTACK": {
+      "baseValue": 33
+    },
+    "DEFENSE": {
+      "baseValue": 58
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 33
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 58
+    },
+    "SPEED": {
+      "baseValue": 33
+    }
+  }
+}

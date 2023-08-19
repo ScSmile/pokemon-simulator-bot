@@ -1,0 +1,27 @@
+{
+  "id": 562,
+  "name": "Yamask",
+  "type": [
+    "GHOST"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 38
+    },
+    "ATTACK": {
+      "baseValue": 30
+    },
+    "DEFENSE": {
+      "baseValue": 85
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 55
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 65
+    },
+    "SPEED": {
+      "baseValue": 30
+    }
+  }
+}

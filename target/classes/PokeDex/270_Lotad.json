@@ -1,0 +1,28 @@
+{
+  "id": 270,
+  "name": "Lotad",
+  "type": [
+    "WATER",
+    "GRASS"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 40
+    },
+    "ATTACK": {
+      "baseValue": 30
+    },
+    "DEFENSE": {
+      "baseValue": 30
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 40
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 50
+    },
+    "SPEED": {
+      "baseValue": 30
+    }
+  }
+}

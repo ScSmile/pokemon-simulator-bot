@@ -1,0 +1,28 @@
+{
+  "id": 708,
+  "name": "Phantump",
+  "type": [
+    "GHOST",
+    "GRASS"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 43
+    },
+    "ATTACK": {
+      "baseValue": 70
+    },
+    "DEFENSE": {
+      "baseValue": 48
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 50
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 60
+    },
+    "SPEED": {
+      "baseValue": 38
+    }
+  }
+}

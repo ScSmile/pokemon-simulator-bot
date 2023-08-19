@@ -1,0 +1,28 @@
+{
+  "id": 176,
+  "name": "Togetic",
+  "type": [
+    "FAIRY",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 55
+    },
+    "ATTACK": {
+      "baseValue": 40
+    },
+    "DEFENSE": {
+      "baseValue": 85
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 80
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 105
+    },
+    "SPEED": {
+      "baseValue": 40
+    }
+  }
+}

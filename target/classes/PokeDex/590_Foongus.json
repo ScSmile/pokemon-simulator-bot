@@ -1,0 +1,28 @@
+{
+  "id": 590,
+  "name": "Foongus",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 69
+    },
+    "ATTACK": {
+      "baseValue": 55
+    },
+    "DEFENSE": {
+      "baseValue": 45
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 55
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 55
+    },
+    "SPEED": {
+      "baseValue": 15
+    }
+  }
+}

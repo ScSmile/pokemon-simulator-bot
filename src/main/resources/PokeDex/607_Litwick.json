@@ -1,0 +1,28 @@
+{
+  "id": 607,
+  "name": "Litwick",
+  "type": [
+    "GHOST",
+    "FIRE"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 50
+    },
+    "ATTACK": {
+      "baseValue": 30
+    },
+    "DEFENSE": {
+      "baseValue": 55
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 65
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 55
+    },
+    "SPEED": {
+      "baseValue": 20
+    }
+  }
+}

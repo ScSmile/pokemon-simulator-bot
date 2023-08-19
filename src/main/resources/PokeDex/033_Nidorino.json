@@ -1,0 +1,27 @@
+{
+  "id": 33,
+  "name": "Nidorino",
+  "type": [
+    "POISON"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 61
+    },
+    "ATTACK": {
+      "baseValue": 72
+    },
+    "DEFENSE": {
+      "baseValue": 57
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 55
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 55
+    },
+    "SPEED": {
+      "baseValue": 65
+    }
+  }
+}

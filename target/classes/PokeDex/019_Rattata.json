@@ -1,0 +1,27 @@
+{
+  "id": 19,
+  "name": "Rattata",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 30
+    },
+    "ATTACK": {
+      "baseValue": 56
+    },
+    "DEFENSE": {
+      "baseValue": 35
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 25
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 35
+    },
+    "SPEED": {
+      "baseValue": 72
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 130,
+  "name": "Gyarados",
+  "type": [
+    "WATER",
+    "FLYING"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 95
+    },
+    "ATTACK": {
+      "baseValue": 125
+    },
+    "DEFENSE": {
+      "baseValue": 79
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 60
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 100
+    },
+    "SPEED": {
+      "baseValue": 81
+    }
+  }
+}

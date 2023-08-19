@@ -1,0 +1,27 @@
+{
+  "id": 326,
+  "name": "Grumpig",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "HP": {
+      "baseValue": 80
+    },
+    "ATTACK": {
+      "baseValue": 45
+    },
+    "DEFENSE": {
+      "baseValue": 65
+    },
+    "SPECIAL_ATTACK": {
+      "baseValue": 90
+    },
+    "SPECIAL_DEFENSE": {
+      "baseValue": 110
+    },
+    "SPEED": {
+      "baseValue": 80
+    }
+  }
+}
