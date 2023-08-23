@@ -38,7 +38,7 @@ class Response {
         It's still in progress, so stay tuned for more updates!
                 
         by ScSmile
-        ver. 1.0.1""");
+        ver. 1.0.2""");
 
     SendHandler.setKeyboard(
         initKeyboard(new String[]{
