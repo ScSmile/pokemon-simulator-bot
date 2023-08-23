@@ -6,23 +6,13 @@
     "GHOST"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 59
-    },
-    "ATTACK": {
-      "baseValue": 110
-    },
-    "DEFENSE": {
-      "baseValue": 150
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 45
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 49
-    },
-    "SPEED": {
-      "baseValue": 35
-    }
+    "baseStats": [
+      59,
+      110,
+      150,
+      45,
+      49,
+      35
+    ]
   }
 }

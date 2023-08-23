@@ -6,23 +6,13 @@
     "POISON"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 50
-    },
-    "ATTACK": {
-      "baseValue": 75
-    },
-    "DEFENSE": {
-      "baseValue": 35
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 70
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 30
-    },
-    "SPEED": {
-      "baseValue": 40
-    }
+    "baseStats": [
+      50,
+      75,
+      35,
+      70,
+      30,
+      40
+    ]
   }
 }

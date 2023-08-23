@@ -5,23 +5,13 @@
     "FIRE"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 105
-    },
-    "ATTACK": {
-      "baseValue": 140
-    },
-    "DEFENSE": {
-      "baseValue": 55
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 30
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 55
-    },
-    "SPEED": {
-      "baseValue": 95
-    }
+    "baseStats": [
+      105,
+      140,
+      55,
+      30,
+      55,
+      95
+    ]
   }
 }

@@ -5,23 +5,13 @@
     "FAIRY"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 62
-    },
-    "ATTACK": {
-      "baseValue": 48
-    },
-    "DEFENSE": {
-      "baseValue": 66
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 59
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 57
-    },
-    "SPEED": {
-      "baseValue": 49
-    }
+    "baseStats": [
+      62,
+      48,
+      66,
+      59,
+      57,
+      49
+    ]
   }
 }

@@ -5,23 +5,13 @@
     "NORMAL"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 85
-    },
-    "ATTACK": {
-      "baseValue": 76
-    },
-    "DEFENSE": {
-      "baseValue": 64
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 45
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 55
-    },
-    "SPEED": {
-      "baseValue": 90
-    }
+    "baseStats": [
+      85,
+      76,
+      64,
+      45,
+      55,
+      90
+    ]
   }
 }

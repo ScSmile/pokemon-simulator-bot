@@ -6,23 +6,13 @@
     "PSYCHIC"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 80
-    },
-    "ATTACK": {
-      "baseValue": 135
-    },
-    "DEFENSE": {
-      "baseValue": 130
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 95
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 90
-    },
-    "SPEED": {
-      "baseValue": 70
-    }
+    "baseStats": [
+      80,
+      135,
+      130,
+      95,
+      90,
+      70
+    ]
   }
 }

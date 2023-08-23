@@ -5,23 +5,13 @@
     "WATER"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 71
-    },
-    "ATTACK": {
-      "baseValue": 73
-    },
-    "DEFENSE": {
-      "baseValue": 88
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 120
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 89
-    },
-    "SPEED": {
-      "baseValue": 59
-    }
+    "baseStats": [
+      71,
+      73,
+      88,
+      120,
+      89,
+      59
+    ]
   }
 }

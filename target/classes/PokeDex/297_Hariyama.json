@@ -5,23 +5,13 @@
     "FIGHTING"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 144
-    },
-    "ATTACK": {
-      "baseValue": 120
-    },
-    "DEFENSE": {
-      "baseValue": 60
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 40
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 60
-    },
-    "SPEED": {
-      "baseValue": 50
-    }
+    "baseStats": [
+      144,
+      120,
+      60,
+      40,
+      60,
+      50
+    ]
   }
 }

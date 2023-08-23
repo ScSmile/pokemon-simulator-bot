@@ -1,6 +1,6 @@
 enum State {
   INIT,
-  STARTED,
+  START,
   HELP,
   PKMN_INPUT,
   CHOICE,

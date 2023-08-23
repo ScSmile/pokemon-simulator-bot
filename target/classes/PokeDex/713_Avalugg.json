@@ -5,23 +5,13 @@
     "ICE"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 95
-    },
-    "ATTACK": {
-      "baseValue": 117
-    },
-    "DEFENSE": {
-      "baseValue": 184
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 44
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 46
-    },
-    "SPEED": {
-      "baseValue": 28
-    }
+    "baseStats": [
+      95,
+      117,
+      184,
+      44,
+      46,
+      28
+    ]
   }
 }

@@ -6,23 +6,13 @@
     "ROCK"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 60
-    },
-    "ATTACK": {
-      "baseValue": 90
-    },
-    "DEFENSE": {
-      "baseValue": 140
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 50
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 50
-    },
-    "SPEED": {
-      "baseValue": 40
-    }
+    "baseStats": [
+      60,
+      90,
+      140,
+      50,
+      50,
+      40
+    ]
   }
 }

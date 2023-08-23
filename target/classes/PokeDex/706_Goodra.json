@@ -5,23 +5,13 @@
     "DRAGON"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 90
-    },
-    "ATTACK": {
-      "baseValue": 100
-    },
-    "DEFENSE": {
-      "baseValue": 70
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 110
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 150
-    },
-    "SPEED": {
-      "baseValue": 80
-    }
+    "baseStats": [
+      90,
+      100,
+      70,
+      110,
+      150,
+      80
+    ]
   }
 }

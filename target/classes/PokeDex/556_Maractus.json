@@ -5,23 +5,13 @@
     "GRASS"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 75
-    },
-    "ATTACK": {
-      "baseValue": 86
-    },
-    "DEFENSE": {
-      "baseValue": 67
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 106
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 67
-    },
-    "SPEED": {
-      "baseValue": 60
-    }
+    "baseStats": [
+      75,
+      86,
+      67,
+      106,
+      67,
+      60
+    ]
   }
 }

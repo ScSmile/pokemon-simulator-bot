@@ -5,23 +5,13 @@
     "BUG"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 40
-    },
-    "ATTACK": {
-      "baseValue": 29
-    },
-    "DEFENSE": {
-      "baseValue": 45
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 29
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 45
-    },
-    "SPEED": {
-      "baseValue": 36
-    }
+    "baseStats": [
+      40,
+      29,
+      45,
+      29,
+      45,
+      36
+    ]
   }
 }

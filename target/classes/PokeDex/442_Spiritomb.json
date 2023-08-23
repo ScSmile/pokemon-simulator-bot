@@ -6,23 +6,13 @@
     "DARK"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 50
-    },
-    "ATTACK": {
-      "baseValue": 92
-    },
-    "DEFENSE": {
-      "baseValue": 108
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 92
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 108
-    },
-    "SPEED": {
-      "baseValue": 35
-    }
+    "baseStats": [
+      50,
+      92,
+      108,
+      92,
+      108,
+      35
+    ]
   }
 }

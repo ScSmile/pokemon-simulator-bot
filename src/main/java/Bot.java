@@ -25,18 +25,18 @@ public class Bot extends TelegramLongPollingBot {
     log.info("Recieved an update, ID: " + update.getUpdateId());
     if (update.hasMessage() && update.getMessage().hasText()) {
       ParsedMessage msg = new ParsedMessage(update.getMessage());
-      log.info("Recieved a message " + msg.text);
+      log.info("Recieved a message " + msg.getText());
 
-      handlerByIDList.putIfAbsent(msg.chatID, new MessageHandler());
-      MessageHandler currentHandler = handlerByIDList.get(msg.chatID);
+      handlerByIDList.putIfAbsent(msg.getChatID(), new MessageHandler());
+      MessageHandler currentHandler = handlerByIDList.get(msg.getChatID());
 
       currentHandler.operate(msg);
-      SendMessage sendMsg = setEmptyMessage(msg.chatID);
-      if (SendQueue.hasKeyboard()) {
-        sendMsg.setReplyMarkup(SendQueue.popKeyboard());
+      SendMessage sendMsg = setEmptyMessage(msg.getChatID());
+      if (SendHandler.hasKeyboard()) {
+        sendMsg.setReplyMarkup(SendHandler.popKeyboard());
       }
-      while (!SendQueue.isEmpty()) {
-        sendMsg.setText(SendQueue.dequeue());
+      while (!SendHandler.isEmpty()) {
+        sendMsg.setText(SendHandler.popMessage());
         sendMessage(sendMsg);
       }
     }

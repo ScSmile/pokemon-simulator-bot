@@ -5,7 +5,7 @@ import org.telegram.telegrambots.meta.api.objects.Message;
 
 public class ParsedMessage {
 
-  public static HashMap<String, Command> commandsMap = new HashMap<>() {{
+  public static final HashMap<String, Command> commandsMap = new HashMap<>() {{
     put("/start", Command.START);
     put("/help", Command.HELP);
     put("yes", Command.YES);
@@ -17,11 +17,11 @@ public class ParsedMessage {
   }};
 
   @Getter
-  public String text;
+  private final String text;
   @Getter
-  public Command command;
+  private final Command command;
   @Getter
-  public String chatID;
+  private final String chatID;
 
   ParsedMessage(Message message) {
     this.text = message.getText();

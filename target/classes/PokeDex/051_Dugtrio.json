@@ -5,23 +5,13 @@
     "GROUND"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 35
-    },
-    "ATTACK": {
-      "baseValue": 100
-    },
-    "DEFENSE": {
-      "baseValue": 50
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 50
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 70
-    },
-    "SPEED": {
-      "baseValue": 120
-    }
+    "baseStats": [
+      35,
+      100,
+      50,
+      50,
+      70,
+      120
+    ]
   }
 }

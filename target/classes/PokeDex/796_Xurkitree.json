@@ -5,23 +5,13 @@
     "ELECTRIC"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 83
-    },
-    "ATTACK": {
-      "baseValue": 89
-    },
-    "DEFENSE": {
-      "baseValue": 71
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 173
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 71
-    },
-    "SPEED": {
-      "baseValue": 83
-    }
+    "baseStats": [
+      83,
+      89,
+      71,
+      173,
+      71,
+      83
+    ]
   }
 }

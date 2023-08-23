@@ -6,23 +6,13 @@
     "STEEL"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 65
-    },
-    "ATTACK": {
-      "baseValue": 98
-    },
-    "DEFENSE": {
-      "baseValue": 63
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 40
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 73
-    },
-    "SPEED": {
-      "baseValue": 96
-    }
+    "baseStats": [
+      65,
+      98,
+      63,
+      40,
+      73,
+      96
+    ]
   }
 }

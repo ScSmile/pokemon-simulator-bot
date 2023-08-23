@@ -6,23 +6,13 @@
     "FLYING"
   ],
   "stats": {
-    "HP": {
-      "baseValue": 78
-    },
-    "ATTACK": {
-      "baseValue": 81
-    },
-    "DEFENSE": {
-      "baseValue": 71
-    },
-    "SPECIAL_ATTACK": {
-      "baseValue": 74
-    },
-    "SPECIAL_DEFENSE": {
-      "baseValue": 69
-    },
-    "SPEED": {
-      "baseValue": 126
-    }
+    "baseStats": [
+      78,
+      81,
+      71,
+      74,
+      69,
+      126
+    ]
   }
 }
