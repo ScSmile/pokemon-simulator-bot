@@ -1,0 +1,17 @@
+{
+  "id": 523,
+  "name": "Zebstrika",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      100,
+      63,
+      80,
+      63,
+      116
+    ]
+  }
+}

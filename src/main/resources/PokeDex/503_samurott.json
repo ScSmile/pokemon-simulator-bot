@@ -1,0 +1,17 @@
+{
+  "id": 503,
+  "name": "Samurott",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      95,
+      100,
+      85,
+      108,
+      70,
+      70
+    ]
+  }
+}

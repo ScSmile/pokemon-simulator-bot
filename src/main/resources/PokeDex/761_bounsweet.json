@@ -1,0 +1,17 @@
+{
+  "id": 761,
+  "name": "Bounsweet",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      42,
+      30,
+      38,
+      30,
+      38,
+      32
+    ]
+  }
+}

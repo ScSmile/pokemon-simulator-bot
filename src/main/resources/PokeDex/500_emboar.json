@@ -1,0 +1,18 @@
+{
+  "id": 500,
+  "name": "Emboar",
+  "type": [
+    "FIRE",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      110,
+      123,
+      65,
+      100,
+      65,
+      65
+    ]
+  }
+}

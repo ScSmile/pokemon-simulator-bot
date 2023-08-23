@@ -1,0 +1,18 @@
+{
+  "id": 558,
+  "name": "Crustle",
+  "type": [
+    "BUG",
+    "ROCK"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      105,
+      125,
+      65,
+      75,
+      45
+    ]
+  }
+}

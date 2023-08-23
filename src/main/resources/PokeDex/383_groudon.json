@@ -1,0 +1,17 @@
+{
+  "id": 383,
+  "name": "Groudon",
+  "type": [
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      100,
+      150,
+      140,
+      100,
+      90,
+      90
+    ]
+  }
+}

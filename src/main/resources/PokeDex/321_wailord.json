@@ -1,0 +1,17 @@
+{
+  "id": 321,
+  "name": "Wailord",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      170,
+      90,
+      45,
+      90,
+      45,
+      60
+    ]
+  }
+}

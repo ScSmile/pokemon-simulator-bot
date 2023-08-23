@@ -1,0 +1,17 @@
+{
+  "id": 670,
+  "name": "Floette",
+  "type": [
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      54,
+      45,
+      47,
+      75,
+      98,
+      52
+    ]
+  }
+}

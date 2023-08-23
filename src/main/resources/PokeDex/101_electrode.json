@@ -1,0 +1,17 @@
+{
+  "id": 101,
+  "name": "Electrode",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      50,
+      70,
+      80,
+      80,
+      150
+    ]
+  }
+}

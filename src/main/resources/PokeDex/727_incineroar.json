@@ -1,0 +1,18 @@
+{
+  "id": 727,
+  "name": "Incineroar",
+  "type": [
+    "FIRE",
+    "DARK"
+  ],
+  "stats": {
+    "baseStats": [
+      95,
+      115,
+      90,
+      80,
+      90,
+      60
+    ]
+  }
+}

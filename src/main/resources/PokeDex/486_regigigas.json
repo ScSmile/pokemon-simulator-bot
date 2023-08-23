@@ -1,0 +1,17 @@
+{
+  "id": 486,
+  "name": "Regigigas",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      110,
+      160,
+      110,
+      80,
+      110,
+      100
+    ]
+  }
+}

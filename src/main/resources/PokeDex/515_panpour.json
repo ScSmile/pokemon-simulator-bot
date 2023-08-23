@@ -1,0 +1,17 @@
+{
+  "id": 515,
+  "name": "Panpour",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      53,
+      48,
+      53,
+      48,
+      64
+    ]
+  }
+}

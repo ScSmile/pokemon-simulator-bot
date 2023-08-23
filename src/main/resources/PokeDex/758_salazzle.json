@@ -1,0 +1,18 @@
+{
+  "id": 758,
+  "name": "Salazzle",
+  "type": [
+    "POISON",
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      68,
+      64,
+      60,
+      111,
+      60,
+      117
+    ]
+  }
+}

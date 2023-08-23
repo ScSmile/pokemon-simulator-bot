@@ -1,0 +1,17 @@
+{
+  "id": 440,
+  "name": "Happiny",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      100,
+      5,
+      5,
+      15,
+      65,
+      30
+    ]
+  }
+}

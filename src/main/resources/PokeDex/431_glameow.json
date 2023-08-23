@@ -1,0 +1,17 @@
+{
+  "id": 431,
+  "name": "Glameow",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      49,
+      55,
+      42,
+      42,
+      37,
+      85
+    ]
+  }
+}

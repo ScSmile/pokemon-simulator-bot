@@ -1,0 +1,18 @@
+{
+  "id": 675,
+  "name": "Pangoro",
+  "type": [
+    "FIGHTING",
+    "DARK"
+  ],
+  "stats": {
+    "baseStats": [
+      95,
+      124,
+      78,
+      69,
+      71,
+      58
+    ]
+  }
+}

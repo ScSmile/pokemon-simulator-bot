@@ -1,0 +1,18 @@
+{
+  "id": 732,
+  "name": "Trumbeak",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      85,
+      50,
+      40,
+      50,
+      75
+    ]
+  }
+}

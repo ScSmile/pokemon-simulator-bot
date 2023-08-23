@@ -1,0 +1,18 @@
+{
+  "id": 697,
+  "name": "Tyrantrum",
+  "type": [
+    "ROCK",
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      82,
+      121,
+      119,
+      69,
+      59,
+      71
+    ]
+  }
+}

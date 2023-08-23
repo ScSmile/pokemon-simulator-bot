@@ -1,0 +1,18 @@
+{
+  "id": 802,
+  "name": "Marshadow",
+  "type": [
+    "FIGHTING",
+    "GHOST"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      125,
+      80,
+      90,
+      90,
+      125
+    ]
+  }
+}

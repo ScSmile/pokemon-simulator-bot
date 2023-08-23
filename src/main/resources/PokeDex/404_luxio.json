@@ -1,0 +1,17 @@
+{
+  "id": 404,
+  "name": "Luxio",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      85,
+      49,
+      60,
+      49,
+      60
+    ]
+  }
+}

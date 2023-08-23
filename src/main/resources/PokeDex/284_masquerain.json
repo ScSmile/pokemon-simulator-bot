@@ -1,0 +1,18 @@
+{
+  "id": 284,
+  "name": "Masquerain",
+  "type": [
+    "BUG",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      60,
+      62,
+      100,
+      82,
+      80
+    ]
+  }
+}

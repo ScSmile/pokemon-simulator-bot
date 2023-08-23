@@ -1,0 +1,17 @@
+{
+  "id": 693,
+  "name": "Clawitzer",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      71,
+      73,
+      88,
+      120,
+      89,
+      59
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 133,
+  "name": "Eevee",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      55,
+      50,
+      45,
+      65,
+      55
+    ]
+  }
+}

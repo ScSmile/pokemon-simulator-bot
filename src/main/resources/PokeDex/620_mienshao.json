@@ -1,0 +1,17 @@
+{
+  "id": 620,
+  "name": "Mienshao",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      125,
+      60,
+      95,
+      60,
+      105
+    ]
+  }
+}

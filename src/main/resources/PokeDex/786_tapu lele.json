@@ -1,0 +1,18 @@
+{
+  "id": 786,
+  "name": "Tapu Lele",
+  "type": [
+    "PSYCHIC",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      85,
+      75,
+      130,
+      115,
+      95
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 389,
+  "name": "Torterra",
+  "type": [
+    "GRASS",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      95,
+      109,
+      105,
+      75,
+      85,
+      56
+    ]
+  }
+}

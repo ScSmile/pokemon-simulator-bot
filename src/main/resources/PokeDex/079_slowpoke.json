@@ -1,0 +1,18 @@
+{
+  "id": 79,
+  "name": "Slowpoke",
+  "type": [
+    "WATER",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      65,
+      65,
+      40,
+      40,
+      15
+    ]
+  }
+}

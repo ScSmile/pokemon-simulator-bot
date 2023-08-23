@@ -1,0 +1,18 @@
+{
+  "id": 315,
+  "name": "Roselia",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      60,
+      45,
+      100,
+      80,
+      65
+    ]
+  }
+}

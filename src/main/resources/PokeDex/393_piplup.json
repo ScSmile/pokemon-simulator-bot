@@ -1,0 +1,17 @@
+{
+  "id": 393,
+  "name": "Piplup",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      53,
+      51,
+      53,
+      61,
+      56,
+      40
+    ]
+  }
+}

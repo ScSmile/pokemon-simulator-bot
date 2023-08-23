@@ -1,0 +1,18 @@
+{
+  "id": 43,
+  "name": "Oddish",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      50,
+      55,
+      75,
+      65,
+      30
+    ]
+  }
+}

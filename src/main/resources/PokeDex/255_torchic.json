@@ -1,0 +1,17 @@
+{
+  "id": 255,
+  "name": "Torchic",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      60,
+      40,
+      70,
+      50,
+      45
+    ]
+  }
+}

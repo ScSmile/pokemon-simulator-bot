@@ -1,0 +1,17 @@
+{
+  "id": 9,
+  "name": "Blastoise",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      79,
+      83,
+      100,
+      85,
+      105,
+      78
+    ]
+  }
+}

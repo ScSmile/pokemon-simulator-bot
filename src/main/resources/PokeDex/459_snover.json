@@ -1,0 +1,18 @@
+{
+  "id": 459,
+  "name": "Snover",
+  "type": [
+    "GRASS",
+    "ICE"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      62,
+      50,
+      62,
+      60,
+      40
+    ]
+  }
+}

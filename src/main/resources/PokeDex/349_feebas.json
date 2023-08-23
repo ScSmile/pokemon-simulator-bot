@@ -1,0 +1,17 @@
+{
+  "id": 349,
+  "name": "Feebas",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      20,
+      15,
+      20,
+      10,
+      55,
+      80
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 209,
+  "name": "Snubbull",
+  "type": [
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      80,
+      50,
+      40,
+      40,
+      30
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 149,
+  "name": "Dragonite",
+  "type": [
+    "DRAGON",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      91,
+      134,
+      95,
+      100,
+      100,
+      80
+    ]
+  }
+}

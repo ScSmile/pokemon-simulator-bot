@@ -1,0 +1,17 @@
+{
+  "id": 27,
+  "name": "Sandshrew",
+  "type": [
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      75,
+      85,
+      20,
+      30,
+      40
+    ]
+  }
+}

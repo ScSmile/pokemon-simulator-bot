@@ -1,0 +1,17 @@
+{
+  "id": 677,
+  "name": "Espurr",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      62,
+      48,
+      54,
+      63,
+      60,
+      68
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 125,
+  "name": "Electabuzz",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      83,
+      57,
+      95,
+      85,
+      105
+    ]
+  }
+}

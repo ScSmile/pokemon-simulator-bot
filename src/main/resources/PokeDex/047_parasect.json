@@ -1,0 +1,18 @@
+{
+  "id": 47,
+  "name": "Parasect",
+  "type": [
+    "BUG",
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      95,
+      80,
+      60,
+      80,
+      30
+    ]
+  }
+}

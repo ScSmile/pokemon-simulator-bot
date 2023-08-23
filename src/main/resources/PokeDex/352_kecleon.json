@@ -1,0 +1,17 @@
+{
+  "id": 352,
+  "name": "Kecleon",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      90,
+      70,
+      60,
+      120,
+      40
+    ]
+  }
+}

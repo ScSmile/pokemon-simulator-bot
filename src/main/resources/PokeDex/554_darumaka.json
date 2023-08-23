@@ -1,0 +1,17 @@
+{
+  "id": 554,
+  "name": "Darumaka",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      90,
+      45,
+      15,
+      45,
+      50
+    ]
+  }
+}

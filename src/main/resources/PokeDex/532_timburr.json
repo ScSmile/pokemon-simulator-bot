@@ -1,0 +1,17 @@
+{
+  "id": 532,
+  "name": "Timburr",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      80,
+      55,
+      25,
+      35,
+      35
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 156,
+  "name": "Quilava",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      58,
+      64,
+      58,
+      80,
+      65,
+      80
+    ]
+  }
+}

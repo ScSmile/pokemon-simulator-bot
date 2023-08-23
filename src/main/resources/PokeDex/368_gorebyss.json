@@ -1,0 +1,17 @@
+{
+  "id": 368,
+  "name": "Gorebyss",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      84,
+      105,
+      114,
+      75,
+      52
+    ]
+  }
+}

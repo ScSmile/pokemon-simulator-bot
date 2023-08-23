@@ -1,0 +1,18 @@
+{
+  "id": 694,
+  "name": "Helioptile",
+  "type": [
+    "ELECTRIC",
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      44,
+      38,
+      33,
+      61,
+      43,
+      70
+    ]
+  }
+}

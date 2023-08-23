@@ -1,0 +1,17 @@
+{
+  "id": 429,
+  "name": "Mismagius",
+  "type": [
+    "GHOST"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      60,
+      60,
+      105,
+      105,
+      105
+    ]
+  }
+}

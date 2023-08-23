@@ -1,0 +1,17 @@
+{
+  "id": 99,
+  "name": "Kingler",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      130,
+      115,
+      50,
+      50,
+      75
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 345,
+  "name": "Lileep",
+  "type": [
+    "ROCK",
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      66,
+      41,
+      77,
+      61,
+      87,
+      23
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 396,
+  "name": "Starly",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      55,
+      30,
+      30,
+      30,
+      60
+    ]
+  }
+}

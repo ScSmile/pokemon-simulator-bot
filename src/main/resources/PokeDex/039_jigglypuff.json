@@ -1,0 +1,18 @@
+{
+  "id": 39,
+  "name": "Jigglypuff",
+  "type": [
+    "NORMAL",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      115,
+      45,
+      20,
+      45,
+      25,
+      20
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 425,
+  "name": "Drifloon",
+  "type": [
+    "GHOST",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      50,
+      34,
+      60,
+      44,
+      70
+    ]
+  }
+}

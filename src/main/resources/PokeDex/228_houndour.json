@@ -1,0 +1,18 @@
+{
+  "id": 228,
+  "name": "Houndour",
+  "type": [
+    "DARK",
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      60,
+      30,
+      80,
+      50,
+      65
+    ]
+  }
+}

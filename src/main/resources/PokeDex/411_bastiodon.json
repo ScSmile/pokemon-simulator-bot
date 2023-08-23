@@ -1,0 +1,18 @@
+{
+  "id": 411,
+  "name": "Bastiodon",
+  "type": [
+    "ROCK",
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      52,
+      168,
+      47,
+      138,
+      30
+    ]
+  }
+}

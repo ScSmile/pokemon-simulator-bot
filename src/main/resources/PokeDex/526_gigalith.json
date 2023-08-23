@@ -1,0 +1,17 @@
+{
+  "id": 526,
+  "name": "Gigalith",
+  "type": [
+    "ROCK"
+  ],
+  "stats": {
+    "baseStats": [
+      85,
+      135,
+      130,
+      60,
+      80,
+      25
+    ]
+  }
+}

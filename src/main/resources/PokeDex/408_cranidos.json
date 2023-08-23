@@ -1,0 +1,17 @@
+{
+  "id": 408,
+  "name": "Cranidos",
+  "type": [
+    "ROCK"
+  ],
+  "stats": {
+    "baseStats": [
+      67,
+      125,
+      40,
+      30,
+      30,
+      58
+    ]
+  }
+}

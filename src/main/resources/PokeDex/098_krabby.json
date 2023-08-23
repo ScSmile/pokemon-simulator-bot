@@ -1,0 +1,17 @@
+{
+  "id": 98,
+  "name": "Krabby",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      30,
+      105,
+      90,
+      25,
+      25,
+      50
+    ]
+  }
+}

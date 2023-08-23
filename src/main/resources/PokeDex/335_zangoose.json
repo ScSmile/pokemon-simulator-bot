@@ -1,0 +1,17 @@
+{
+  "id": 335,
+  "name": "Zangoose",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      73,
+      115,
+      60,
+      60,
+      60,
+      90
+    ]
+  }
+}

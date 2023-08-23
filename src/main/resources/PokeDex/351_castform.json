@@ -1,0 +1,17 @@
+{
+  "id": 351,
+  "name": "Castform",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+    ]
+  }
+}

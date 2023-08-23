@@ -1,0 +1,18 @@
+{
+  "id": 689,
+  "name": "Barbaracle",
+  "type": [
+    "ROCK",
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      72,
+      105,
+      115,
+      54,
+      86,
+      68
+    ]
+  }
+}

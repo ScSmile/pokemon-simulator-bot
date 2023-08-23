@@ -1,0 +1,17 @@
+{
+  "id": 651,
+  "name": "Quilladin",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      61,
+      78,
+      95,
+      56,
+      58,
+      57
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 128,
+  "name": "Tauros",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      100,
+      95,
+      40,
+      70,
+      110
+    ]
+  }
+}

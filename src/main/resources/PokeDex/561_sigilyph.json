@@ -1,0 +1,18 @@
+{
+  "id": 561,
+  "name": "Sigilyph",
+  "type": [
+    "PSYCHIC",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      72,
+      58,
+      80,
+      103,
+      80,
+      97
+    ]
+  }
+}

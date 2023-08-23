@@ -1,0 +1,17 @@
+{
+  "id": 388,
+  "name": "Grotle",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      89,
+      85,
+      55,
+      65,
+      36
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 533,
+  "name": "Gurdurr",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      85,
+      105,
+      85,
+      40,
+      50,
+      40
+    ]
+  }
+}

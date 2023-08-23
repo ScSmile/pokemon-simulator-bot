@@ -1,0 +1,17 @@
+{
+  "id": 684,
+  "name": "Swirlix",
+  "type": [
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      62,
+      48,
+      66,
+      59,
+      57,
+      49
+    ]
+  }
+}

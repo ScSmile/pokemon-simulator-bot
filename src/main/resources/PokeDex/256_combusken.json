@@ -1,0 +1,18 @@
+{
+  "id": 256,
+  "name": "Combusken",
+  "type": [
+    "FIRE",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      85,
+      60,
+      85,
+      60,
+      55
+    ]
+  }
+}

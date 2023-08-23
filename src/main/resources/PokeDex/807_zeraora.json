@@ -1,0 +1,17 @@
+{
+  "id": 807,
+  "name": "Zeraora",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      88,
+      112,
+      75,
+      102,
+      80,
+      143
+    ]
+  }
+}

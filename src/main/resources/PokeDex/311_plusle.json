@@ -1,0 +1,17 @@
+{
+  "id": 311,
+  "name": "Plusle",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      50,
+      40,
+      85,
+      75,
+      95
+    ]
+  }
+}

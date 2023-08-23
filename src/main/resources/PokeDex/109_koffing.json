@@ -1,0 +1,17 @@
+{
+  "id": 109,
+  "name": "Koffing",
+  "type": [
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      65,
+      95,
+      60,
+      45,
+      35
+    ]
+  }
+}

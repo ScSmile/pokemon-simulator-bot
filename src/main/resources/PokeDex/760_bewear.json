@@ -1,0 +1,18 @@
+{
+  "id": 760,
+  "name": "Bewear",
+  "type": [
+    "NORMAL",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      120,
+      125,
+      80,
+      55,
+      60,
+      60
+    ]
+  }
+}

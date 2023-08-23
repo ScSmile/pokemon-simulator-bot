@@ -1,0 +1,17 @@
+{
+  "id": 20,
+  "name": "Raticate",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      81,
+      60,
+      50,
+      70,
+      97
+    ]
+  }
+}

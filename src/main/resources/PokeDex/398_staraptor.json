@@ -1,0 +1,18 @@
+{
+  "id": 398,
+  "name": "Staraptor",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      85,
+      120,
+      70,
+      50,
+      60,
+      100
+    ]
+  }
+}

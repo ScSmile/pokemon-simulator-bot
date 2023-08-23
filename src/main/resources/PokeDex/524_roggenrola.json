@@ -1,0 +1,17 @@
+{
+  "id": 524,
+  "name": "Roggenrola",
+  "type": [
+    "ROCK"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      75,
+      85,
+      25,
+      25,
+      15
+    ]
+  }
+}

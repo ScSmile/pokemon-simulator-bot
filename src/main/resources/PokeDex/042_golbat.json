@@ -1,0 +1,18 @@
+{
+  "id": 42,
+  "name": "Golbat",
+  "type": [
+    "POISON",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      80,
+      70,
+      65,
+      75,
+      90
+    ]
+  }
+}

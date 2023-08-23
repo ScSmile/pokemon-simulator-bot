@@ -1,0 +1,17 @@
+{
+  "id": 419,
+  "name": "Floatzel",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      85,
+      105,
+      55,
+      85,
+      50,
+      115
+    ]
+  }
+}

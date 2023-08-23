@@ -1,0 +1,17 @@
+{
+  "id": 358,
+  "name": "Chimecho",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      50,
+      80,
+      95,
+      90,
+      65
+    ]
+  }
+}

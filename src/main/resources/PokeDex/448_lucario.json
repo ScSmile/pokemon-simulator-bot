@@ -1,0 +1,18 @@
+{
+  "id": 448,
+  "name": "Lucario",
+  "type": [
+    "FIGHTING",
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      110,
+      70,
+      115,
+      70,
+      90
+    ]
+  }
+}

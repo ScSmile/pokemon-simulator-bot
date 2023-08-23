@@ -1,0 +1,18 @@
+{
+  "id": 142,
+  "name": "Aerodactyl",
+  "type": [
+    "ROCK",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      105,
+      65,
+      60,
+      75,
+      130
+    ]
+  }
+}

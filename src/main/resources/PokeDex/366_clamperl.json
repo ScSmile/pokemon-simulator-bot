@@ -1,0 +1,17 @@
+{
+  "id": 366,
+  "name": "Clamperl",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      35,
+      64,
+      85,
+      74,
+      55,
+      32
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 445,
+  "name": "Garchomp",
+  "type": [
+    "DRAGON",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      108,
+      130,
+      95,
+      80,
+      85,
+      102
+    ]
+  }
+}

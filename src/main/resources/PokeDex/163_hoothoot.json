@@ -1,0 +1,18 @@
+{
+  "id": 163,
+  "name": "Hoothoot",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      30,
+      30,
+      36,
+      56,
+      50
+    ]
+  }
+}

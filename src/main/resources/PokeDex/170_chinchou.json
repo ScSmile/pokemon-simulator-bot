@@ -1,0 +1,18 @@
+{
+  "id": 170,
+  "name": "Chinchou",
+  "type": [
+    "WATER",
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      38,
+      38,
+      56,
+      56,
+      67
+    ]
+  }
+}

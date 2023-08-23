@@ -1,0 +1,18 @@
+{
+  "id": 71,
+  "name": "Victreebel",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      105,
+      65,
+      100,
+      70,
+      70
+    ]
+  }
+}

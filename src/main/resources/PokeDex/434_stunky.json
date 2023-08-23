@@ -1,0 +1,18 @@
+{
+  "id": 434,
+  "name": "Stunky",
+  "type": [
+    "POISON",
+    "DARK"
+  ],
+  "stats": {
+    "baseStats": [
+      63,
+      63,
+      47,
+      41,
+      41,
+      74
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 432,
+  "name": "Purugly",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      71,
+      82,
+      64,
+      64,
+      59,
+      112
+    ]
+  }
+}

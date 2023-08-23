@@ -1,0 +1,17 @@
+{
+  "id": 574,
+  "name": "Gothita",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      30,
+      50,
+      55,
+      65,
+      45
+    ]
+  }
+}

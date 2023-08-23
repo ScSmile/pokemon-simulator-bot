@@ -1,0 +1,18 @@
+{
+  "id": 80,
+  "name": "Slowbro",
+  "type": [
+    "WATER",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      95,
+      75,
+      110,
+      100,
+      80,
+      30
+    ]
+  }
+}

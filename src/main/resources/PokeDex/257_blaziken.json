@@ -1,0 +1,18 @@
+{
+  "id": 257,
+  "name": "Blaziken",
+  "type": [
+    "FIRE",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      120,
+      70,
+      110,
+      70,
+      80
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 297,
+  "name": "Hariyama",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      144,
+      120,
+      60,
+      40,
+      60,
+      50
+    ]
+  }
+}

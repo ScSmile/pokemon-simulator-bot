@@ -1,0 +1,17 @@
+{
+  "id": 53,
+  "name": "Persian",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      70,
+      60,
+      65,
+      65,
+      115
+    ]
+  }
+}

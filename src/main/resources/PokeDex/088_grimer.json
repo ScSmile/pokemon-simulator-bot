@@ -1,0 +1,17 @@
+{
+  "id": 88,
+  "name": "Grimer",
+  "type": [
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      80,
+      50,
+      40,
+      50,
+      25
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 637,
+  "name": "Volcarona",
+  "type": [
+    "BUG",
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      85,
+      60,
+      65,
+      135,
+      105,
+      100
+    ]
+  }
+}

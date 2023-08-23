@@ -1,0 +1,18 @@
+{
+  "id": 213,
+  "name": "Shuckle",
+  "type": [
+    "BUG",
+    "ROCK"
+  ],
+  "stats": {
+    "baseStats": [
+      20,
+      10,
+      230,
+      10,
+      230,
+      5
+    ]
+  }
+}

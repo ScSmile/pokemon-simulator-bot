@@ -1,0 +1,17 @@
+{
+  "id": 360,
+  "name": "Wynaut",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      95,
+      23,
+      48,
+      23,
+      48,
+      23
+    ]
+  }
+}

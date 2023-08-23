@@ -1,0 +1,17 @@
+{
+  "id": 399,
+  "name": "Bidoof",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      59,
+      45,
+      40,
+      35,
+      40,
+      31
+    ]
+  }
+}

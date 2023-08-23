@@ -1,0 +1,18 @@
+{
+  "id": 443,
+  "name": "Gible",
+  "type": [
+    "DRAGON",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      58,
+      70,
+      45,
+      40,
+      45,
+      42
+    ]
+  }
+}

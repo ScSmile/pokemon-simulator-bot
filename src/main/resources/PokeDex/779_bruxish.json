@@ -1,0 +1,18 @@
+{
+  "id": 779,
+  "name": "Bruxish",
+  "type": [
+    "WATER",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      68,
+      105,
+      70,
+      70,
+      70,
+      92
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 757,
+  "name": "Salandit",
+  "type": [
+    "POISON",
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      48,
+      44,
+      40,
+      71,
+      40,
+      77
+    ]
+  }
+}

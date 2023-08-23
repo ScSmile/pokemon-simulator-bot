@@ -1,0 +1,18 @@
+{
+  "id": 306,
+  "name": "Aggron",
+  "type": [
+    "STEEL",
+    "ROCK"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      110,
+      180,
+      60,
+      60,
+      50
+    ]
+  }
+}

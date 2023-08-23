@@ -1,0 +1,17 @@
+{
+  "id": 223,
+  "name": "Remoraid",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      35,
+      65,
+      35,
+      65,
+      35,
+      65
+    ]
+  }
+}

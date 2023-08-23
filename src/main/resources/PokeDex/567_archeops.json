@@ -1,0 +1,18 @@
+{
+  "id": 567,
+  "name": "Archeops",
+  "type": [
+    "ROCK",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      140,
+      65,
+      112,
+      65,
+      110
+    ]
+  }
+}

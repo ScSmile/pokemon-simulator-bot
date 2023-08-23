@@ -1,0 +1,17 @@
+{
+  "id": 573,
+  "name": "Cinccino",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      95,
+      60,
+      65,
+      60,
+      115
+    ]
+  }
+}

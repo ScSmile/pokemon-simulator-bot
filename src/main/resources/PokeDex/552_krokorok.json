@@ -1,0 +1,18 @@
+{
+  "id": 552,
+  "name": "Krokorok",
+  "type": [
+    "GROUND",
+    "DARK"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      82,
+      45,
+      45,
+      45,
+      74
+    ]
+  }
+}

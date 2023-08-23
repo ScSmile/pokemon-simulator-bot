@@ -1,0 +1,18 @@
+{
+  "id": 44,
+  "name": "Gloom",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      65,
+      70,
+      85,
+      75,
+      40
+    ]
+  }
+}

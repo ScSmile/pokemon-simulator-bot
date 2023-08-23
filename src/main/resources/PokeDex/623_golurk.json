@@ -1,0 +1,18 @@
+{
+  "id": 623,
+  "name": "Golurk",
+  "type": [
+    "GROUND",
+    "GHOST"
+  ],
+  "stats": {
+    "baseStats": [
+      89,
+      124,
+      80,
+      55,
+      80,
+      55
+    ]
+  }
+}

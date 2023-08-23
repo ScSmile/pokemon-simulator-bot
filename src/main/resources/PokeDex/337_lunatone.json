@@ -1,0 +1,18 @@
+{
+  "id": 337,
+  "name": "Lunatone",
+  "type": [
+    "ROCK",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      55,
+      65,
+      95,
+      85,
+      70
+    ]
+  }
+}

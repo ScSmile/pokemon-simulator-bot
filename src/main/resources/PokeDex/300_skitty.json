@@ -1,0 +1,17 @@
+{
+  "id": 300,
+  "name": "Skitty",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      45,
+      45,
+      35,
+      35,
+      50
+    ]
+  }
+}

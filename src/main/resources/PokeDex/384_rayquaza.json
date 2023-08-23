@@ -1,0 +1,18 @@
+{
+  "id": 384,
+  "name": "Rayquaza",
+  "type": [
+    "DRAGON",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      105,
+      150,
+      90,
+      150,
+      90,
+      95
+    ]
+  }
+}

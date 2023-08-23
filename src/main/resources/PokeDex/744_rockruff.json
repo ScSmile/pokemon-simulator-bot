@@ -1,0 +1,17 @@
+{
+  "id": 744,
+  "name": "Rockruff",
+  "type": [
+    "ROCK"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      65,
+      40,
+      30,
+      40,
+      60
+    ]
+  }
+}

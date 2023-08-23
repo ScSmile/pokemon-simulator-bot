@@ -1,0 +1,18 @@
+{
+  "id": 547,
+  "name": "Whimsicott",
+  "type": [
+    "GRASS",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      67,
+      85,
+      77,
+      75,
+      116
+    ]
+  }
+}

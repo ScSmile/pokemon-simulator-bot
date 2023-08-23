@@ -1,0 +1,18 @@
+{
+  "id": 792,
+  "name": "Lunala",
+  "type": [
+    "PSYCHIC",
+    "GHOST"
+  ],
+  "stats": {
+    "baseStats": [
+      137,
+      113,
+      89,
+      137,
+      107,
+      97
+    ]
+  }
+}

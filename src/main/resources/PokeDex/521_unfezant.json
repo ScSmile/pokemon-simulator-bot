@@ -1,0 +1,18 @@
+{
+  "id": 521,
+  "name": "Unfezant",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      115,
+      80,
+      65,
+      55,
+      93
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 251,
+  "name": "Celebi",
+  "type": [
+    "PSYCHIC",
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 232,
+  "name": "Donphan",
+  "type": [
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      120,
+      120,
+      60,
+      60,
+      50
+    ]
+  }
+}

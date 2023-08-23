@@ -1,0 +1,17 @@
+{
+  "id": 180,
+  "name": "Flaaffy",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      55,
+      55,
+      80,
+      60,
+      45
+    ]
+  }
+}

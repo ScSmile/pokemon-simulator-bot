@@ -1,0 +1,18 @@
+{
+  "id": 13,
+  "name": "Weedle",
+  "type": [
+    "BUG",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      35,
+      30,
+      20,
+      20,
+      50
+    ]
+  }
+}

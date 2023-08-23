@@ -1,0 +1,18 @@
+{
+  "id": 188,
+  "name": "Skiploom",
+  "type": [
+    "GRASS",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      45,
+      50,
+      45,
+      65,
+      80
+    ]
+  }
+}

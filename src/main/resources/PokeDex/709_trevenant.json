@@ -1,0 +1,18 @@
+{
+  "id": 709,
+  "name": "Trevenant",
+  "type": [
+    "GHOST",
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      85,
+      110,
+      76,
+      65,
+      82,
+      56
+    ]
+  }
+}

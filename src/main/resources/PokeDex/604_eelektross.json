@@ -1,0 +1,17 @@
+{
+  "id": 604,
+  "name": "Eelektross",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      85,
+      115,
+      80,
+      105,
+      80,
+      50
+    ]
+  }
+}

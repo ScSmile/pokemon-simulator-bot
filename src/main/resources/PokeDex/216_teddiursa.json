@@ -1,0 +1,17 @@
+{
+  "id": 216,
+  "name": "Teddiursa",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      80,
+      50,
+      50,
+      50,
+      40
+    ]
+  }
+}

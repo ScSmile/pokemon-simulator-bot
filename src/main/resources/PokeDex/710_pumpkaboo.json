@@ -1,0 +1,18 @@
+{
+  "id": 710,
+  "name": "Pumpkaboo",
+  "type": [
+    "GHOST",
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      59,
+      66,
+      70,
+      44,
+      55,
+      41
+    ]
+  }
+}

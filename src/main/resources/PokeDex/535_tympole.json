@@ -1,0 +1,17 @@
+{
+  "id": 535,
+  "name": "Tympole",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      50,
+      40,
+      50,
+      40,
+      64
+    ]
+  }
+}

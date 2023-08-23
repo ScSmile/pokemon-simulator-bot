@@ -1,0 +1,17 @@
+{
+  "id": 529,
+  "name": "Drilbur",
+  "type": [
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      85,
+      40,
+      30,
+      45,
+      68
+    ]
+  }
+}

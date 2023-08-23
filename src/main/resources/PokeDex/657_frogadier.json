@@ -1,0 +1,17 @@
+{
+  "id": 657,
+  "name": "Frogadier",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      54,
+      63,
+      52,
+      83,
+      56,
+      97
+    ]
+  }
+}

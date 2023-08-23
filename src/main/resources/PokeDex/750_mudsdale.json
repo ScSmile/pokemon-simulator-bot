@@ -1,0 +1,17 @@
+{
+  "id": 750,
+  "name": "Mudsdale",
+  "type": [
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      100,
+      125,
+      100,
+      55,
+      85,
+      35
+    ]
+  }
+}

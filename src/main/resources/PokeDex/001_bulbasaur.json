@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "name": "Bulbasaur",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      49,
+      49,
+      65,
+      65,
+      45
+    ]
+  }
+}

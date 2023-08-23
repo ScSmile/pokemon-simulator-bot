@@ -1,0 +1,17 @@
+{
+  "id": 293,
+  "name": "Whismur",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      64,
+      51,
+      23,
+      51,
+      23,
+      28
+    ]
+  }
+}

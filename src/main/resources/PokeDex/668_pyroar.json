@@ -1,0 +1,18 @@
+{
+  "id": 668,
+  "name": "Pyroar",
+  "type": [
+    "FIRE",
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      86,
+      68,
+      72,
+      109,
+      66,
+      106
+    ]
+  }
+}

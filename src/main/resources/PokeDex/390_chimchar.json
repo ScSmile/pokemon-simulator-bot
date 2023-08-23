@@ -1,0 +1,17 @@
+{
+  "id": 390,
+  "name": "Chimchar",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      44,
+      58,
+      44,
+      58,
+      44,
+      61
+    ]
+  }
+}

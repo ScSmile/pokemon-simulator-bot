@@ -1,0 +1,17 @@
+{
+  "id": 60,
+  "name": "Poliwag",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      50,
+      40,
+      40,
+      40,
+      90
+    ]
+  }
+}

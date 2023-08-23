@@ -1,0 +1,17 @@
+{
+  "id": 754,
+  "name": "Lurantis",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      105,
+      90,
+      80,
+      90,
+      45
+    ]
+  }
+}

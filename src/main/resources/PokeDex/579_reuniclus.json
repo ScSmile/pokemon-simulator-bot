@@ -1,0 +1,17 @@
+{
+  "id": 579,
+  "name": "Reuniclus",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      110,
+      65,
+      75,
+      125,
+      85,
+      30
+    ]
+  }
+}

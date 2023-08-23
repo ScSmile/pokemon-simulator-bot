@@ -1,0 +1,17 @@
+{
+  "id": 753,
+  "name": "Fomantis",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      55,
+      35,
+      50,
+      35,
+      35
+    ]
+  }
+}

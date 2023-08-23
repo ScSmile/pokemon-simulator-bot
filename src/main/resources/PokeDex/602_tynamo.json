@@ -1,0 +1,17 @@
+{
+  "id": 602,
+  "name": "Tynamo",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      35,
+      55,
+      40,
+      45,
+      40,
+      60
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 618,
+  "name": "Stunfisk",
+  "type": [
+    "GROUND",
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      109,
+      66,
+      84,
+      81,
+      99,
+      32
+    ]
+  }
+}

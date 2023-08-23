@@ -1,0 +1,18 @@
+{
+  "id": 70,
+  "name": "Weepinbell",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      90,
+      50,
+      85,
+      45,
+      55
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 270,
+  "name": "Lotad",
+  "type": [
+    "WATER",
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      30,
+      30,
+      40,
+      50,
+      30
+    ]
+  }
+}

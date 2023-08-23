@@ -1,0 +1,18 @@
+{
+  "id": 769,
+  "name": "Sandygast",
+  "type": [
+    "GHOST",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      55,
+      80,
+      70,
+      45,
+      15
+    ]
+  }
+}

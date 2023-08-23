@@ -1,0 +1,17 @@
+{
+  "id": 682,
+  "name": "Spritzee",
+  "type": [
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      78,
+      52,
+      60,
+      63,
+      65,
+      23
+    ]
+  }
+}

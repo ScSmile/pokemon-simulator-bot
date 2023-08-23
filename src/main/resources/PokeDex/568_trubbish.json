@@ -1,0 +1,17 @@
+{
+  "id": 568,
+  "name": "Trubbish",
+  "type": [
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      50,
+      62,
+      40,
+      62,
+      65
+    ]
+  }
+}

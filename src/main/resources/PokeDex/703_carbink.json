@@ -1,0 +1,18 @@
+{
+  "id": 703,
+  "name": "Carbink",
+  "type": [
+    "ROCK",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      50,
+      150,
+      50,
+      150,
+      50
+    ]
+  }
+}

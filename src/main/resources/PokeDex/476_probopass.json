@@ -1,0 +1,18 @@
+{
+  "id": 476,
+  "name": "Probopass",
+  "type": [
+    "ROCK",
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      55,
+      145,
+      75,
+      150,
+      40
+    ]
+  }
+}

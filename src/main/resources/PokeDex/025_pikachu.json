@@ -1,0 +1,17 @@
+{
+  "id": 25,
+  "name": "Pikachu",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      35,
+      55,
+      40,
+      50,
+      50,
+      90
+    ]
+  }
+}

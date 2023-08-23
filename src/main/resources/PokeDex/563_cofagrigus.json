@@ -1,0 +1,17 @@
+{
+  "id": 563,
+  "name": "Cofagrigus",
+  "type": [
+    "GHOST"
+  ],
+  "stats": {
+    "baseStats": [
+      58,
+      50,
+      145,
+      95,
+      105,
+      30
+    ]
+  }
+}

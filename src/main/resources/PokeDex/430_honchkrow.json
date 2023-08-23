@@ -1,0 +1,18 @@
+{
+  "id": 430,
+  "name": "Honchkrow",
+  "type": [
+    "DARK",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      100,
+      125,
+      52,
+      105,
+      52,
+      71
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 746,
+  "name": "Wishiwashi",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      20,
+      20,
+      25,
+      25,
+      40
+    ]
+  }
+}

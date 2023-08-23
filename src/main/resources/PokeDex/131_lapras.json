@@ -1,0 +1,18 @@
+{
+  "id": 131,
+  "name": "Lapras",
+  "type": [
+    "WATER",
+    "ICE"
+  ],
+  "stats": {
+    "baseStats": [
+      130,
+      85,
+      80,
+      85,
+      95,
+      60
+    ]
+  }
+}

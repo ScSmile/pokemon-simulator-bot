@@ -1,0 +1,18 @@
+{
+  "id": 634,
+  "name": "Zweilous",
+  "type": [
+    "DARK",
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      72,
+      85,
+      70,
+      65,
+      70,
+      58
+    ]
+  }
+}

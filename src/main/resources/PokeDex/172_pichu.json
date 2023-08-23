@@ -1,0 +1,17 @@
+{
+  "id": 172,
+  "name": "Pichu",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      20,
+      40,
+      15,
+      35,
+      35,
+      60
+    ]
+  }
+}

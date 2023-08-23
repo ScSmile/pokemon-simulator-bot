@@ -1,0 +1,17 @@
+{
+  "id": 672,
+  "name": "Skiddo",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      66,
+      65,
+      48,
+      62,
+      57,
+      52
+    ]
+  }
+}

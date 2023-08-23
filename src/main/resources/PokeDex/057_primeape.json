@@ -1,0 +1,17 @@
+{
+  "id": 57,
+  "name": "Primeape",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      105,
+      60,
+      60,
+      70,
+      95
+    ]
+  }
+}

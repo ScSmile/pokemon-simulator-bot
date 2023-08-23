@@ -1,0 +1,18 @@
+{
+  "id": 292,
+  "name": "Shedinja",
+  "type": [
+    "BUG",
+    "GHOST"
+  ],
+  "stats": {
+    "baseStats": [
+      1,
+      90,
+      45,
+      30,
+      30,
+      40
+    ]
+  }
+}

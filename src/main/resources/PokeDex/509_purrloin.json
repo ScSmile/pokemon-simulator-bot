@@ -1,0 +1,17 @@
+{
+  "id": 509,
+  "name": "Purrloin",
+  "type": [
+    "DARK"
+  ],
+  "stats": {
+    "baseStats": [
+      41,
+      50,
+      37,
+      50,
+      37,
+      66
+    ]
+  }
+}

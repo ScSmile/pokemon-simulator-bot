@@ -1,0 +1,17 @@
+{
+  "id": 331,
+  "name": "Cacnea",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      85,
+      40,
+      85,
+      40,
+      35
+    ]
+  }
+}

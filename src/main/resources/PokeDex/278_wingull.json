@@ -1,0 +1,18 @@
+{
+  "id": 278,
+  "name": "Wingull",
+  "type": [
+    "WATER",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      30,
+      30,
+      55,
+      30,
+      85
+    ]
+  }
+}

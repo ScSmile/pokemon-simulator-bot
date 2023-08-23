@@ -1,0 +1,18 @@
+{
+  "id": 715,
+  "name": "Noivern",
+  "type": [
+    "FLYING",
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      85,
+      70,
+      80,
+      97,
+      80,
+      123
+    ]
+  }
+}

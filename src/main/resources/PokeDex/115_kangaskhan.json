@@ -1,0 +1,17 @@
+{
+  "id": 115,
+  "name": "Kangaskhan",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      105,
+      95,
+      80,
+      40,
+      80,
+      90
+    ]
+  }
+}

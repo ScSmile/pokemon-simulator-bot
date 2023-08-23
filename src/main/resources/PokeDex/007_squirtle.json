@@ -1,0 +1,17 @@
+{
+  "id": 7,
+  "name": "Squirtle",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      44,
+      48,
+      65,
+      50,
+      64,
+      43
+    ]
+  }
+}

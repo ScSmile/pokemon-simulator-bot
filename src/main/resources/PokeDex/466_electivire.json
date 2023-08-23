@@ -1,0 +1,17 @@
+{
+  "id": 466,
+  "name": "Electivire",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      123,
+      67,
+      95,
+      85,
+      95
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 791,
+  "name": "Solgaleo",
+  "type": [
+    "PSYCHIC",
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      137,
+      137,
+      107,
+      113,
+      89,
+      97
+    ]
+  }
+}

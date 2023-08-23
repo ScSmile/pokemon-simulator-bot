@@ -1,0 +1,18 @@
+{
+  "id": 165,
+  "name": "Ledyba",
+  "type": [
+    "BUG",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      20,
+      30,
+      40,
+      80,
+      55
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 787,
+  "name": "Tapu Bulu",
+  "type": [
+    "GRASS",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      130,
+      115,
+      85,
+      95,
+      75
+    ]
+  }
+}

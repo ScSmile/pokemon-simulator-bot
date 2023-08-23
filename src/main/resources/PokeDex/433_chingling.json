@@ -1,0 +1,17 @@
+{
+  "id": 433,
+  "name": "Chingling",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      30,
+      50,
+      65,
+      50,
+      45
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 24,
+  "name": "Arbok",
+  "type": [
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      95,
+      69,
+      65,
+      79,
+      80
+    ]
+  }
+}

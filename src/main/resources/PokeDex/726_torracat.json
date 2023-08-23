@@ -1,0 +1,17 @@
+{
+  "id": 726,
+  "name": "Torracat",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      85,
+      50,
+      80,
+      50,
+      90
+    ]
+  }
+}

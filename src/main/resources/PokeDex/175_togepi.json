@@ -1,0 +1,17 @@
+{
+  "id": 175,
+  "name": "Togepi",
+  "type": [
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      35,
+      20,
+      65,
+      40,
+      65,
+      20
+    ]
+  }
+}

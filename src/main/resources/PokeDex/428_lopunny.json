@@ -1,0 +1,17 @@
+{
+  "id": 428,
+  "name": "Lopunny",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      76,
+      84,
+      54,
+      96,
+      105
+    ]
+  }
+}

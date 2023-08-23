@@ -1,0 +1,18 @@
+{
+  "id": 144,
+  "name": "Articuno",
+  "type": [
+    "ICE",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      85,
+      100,
+      95,
+      125,
+      85
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 537,
+  "name": "Seismitoad",
+  "type": [
+    "WATER",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      105,
+      95,
+      75,
+      85,
+      75,
+      74
+    ]
+  }
+}

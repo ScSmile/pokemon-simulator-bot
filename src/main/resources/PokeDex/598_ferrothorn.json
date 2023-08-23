@@ -1,0 +1,18 @@
+{
+  "id": 598,
+  "name": "Ferrothorn",
+  "type": [
+    "GRASS",
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      74,
+      94,
+      131,
+      54,
+      116,
+      20
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 54,
+  "name": "Psyduck",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      52,
+      48,
+      65,
+      50,
+      55
+    ]
+  }
+}

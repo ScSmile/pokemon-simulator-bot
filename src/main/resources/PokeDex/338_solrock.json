@@ -1,0 +1,18 @@
+{
+  "id": 338,
+  "name": "Solrock",
+  "type": [
+    "ROCK",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      95,
+      85,
+      55,
+      65,
+      70
+    ]
+  }
+}

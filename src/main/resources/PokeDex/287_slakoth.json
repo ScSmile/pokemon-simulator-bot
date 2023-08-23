@@ -1,0 +1,17 @@
+{
+  "id": 287,
+  "name": "Slakoth",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      60,
+      60,
+      35,
+      35,
+      30
+    ]
+  }
+}

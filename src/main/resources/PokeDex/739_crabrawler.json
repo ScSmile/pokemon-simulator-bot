@@ -1,0 +1,17 @@
+{
+  "id": 739,
+  "name": "Crabrawler",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      47,
+      82,
+      57,
+      42,
+      47,
+      63
+    ]
+  }
+}

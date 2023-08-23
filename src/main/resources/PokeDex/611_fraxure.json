@@ -1,0 +1,17 @@
+{
+  "id": 611,
+  "name": "Fraxure",
+  "type": [
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      66,
+      117,
+      70,
+      40,
+      50,
+      67
+    ]
+  }
+}

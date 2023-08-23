@@ -1,0 +1,18 @@
+{
+  "id": 730,
+  "name": "Primarina",
+  "type": [
+    "WATER",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      74,
+      74,
+      126,
+      116,
+      60
+    ]
+  }
+}

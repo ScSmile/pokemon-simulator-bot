@@ -1,0 +1,18 @@
+{
+  "id": 460,
+  "name": "Abomasnow",
+  "type": [
+    "GRASS",
+    "ICE"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      92,
+      75,
+      92,
+      85,
+      60
+    ]
+  }
+}

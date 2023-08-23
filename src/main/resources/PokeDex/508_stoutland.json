@@ -1,0 +1,17 @@
+{
+  "id": 508,
+  "name": "Stoutland",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      85,
+      110,
+      90,
+      45,
+      90,
+      80
+    ]
+  }
+}

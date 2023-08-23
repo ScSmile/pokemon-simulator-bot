@@ -1,0 +1,18 @@
+{
+  "id": 275,
+  "name": "Shiftry",
+  "type": [
+    "GRASS",
+    "DARK"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      100,
+      60,
+      90,
+      60,
+      80
+    ]
+  }
+}

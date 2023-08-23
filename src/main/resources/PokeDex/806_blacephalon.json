@@ -1,0 +1,18 @@
+{
+  "id": 806,
+  "name": "Blacephalon",
+  "type": [
+    "FIRE",
+    "GHOST"
+  ],
+  "stats": {
+    "baseStats": [
+      53,
+      127,
+      53,
+      151,
+      79,
+      107
+    ]
+  }
+}

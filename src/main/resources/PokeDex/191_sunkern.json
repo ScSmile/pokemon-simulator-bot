@@ -1,0 +1,17 @@
+{
+  "id": 191,
+  "name": "Sunkern",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ]
+  }
+}

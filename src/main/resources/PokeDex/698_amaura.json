@@ -1,0 +1,18 @@
+{
+  "id": 698,
+  "name": "Amaura",
+  "type": [
+    "ROCK",
+    "ICE"
+  ],
+  "stats": {
+    "baseStats": [
+      77,
+      59,
+      50,
+      67,
+      63,
+      46
+    ]
+  }
+}

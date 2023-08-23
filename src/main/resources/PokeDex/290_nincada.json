@@ -1,0 +1,18 @@
+{
+  "id": 290,
+  "name": "Nincada",
+  "type": [
+    "BUG",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      31,
+      45,
+      90,
+      30,
+      30,
+      40
+    ]
+  }
+}

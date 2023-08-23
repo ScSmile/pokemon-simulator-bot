@@ -1,0 +1,18 @@
+{
+  "id": 184,
+  "name": "Azumarill",
+  "type": [
+    "WATER",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      100,
+      50,
+      80,
+      60,
+      80,
+      50
+    ]
+  }
+}

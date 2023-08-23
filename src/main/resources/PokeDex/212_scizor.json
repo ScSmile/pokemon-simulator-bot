@@ -1,0 +1,18 @@
+{
+  "id": 212,
+  "name": "Scizor",
+  "type": [
+    "BUG",
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      130,
+      100,
+      55,
+      80,
+      65
+    ]
+  }
+}

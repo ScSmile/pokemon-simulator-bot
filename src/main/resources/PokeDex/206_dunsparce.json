@@ -1,0 +1,17 @@
+{
+  "id": 206,
+  "name": "Dunsparce",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      100,
+      70,
+      70,
+      65,
+      65,
+      45
+    ]
+  }
+}

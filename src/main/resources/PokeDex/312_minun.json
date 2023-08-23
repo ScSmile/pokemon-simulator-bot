@@ -1,0 +1,17 @@
+{
+  "id": 312,
+  "name": "Minun",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      40,
+      50,
+      75,
+      85,
+      95
+    ]
+  }
+}

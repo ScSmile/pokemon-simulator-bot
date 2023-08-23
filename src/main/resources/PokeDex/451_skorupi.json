@@ -1,0 +1,18 @@
+{
+  "id": 451,
+  "name": "Skorupi",
+  "type": [
+    "POISON",
+    "BUG"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      50,
+      90,
+      30,
+      55,
+      65
+    ]
+  }
+}

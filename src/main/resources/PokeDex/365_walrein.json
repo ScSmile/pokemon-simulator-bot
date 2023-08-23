@@ -1,0 +1,18 @@
+{
+  "id": 365,
+  "name": "Walrein",
+  "type": [
+    "ICE",
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      110,
+      80,
+      90,
+      95,
+      90,
+      65
+    ]
+  }
+}

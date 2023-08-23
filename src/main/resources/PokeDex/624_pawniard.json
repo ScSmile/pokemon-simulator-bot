@@ -1,0 +1,18 @@
+{
+  "id": 624,
+  "name": "Pawniard",
+  "type": [
+    "DARK",
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      85,
+      70,
+      40,
+      40,
+      60
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 237,
+  "name": "Hitmontop",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      95,
+      95,
+      35,
+      110,
+      70
+    ]
+  }
+}

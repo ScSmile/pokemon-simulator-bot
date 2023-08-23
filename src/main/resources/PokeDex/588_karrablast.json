@@ -1,0 +1,17 @@
+{
+  "id": 588,
+  "name": "Karrablast",
+  "type": [
+    "BUG"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      75,
+      45,
+      40,
+      45,
+      60
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 541,
+  "name": "Swadloon",
+  "type": [
+    "BUG",
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      63,
+      90,
+      50,
+      80,
+      42
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 658,
+  "name": "Greninja",
+  "type": [
+    "WATER",
+    "DARK"
+  ],
+  "stats": {
+    "baseStats": [
+      72,
+      95,
+      67,
+      103,
+      71,
+      122
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 379,
+  "name": "Registeel",
+  "type": [
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      75,
+      150,
+      75,
+      150,
+      50
+    ]
+  }
+}

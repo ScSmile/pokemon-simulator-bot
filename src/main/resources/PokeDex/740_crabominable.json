@@ -1,0 +1,18 @@
+{
+  "id": 740,
+  "name": "Crabominable",
+  "type": [
+    "FIGHTING",
+    "ICE"
+  ],
+  "stats": {
+    "baseStats": [
+      97,
+      132,
+      77,
+      62,
+      67,
+      43
+    ]
+  }
+}

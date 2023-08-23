@@ -1,0 +1,17 @@
+{
+  "id": 66,
+  "name": "Machop",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      80,
+      50,
+      35,
+      35,
+      35
+    ]
+  }
+}

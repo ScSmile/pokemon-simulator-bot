@@ -1,0 +1,18 @@
+{
+  "id": 41,
+  "name": "Zubat",
+  "type": [
+    "POISON",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      45,
+      35,
+      30,
+      40,
+      55
+    ]
+  }
+}

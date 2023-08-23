@@ -1,0 +1,18 @@
+{
+  "id": 441,
+  "name": "Chatot",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      76,
+      65,
+      45,
+      92,
+      42,
+      91
+    ]
+  }
+}

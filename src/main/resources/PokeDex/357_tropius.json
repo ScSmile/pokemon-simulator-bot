@@ -1,0 +1,18 @@
+{
+  "id": 357,
+  "name": "Tropius",
+  "type": [
+    "GRASS",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      99,
+      68,
+      83,
+      72,
+      87,
+      51
+    ]
+  }
+}

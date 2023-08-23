@@ -1,0 +1,17 @@
+{
+  "id": 52,
+  "name": "Meowth",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      45,
+      35,
+      40,
+      40,
+      90
+    ]
+  }
+}

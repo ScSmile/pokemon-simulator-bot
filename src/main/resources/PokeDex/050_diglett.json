@@ -1,0 +1,17 @@
+{
+  "id": 50,
+  "name": "Diglett",
+  "type": [
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      10,
+      55,
+      25,
+      35,
+      45,
+      95
+    ]
+  }
+}

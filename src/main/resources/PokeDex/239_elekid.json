@@ -1,0 +1,17 @@
+{
+  "id": 239,
+  "name": "Elekid",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      63,
+      37,
+      65,
+      55,
+      95
+    ]
+  }
+}

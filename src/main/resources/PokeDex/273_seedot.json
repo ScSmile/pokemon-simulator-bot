@@ -1,0 +1,17 @@
+{
+  "id": 273,
+  "name": "Seedot",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      40,
+      50,
+      30,
+      30,
+      30
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 30,
+  "name": "Nidorina",
+  "type": [
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      62,
+      67,
+      55,
+      55,
+      56
+    ]
+  }
+}

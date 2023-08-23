@@ -1,0 +1,18 @@
+{
+  "id": 363,
+  "name": "Spheal",
+  "type": [
+    "ICE",
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      40,
+      50,
+      55,
+      50,
+      25
+    ]
+  }
+}

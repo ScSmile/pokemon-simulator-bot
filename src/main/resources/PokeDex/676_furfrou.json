@@ -1,0 +1,17 @@
+{
+  "id": 676,
+  "name": "Furfrou",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      80,
+      60,
+      65,
+      90,
+      102
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 781,
+  "name": "Dhelmise",
+  "type": [
+    "GHOST",
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      131,
+      100,
+      86,
+      90,
+      40
+    ]
+  }
+}

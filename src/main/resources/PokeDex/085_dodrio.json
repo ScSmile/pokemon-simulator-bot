@@ -1,0 +1,18 @@
+{
+  "id": 85,
+  "name": "Dodrio",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      110,
+      70,
+      60,
+      60,
+      110
+    ]
+  }
+}

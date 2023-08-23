@@ -1,0 +1,18 @@
+{
+  "id": 437,
+  "name": "Bronzong",
+  "type": [
+    "STEEL",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      67,
+      89,
+      116,
+      79,
+      116,
+      33
+    ]
+  }
+}

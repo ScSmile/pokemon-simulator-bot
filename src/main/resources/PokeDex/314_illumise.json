@@ -1,0 +1,17 @@
+{
+  "id": 314,
+  "name": "Illumise",
+  "type": [
+    "BUG"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      47,
+      75,
+      73,
+      85,
+      85
+    ]
+  }
+}

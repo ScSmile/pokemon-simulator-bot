@@ -1,0 +1,17 @@
+{
+  "id": 105,
+  "name": "Marowak",
+  "type": [
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      80,
+      110,
+      50,
+      80,
+      45
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 590,
+  "name": "Foongus",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      69,
+      55,
+      45,
+      55,
+      55,
+      15
+    ]
+  }
+}

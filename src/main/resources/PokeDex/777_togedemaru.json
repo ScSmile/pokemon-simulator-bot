@@ -1,0 +1,18 @@
+{
+  "id": 777,
+  "name": "Togedemaru",
+  "type": [
+    "ELECTRIC",
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      98,
+      63,
+      40,
+      73,
+      96
+    ]
+  }
+}

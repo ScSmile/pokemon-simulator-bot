@@ -1,0 +1,17 @@
+{
+  "id": 26,
+  "name": "Raichu",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      90,
+      55,
+      90,
+      80,
+      110
+    ]
+  }
+}

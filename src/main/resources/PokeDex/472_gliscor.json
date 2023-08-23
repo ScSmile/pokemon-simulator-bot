@@ -1,0 +1,18 @@
+{
+  "id": 472,
+  "name": "Gliscor",
+  "type": [
+    "GROUND",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      95,
+      125,
+      45,
+      75,
+      95
+    ]
+  }
+}

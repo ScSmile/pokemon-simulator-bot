@@ -1,0 +1,17 @@
+{
+  "id": 4,
+  "name": "Charmander",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      39,
+      52,
+      43,
+      60,
+      50,
+      65
+    ]
+  }
+}

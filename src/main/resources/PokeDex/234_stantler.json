@@ -1,0 +1,17 @@
+{
+  "id": 234,
+  "name": "Stantler",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      73,
+      95,
+      62,
+      85,
+      65,
+      85
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 317,
+  "name": "Swalot",
+  "type": [
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      100,
+      73,
+      83,
+      73,
+      83,
+      55
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 619,
+  "name": "Mienfoo",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      85,
+      50,
+      55,
+      50,
+      65
+    ]
+  }
+}

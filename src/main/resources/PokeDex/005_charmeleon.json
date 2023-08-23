@@ -1,0 +1,17 @@
+{
+  "id": 5,
+  "name": "Charmeleon",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      58,
+      64,
+      58,
+      80,
+      65,
+      80
+    ]
+  }
+}

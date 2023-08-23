@@ -1,0 +1,18 @@
+{
+  "id": 95,
+  "name": "Onix",
+  "type": [
+    "ROCK",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      35,
+      45,
+      160,
+      30,
+      45,
+      70
+    ]
+  }
+}

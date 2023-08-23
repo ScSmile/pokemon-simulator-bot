@@ -1,0 +1,17 @@
+{
+  "id": 569,
+  "name": "Garbodor",
+  "type": [
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      95,
+      82,
+      60,
+      82,
+      75
+    ]
+  }
+}

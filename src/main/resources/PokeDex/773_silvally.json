@@ -1,0 +1,17 @@
+{
+  "id": 773,
+  "name": "Silvally",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      95,
+      95,
+      95,
+      95,
+      95,
+      95
+    ]
+  }
+}

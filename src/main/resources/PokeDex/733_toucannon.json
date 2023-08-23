@@ -1,0 +1,18 @@
+{
+  "id": 733,
+  "name": "Toucannon",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      120,
+      75,
+      75,
+      75,
+      60
+    ]
+  }
+}

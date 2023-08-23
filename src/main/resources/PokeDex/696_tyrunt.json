@@ -1,0 +1,18 @@
+{
+  "id": 696,
+  "name": "Tyrunt",
+  "type": [
+    "ROCK",
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      58,
+      89,
+      77,
+      45,
+      45,
+      48
+    ]
+  }
+}

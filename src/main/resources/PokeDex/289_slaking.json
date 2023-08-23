@@ -1,0 +1,17 @@
+{
+  "id": 289,
+  "name": "Slaking",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      150,
+      160,
+      100,
+      95,
+      65,
+      100
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 442,
+  "name": "Spiritomb",
+  "type": [
+    "GHOST",
+    "DARK"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      92,
+      108,
+      92,
+      108,
+      35
+    ]
+  }
+}

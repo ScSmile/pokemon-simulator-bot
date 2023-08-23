@@ -1,0 +1,17 @@
+{
+  "id": 584,
+  "name": "Vanilluxe",
+  "type": [
+    "ICE"
+  ],
+  "stats": {
+    "baseStats": [
+      71,
+      95,
+      85,
+      110,
+      95,
+      79
+    ]
+  }
+}

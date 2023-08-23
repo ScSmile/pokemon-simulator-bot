@@ -1,0 +1,18 @@
+{
+  "id": 407,
+  "name": "Roserade",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      70,
+      65,
+      125,
+      105,
+      90
+    ]
+  }
+}

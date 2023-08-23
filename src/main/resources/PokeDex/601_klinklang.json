@@ -1,0 +1,17 @@
+{
+  "id": 601,
+  "name": "Klinklang",
+  "type": [
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      100,
+      115,
+      70,
+      85,
+      90
+    ]
+  }
+}

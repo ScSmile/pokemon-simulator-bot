@@ -1,0 +1,18 @@
+{
+  "id": 410,
+  "name": "Shieldon",
+  "type": [
+    "ROCK",
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      30,
+      42,
+      118,
+      42,
+      88,
+      30
+    ]
+  }
+}

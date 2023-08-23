@@ -1,0 +1,18 @@
+{
+  "id": 592,
+  "name": "Frillish",
+  "type": [
+    "WATER",
+    "GHOST"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      40,
+      50,
+      65,
+      85,
+      40
+    ]
+  }
+}

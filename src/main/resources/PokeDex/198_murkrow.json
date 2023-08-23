@@ -1,0 +1,18 @@
+{
+  "id": 198,
+  "name": "Murkrow",
+  "type": [
+    "DARK",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      85,
+      42,
+      85,
+      42,
+      91
+    ]
+  }
+}

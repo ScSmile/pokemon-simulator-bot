@@ -1,0 +1,17 @@
+{
+  "id": 200,
+  "name": "Misdreavus",
+  "type": [
+    "GHOST"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      60,
+      60,
+      85,
+      85,
+      85
+    ]
+  }
+}

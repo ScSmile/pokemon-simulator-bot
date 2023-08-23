@@ -1,0 +1,18 @@
+{
+  "id": 14,
+  "name": "Kakuna",
+  "type": [
+    "BUG",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      25,
+      50,
+      25,
+      25,
+      35
+    ]
+  }
+}

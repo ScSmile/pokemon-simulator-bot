@@ -1,0 +1,18 @@
+{
+  "id": 708,
+  "name": "Phantump",
+  "type": [
+    "GHOST",
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      43,
+      70,
+      48,
+      50,
+      60,
+      38
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 356,
+  "name": "Dusclops",
+  "type": [
+    "GHOST"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      70,
+      130,
+      60,
+      130,
+      25
+    ]
+  }
+}

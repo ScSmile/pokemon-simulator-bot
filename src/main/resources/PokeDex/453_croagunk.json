@@ -1,0 +1,18 @@
+{
+  "id": 453,
+  "name": "Croagunk",
+  "type": [
+    "POISON",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      48,
+      61,
+      40,
+      61,
+      40,
+      50
+    ]
+  }
+}

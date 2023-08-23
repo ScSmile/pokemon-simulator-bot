@@ -1,0 +1,18 @@
+{
+  "id": 385,
+  "name": "Jirachi",
+  "type": [
+    "STEEL",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  }
+}

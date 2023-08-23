@@ -1,0 +1,18 @@
+{
+  "id": 473,
+  "name": "Mamoswine",
+  "type": [
+    "ICE",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      110,
+      130,
+      80,
+      70,
+      60,
+      80
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 65,
+  "name": "Alakazam",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      50,
+      45,
+      135,
+      95,
+      120
+    ]
+  }
+}

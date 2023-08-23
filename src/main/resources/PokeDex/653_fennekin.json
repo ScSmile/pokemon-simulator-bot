@@ -1,0 +1,17 @@
+{
+  "id": 653,
+  "name": "Fennekin",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      45,
+      40,
+      62,
+      60,
+      60
+    ]
+  }
+}

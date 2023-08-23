@@ -1,0 +1,18 @@
+{
+  "id": 3,
+  "name": "Venusaur",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      82,
+      83,
+      100,
+      100,
+      80
+    ]
+  }
+}

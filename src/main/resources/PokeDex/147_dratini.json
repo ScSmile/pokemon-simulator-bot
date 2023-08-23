@@ -1,0 +1,17 @@
+{
+  "id": 147,
+  "name": "Dratini",
+  "type": [
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      41,
+      64,
+      45,
+      50,
+      50,
+      50
+    ]
+  }
+}

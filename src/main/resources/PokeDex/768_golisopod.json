@@ -1,0 +1,18 @@
+{
+  "id": 768,
+  "name": "Golisopod",
+  "type": [
+    "BUG",
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      125,
+      140,
+      60,
+      90,
+      40
+    ]
+  }
+}

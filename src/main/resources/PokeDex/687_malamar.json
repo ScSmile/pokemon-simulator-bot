@@ -1,0 +1,18 @@
+{
+  "id": 687,
+  "name": "Malamar",
+  "type": [
+    "DARK",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      86,
+      92,
+      88,
+      68,
+      75,
+      73
+    ]
+  }
+}

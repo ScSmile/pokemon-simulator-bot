@@ -1,0 +1,18 @@
+{
+  "id": 238,
+  "name": "Smoochum",
+  "type": [
+    "ICE",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      30,
+      15,
+      85,
+      65,
+      65
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 36,
+  "name": "Clefable",
+  "type": [
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      95,
+      70,
+      73,
+      95,
+      90,
+      60
+    ]
+  }
+}

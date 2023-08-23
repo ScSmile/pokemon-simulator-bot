@@ -1,0 +1,18 @@
+{
+  "id": 560,
+  "name": "Scrafty",
+  "type": [
+    "DARK",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      90,
+      115,
+      45,
+      115,
+      58
+    ]
+  }
+}

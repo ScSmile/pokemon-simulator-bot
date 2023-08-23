@@ -1,0 +1,17 @@
+{
+  "id": 505,
+  "name": "Watchog",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      85,
+      69,
+      60,
+      69,
+      77
+    ]
+  }
+}

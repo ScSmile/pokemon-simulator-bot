@@ -1,0 +1,18 @@
+{
+  "id": 731,
+  "name": "Pikipek",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      35,
+      75,
+      30,
+      30,
+      30,
+      65
+    ]
+  }
+}

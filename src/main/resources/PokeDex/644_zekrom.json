@@ -1,0 +1,18 @@
+{
+  "id": 644,
+  "name": "Zekrom",
+  "type": [
+    "DRAGON",
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      100,
+      150,
+      120,
+      120,
+      100,
+      90
+    ]
+  }
+}

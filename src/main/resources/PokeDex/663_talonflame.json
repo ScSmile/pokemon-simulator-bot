@@ -1,0 +1,18 @@
+{
+  "id": 663,
+  "name": "Talonflame",
+  "type": [
+    "FIRE",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      78,
+      81,
+      71,
+      74,
+      69,
+      126
+    ]
+  }
+}

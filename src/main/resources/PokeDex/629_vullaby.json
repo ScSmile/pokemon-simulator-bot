@@ -1,0 +1,18 @@
+{
+  "id": 629,
+  "name": "Vullaby",
+  "type": [
+    "DARK",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      55,
+      75,
+      45,
+      65,
+      60
+    ]
+  }
+}

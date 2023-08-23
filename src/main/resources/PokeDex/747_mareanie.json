@@ -1,0 +1,18 @@
+{
+  "id": 747,
+  "name": "Mareanie",
+  "type": [
+    "POISON",
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      53,
+      62,
+      43,
+      52,
+      45
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 29,
+  "name": "Nidoran♀",
+  "type": [
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      47,
+      52,
+      40,
+      40,
+      41
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 783,
+  "name": "Hakamo-o",
+  "type": [
+    "DRAGON",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      75,
+      90,
+      65,
+      70,
+      65
+    ]
+  }
+}

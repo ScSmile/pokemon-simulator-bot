@@ -1,0 +1,18 @@
+{
+  "id": 722,
+  "name": "Rowlet",
+  "type": [
+    "GRASS",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      68,
+      55,
+      55,
+      50,
+      50,
+      42
+    ]
+  }
+}

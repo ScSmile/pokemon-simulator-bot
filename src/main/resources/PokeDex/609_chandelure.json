@@ -1,0 +1,18 @@
+{
+  "id": 609,
+  "name": "Chandelure",
+  "type": [
+    "GHOST",
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      55,
+      90,
+      145,
+      90,
+      80
+    ]
+  }
+}

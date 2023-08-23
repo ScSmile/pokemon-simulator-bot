@@ -1,0 +1,18 @@
+{
+  "id": 458,
+  "name": "Mantyke",
+  "type": [
+    "WATER",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      20,
+      50,
+      60,
+      120,
+      50
+    ]
+  }
+}

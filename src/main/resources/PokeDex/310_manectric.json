@@ -1,0 +1,17 @@
+{
+  "id": 310,
+  "name": "Manectric",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      75,
+      60,
+      105,
+      60,
+      105
+    ]
+  }
+}

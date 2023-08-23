@@ -1,0 +1,18 @@
+{
+  "id": 102,
+  "name": "Exeggcute",
+  "type": [
+    "GRASS",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      40,
+      80,
+      60,
+      45,
+      40
+    ]
+  }
+}

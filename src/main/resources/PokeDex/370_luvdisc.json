@@ -1,0 +1,17 @@
+{
+  "id": 370,
+  "name": "Luvdisc",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      43,
+      30,
+      55,
+      40,
+      65,
+      97
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 763,
+  "name": "Tsareena",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      72,
+      120,
+      98,
+      50,
+      98,
+      72
+    ]
+  }
+}

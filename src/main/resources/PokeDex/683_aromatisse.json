@@ -1,0 +1,17 @@
+{
+  "id": 683,
+  "name": "Aromatisse",
+  "type": [
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      101,
+      72,
+      72,
+      99,
+      89,
+      29
+    ]
+  }
+}

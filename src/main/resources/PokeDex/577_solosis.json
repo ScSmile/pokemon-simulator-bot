@@ -1,0 +1,17 @@
+{
+  "id": 577,
+  "name": "Solosis",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      30,
+      40,
+      105,
+      50,
+      20
+    ]
+  }
+}

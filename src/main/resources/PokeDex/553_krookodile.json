@@ -1,0 +1,18 @@
+{
+  "id": 553,
+  "name": "Krookodile",
+  "type": [
+    "GROUND",
+    "DARK"
+  ],
+  "stats": {
+    "baseStats": [
+      95,
+      117,
+      80,
+      65,
+      70,
+      92
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 454,
+  "name": "Toxicroak",
+  "type": [
+    "POISON",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      83,
+      106,
+      65,
+      86,
+      65,
+      85
+    ]
+  }
+}

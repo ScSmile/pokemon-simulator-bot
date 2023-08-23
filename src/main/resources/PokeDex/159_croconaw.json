@@ -1,0 +1,17 @@
+{
+  "id": 159,
+  "name": "Croconaw",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      80,
+      80,
+      59,
+      63,
+      58
+    ]
+  }
+}

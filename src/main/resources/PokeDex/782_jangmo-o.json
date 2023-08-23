@@ -1,0 +1,17 @@
+{
+  "id": 782,
+  "name": "Jangmo-o",
+  "type": [
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      55,
+      65,
+      45,
+      45,
+      45
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 96,
+  "name": "Drowzee",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      48,
+      45,
+      43,
+      90,
+      42
+    ]
+  }
+}

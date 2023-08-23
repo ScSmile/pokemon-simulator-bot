@@ -1,0 +1,18 @@
+{
+  "id": 423,
+  "name": "Gastrodon",
+  "type": [
+    "WATER",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      111,
+      83,
+      68,
+      92,
+      82,
+      39
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 134,
+  "name": "Vaporeon",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      130,
+      65,
+      60,
+      110,
+      95,
+      65
+    ]
+  }
+}

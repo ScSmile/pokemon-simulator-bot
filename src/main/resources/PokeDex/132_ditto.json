@@ -1,0 +1,17 @@
+{
+  "id": 132,
+  "name": "Ditto",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      48,
+      48,
+      48,
+      48,
+      48,
+      48
+    ]
+  }
+}

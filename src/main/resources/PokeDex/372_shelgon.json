@@ -1,0 +1,17 @@
+{
+  "id": 372,
+  "name": "Shelgon",
+  "type": [
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      95,
+      100,
+      60,
+      50,
+      50
+    ]
+  }
+}

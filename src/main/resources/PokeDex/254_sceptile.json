@@ -1,0 +1,17 @@
+{
+  "id": 254,
+  "name": "Sceptile",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      85,
+      65,
+      105,
+      85,
+      120
+    ]
+  }
+}

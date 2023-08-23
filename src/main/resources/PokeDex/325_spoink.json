@@ -1,0 +1,17 @@
+{
+  "id": 325,
+  "name": "Spoink",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      25,
+      35,
+      70,
+      80,
+      60
+    ]
+  }
+}

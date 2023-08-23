@@ -1,0 +1,18 @@
+{
+  "id": 622,
+  "name": "Golett",
+  "type": [
+    "GROUND",
+    "GHOST"
+  ],
+  "stats": {
+    "baseStats": [
+      59,
+      74,
+      50,
+      35,
+      50,
+      35
+    ]
+  }
+}

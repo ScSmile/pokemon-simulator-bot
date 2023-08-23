@@ -1,0 +1,17 @@
+{
+  "id": 447,
+  "name": "Riolu",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      70,
+      40,
+      35,
+      40,
+      60
+    ]
+  }
+}

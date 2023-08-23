@@ -1,0 +1,17 @@
+{
+  "id": 594,
+  "name": "Alomomola",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      165,
+      75,
+      80,
+      40,
+      45,
+      65
+    ]
+  }
+}

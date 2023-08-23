@@ -1,0 +1,18 @@
+{
+  "id": 45,
+  "name": "Vileplume",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      80,
+      85,
+      110,
+      90,
+      50
+    ]
+  }
+}

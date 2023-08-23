@@ -1,0 +1,17 @@
+{
+  "id": 161,
+  "name": "Sentret",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      35,
+      46,
+      34,
+      35,
+      45,
+      20
+    ]
+  }
+}

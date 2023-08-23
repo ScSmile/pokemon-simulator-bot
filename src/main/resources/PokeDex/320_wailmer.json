@@ -1,0 +1,17 @@
+{
+  "id": 320,
+  "name": "Wailmer",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      130,
+      70,
+      35,
+      70,
+      35,
+      60
+    ]
+  }
+}

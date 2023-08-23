@@ -1,0 +1,17 @@
+{
+  "id": 603,
+  "name": "Eelektrik",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      85,
+      70,
+      75,
+      70,
+      40
+    ]
+  }
+}

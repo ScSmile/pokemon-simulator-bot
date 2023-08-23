@@ -1,0 +1,18 @@
+{
+  "id": 642,
+  "name": "Thundurus",
+  "type": [
+    "ELECTRIC",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      79,
+      115,
+      70,
+      125,
+      80,
+      111
+    ]
+  }
+}

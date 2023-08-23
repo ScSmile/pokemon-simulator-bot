@@ -1,0 +1,17 @@
+{
+  "id": 549,
+  "name": "Lilligant",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      60,
+      75,
+      110,
+      75,
+      90
+    ]
+  }
+}

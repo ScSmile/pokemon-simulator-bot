@@ -1,0 +1,17 @@
+{
+  "id": 656,
+  "name": "Froakie",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      41,
+      56,
+      40,
+      62,
+      44,
+      71
+    ]
+  }
+}

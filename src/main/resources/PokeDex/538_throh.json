@@ -1,0 +1,17 @@
+{
+  "id": 538,
+  "name": "Throh",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      120,
+      100,
+      85,
+      30,
+      85,
+      45
+    ]
+  }
+}

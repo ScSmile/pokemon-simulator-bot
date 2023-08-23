@@ -1,0 +1,18 @@
+{
+  "id": 652,
+  "name": "Chesnaught",
+  "type": [
+    "GRASS",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      88,
+      107,
+      122,
+      74,
+      75,
+      64
+    ]
+  }
+}

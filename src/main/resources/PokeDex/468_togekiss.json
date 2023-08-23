@@ -1,0 +1,18 @@
+{
+  "id": 468,
+  "name": "Togekiss",
+  "type": [
+    "FAIRY",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      85,
+      50,
+      95,
+      120,
+      115,
+      80
+    ]
+  }
+}

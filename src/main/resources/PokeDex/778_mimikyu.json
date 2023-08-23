@@ -1,0 +1,18 @@
+{
+  "id": 778,
+  "name": "Mimikyu",
+  "type": [
+    "GHOST",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      90,
+      80,
+      50,
+      105,
+      96
+    ]
+  }
+}

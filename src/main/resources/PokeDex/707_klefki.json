@@ -1,0 +1,18 @@
+{
+  "id": 707,
+  "name": "Klefki",
+  "type": [
+    "STEEL",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      57,
+      80,
+      91,
+      80,
+      87,
+      75
+    ]
+  }
+}

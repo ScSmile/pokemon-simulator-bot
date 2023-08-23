@@ -1,0 +1,18 @@
+{
+  "id": 724,
+  "name": "Decidueye",
+  "type": [
+    "GRASS",
+    "GHOST"
+  ],
+  "stats": {
+    "baseStats": [
+      78,
+      107,
+      75,
+      100,
+      100,
+      70
+    ]
+  }
+}

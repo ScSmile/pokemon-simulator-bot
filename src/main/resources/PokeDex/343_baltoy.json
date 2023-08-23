@@ -1,0 +1,18 @@
+{
+  "id": 343,
+  "name": "Baltoy",
+  "type": [
+    "GROUND",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      40,
+      55,
+      40,
+      70,
+      55
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 336,
+  "name": "Seviper",
+  "type": [
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      73,
+      100,
+      60,
+      100,
+      60,
+      65
+    ]
+  }
+}

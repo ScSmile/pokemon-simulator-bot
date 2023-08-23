@@ -1,0 +1,17 @@
+{
+  "id": 615,
+  "name": "Cryogonal",
+  "type": [
+    "ICE"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      50,
+      50,
+      95,
+      135,
+      105
+    ]
+  }
+}

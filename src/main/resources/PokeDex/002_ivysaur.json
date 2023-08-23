@@ -1,0 +1,18 @@
+{
+  "id": 2,
+  "name": "Ivysaur",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      62,
+      63,
+      80,
+      80,
+      60
+    ]
+  }
+}

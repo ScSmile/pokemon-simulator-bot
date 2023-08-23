@@ -1,0 +1,18 @@
+{
+  "id": 75,
+  "name": "Graveler",
+  "type": [
+    "ROCK",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      95,
+      115,
+      45,
+      45,
+      35
+    ]
+  }
+}

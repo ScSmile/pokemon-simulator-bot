@@ -1,0 +1,18 @@
+{
+  "id": 784,
+  "name": "Kommo-o",
+  "type": [
+    "DRAGON",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      110,
+      125,
+      100,
+      105,
+      85
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 299,
+  "name": "Nosepass",
+  "type": [
+    "ROCK"
+  ],
+  "stats": {
+    "baseStats": [
+      30,
+      45,
+      135,
+      45,
+      90,
+      30
+    ]
+  }
+}

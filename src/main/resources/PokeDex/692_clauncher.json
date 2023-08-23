@@ -1,0 +1,17 @@
+{
+  "id": 692,
+  "name": "Clauncher",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      53,
+      62,
+      58,
+      63,
+      44
+    ]
+  }
+}

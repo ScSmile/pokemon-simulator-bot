@@ -1,0 +1,18 @@
+{
+  "id": 286,
+  "name": "Breloom",
+  "type": [
+    "GRASS",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      130,
+      80,
+      60,
+      60,
+      70
+    ]
+  }
+}

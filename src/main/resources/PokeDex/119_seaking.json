@@ -1,0 +1,17 @@
+{
+  "id": 119,
+  "name": "Seaking",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      92,
+      65,
+      65,
+      80,
+      68
+    ]
+  }
+}

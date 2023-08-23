@@ -1,0 +1,18 @@
+{
+  "id": 723,
+  "name": "Dartrix",
+  "type": [
+    "GRASS",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      78,
+      75,
+      75,
+      70,
+      70,
+      52
+    ]
+  }
+}

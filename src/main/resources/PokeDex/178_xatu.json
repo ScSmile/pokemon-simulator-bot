@@ -1,0 +1,18 @@
+{
+  "id": 178,
+  "name": "Xatu",
+  "type": [
+    "PSYCHIC",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      75,
+      70,
+      95,
+      70,
+      95
+    ]
+  }
+}

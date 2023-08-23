@@ -1,0 +1,18 @@
+{
+  "id": 177,
+  "name": "Natu",
+  "type": [
+    "PSYCHIC",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      50,
+      45,
+      70,
+      45,
+      70
+    ]
+  }
+}

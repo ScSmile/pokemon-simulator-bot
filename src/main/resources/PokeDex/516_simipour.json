@@ -1,0 +1,17 @@
+{
+  "id": 516,
+  "name": "Simipour",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      98,
+      63,
+      98,
+      63,
+      101
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 217,
+  "name": "Ursaring",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      130,
+      75,
+      75,
+      75,
+      55
+    ]
+  }
+}

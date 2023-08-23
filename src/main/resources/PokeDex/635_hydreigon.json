@@ -1,0 +1,18 @@
+{
+  "id": 635,
+  "name": "Hydreigon",
+  "type": [
+    "DARK",
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      92,
+      105,
+      90,
+      125,
+      90,
+      98
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 164,
+  "name": "Noctowl",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      100,
+      50,
+      50,
+      86,
+      96,
+      70
+    ]
+  }
+}

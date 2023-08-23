@@ -1,0 +1,17 @@
+{
+  "id": 418,
+  "name": "Buizel",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      65,
+      35,
+      60,
+      30,
+      85
+    ]
+  }
+}

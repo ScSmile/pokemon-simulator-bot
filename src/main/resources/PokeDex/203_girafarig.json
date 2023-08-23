@@ -1,0 +1,18 @@
+{
+  "id": 203,
+  "name": "Girafarig",
+  "type": [
+    "NORMAL",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      80,
+      65,
+      90,
+      65,
+      85
+    ]
+  }
+}

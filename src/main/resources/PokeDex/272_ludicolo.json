@@ -1,0 +1,18 @@
+{
+  "id": 272,
+  "name": "Ludicolo",
+  "type": [
+    "WATER",
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      70,
+      70,
+      90,
+      100,
+      70
+    ]
+  }
+}

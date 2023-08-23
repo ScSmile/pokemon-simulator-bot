@@ -1,0 +1,17 @@
+{
+  "id": 253,
+  "name": "Grovyle",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      65,
+      45,
+      85,
+      65,
+      95
+    ]
+  }
+}

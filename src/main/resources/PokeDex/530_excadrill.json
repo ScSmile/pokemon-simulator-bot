@@ -1,0 +1,18 @@
+{
+  "id": 530,
+  "name": "Excadrill",
+  "type": [
+    "GROUND",
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      110,
+      135,
+      60,
+      50,
+      65,
+      88
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 171,
+  "name": "Lanturn",
+  "type": [
+    "WATER",
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      125,
+      58,
+      58,
+      76,
+      76,
+      67
+    ]
+  }
+}

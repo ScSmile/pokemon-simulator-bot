@@ -1,0 +1,17 @@
+{
+  "id": 456,
+  "name": "Finneon",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      49,
+      49,
+      56,
+      49,
+      61,
+      66
+    ]
+  }
+}

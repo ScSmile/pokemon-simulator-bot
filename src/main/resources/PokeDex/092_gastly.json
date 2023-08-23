@@ -1,0 +1,18 @@
+{
+  "id": 92,
+  "name": "Gastly",
+  "type": [
+    "GHOST",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      30,
+      35,
+      30,
+      100,
+      35,
+      80
+    ]
+  }
+}

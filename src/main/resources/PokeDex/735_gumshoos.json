@@ -1,0 +1,17 @@
+{
+  "id": 735,
+  "name": "Gumshoos",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      88,
+      110,
+      60,
+      55,
+      60,
+      45
+    ]
+  }
+}

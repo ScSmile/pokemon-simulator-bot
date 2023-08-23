@@ -1,0 +1,18 @@
+{
+  "id": 18,
+  "name": "Pidgeot",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      83,
+      80,
+      75,
+      70,
+      70,
+      101
+    ]
+  }
+}

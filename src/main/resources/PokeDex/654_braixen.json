@@ -1,0 +1,17 @@
+{
+  "id": 654,
+  "name": "Braixen",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      59,
+      59,
+      58,
+      90,
+      70,
+      73
+    ]
+  }
+}

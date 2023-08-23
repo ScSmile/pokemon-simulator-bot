@@ -1,0 +1,18 @@
+{
+  "id": 339,
+  "name": "Barboach",
+  "type": [
+    "WATER",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      48,
+      43,
+      46,
+      41,
+      60
+    ]
+  }
+}

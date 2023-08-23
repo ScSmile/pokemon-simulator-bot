@@ -1,0 +1,18 @@
+{
+  "id": 681,
+  "name": "Aegislash",
+  "type": [
+    "STEEL",
+    "GHOST"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      50,
+      150,
+      50,
+      150,
+      60
+    ]
+  }
+}

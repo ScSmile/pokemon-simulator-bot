@@ -1,0 +1,18 @@
+{
+  "id": 342,
+  "name": "Crawdaunt",
+  "type": [
+    "WATER",
+    "DARK"
+  ],
+  "stats": {
+    "baseStats": [
+      63,
+      120,
+      85,
+      90,
+      55,
+      55
+    ]
+  }
+}

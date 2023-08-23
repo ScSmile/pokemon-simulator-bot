@@ -1,0 +1,17 @@
+{
+  "id": 790,
+  "name": "Cosmoem",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      43,
+      29,
+      131,
+      29,
+      131,
+      37
+    ]
+  }
+}

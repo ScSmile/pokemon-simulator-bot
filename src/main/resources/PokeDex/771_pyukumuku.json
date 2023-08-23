@@ -1,0 +1,17 @@
+{
+  "id": 771,
+  "name": "Pyukumuku",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      60,
+      130,
+      30,
+      130,
+      5
+    ]
+  }
+}

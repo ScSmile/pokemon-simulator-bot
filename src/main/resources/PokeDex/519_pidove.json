@@ -1,0 +1,18 @@
+{
+  "id": 519,
+  "name": "Pidove",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      55,
+      50,
+      36,
+      30,
+      43
+    ]
+  }
+}

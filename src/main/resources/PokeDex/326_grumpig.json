@@ -1,0 +1,17 @@
+{
+  "id": 326,
+  "name": "Grumpig",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      45,
+      65,
+      90,
+      110,
+      80
+    ]
+  }
+}

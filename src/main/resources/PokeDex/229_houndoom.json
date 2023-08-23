@@ -1,0 +1,18 @@
+{
+  "id": 229,
+  "name": "Houndoom",
+  "type": [
+    "DARK",
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      90,
+      50,
+      110,
+      80,
+      95
+    ]
+  }
+}

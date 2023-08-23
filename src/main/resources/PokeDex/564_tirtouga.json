@@ -1,0 +1,18 @@
+{
+  "id": 564,
+  "name": "Tirtouga",
+  "type": [
+    "WATER",
+    "ROCK"
+  ],
+  "stats": {
+    "baseStats": [
+      54,
+      78,
+      103,
+      53,
+      45,
+      22
+    ]
+  }
+}

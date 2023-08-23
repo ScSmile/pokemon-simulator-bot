@@ -1,0 +1,18 @@
+{
+  "id": 123,
+  "name": "Scyther",
+  "type": [
+    "BUG",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      110,
+      80,
+      55,
+      80,
+      105
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 628,
+  "name": "Braviary",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      100,
+      123,
+      75,
+      57,
+      75,
+      80
+    ]
+  }
+}

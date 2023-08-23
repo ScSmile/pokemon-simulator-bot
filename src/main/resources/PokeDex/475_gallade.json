@@ -1,0 +1,18 @@
+{
+  "id": 475,
+  "name": "Gallade",
+  "type": [
+    "PSYCHIC",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      68,
+      125,
+      65,
+      65,
+      115,
+      80
+    ]
+  }
+}

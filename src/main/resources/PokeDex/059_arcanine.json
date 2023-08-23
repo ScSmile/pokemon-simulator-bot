@@ -1,0 +1,17 @@
+{
+  "id": 59,
+  "name": "Arcanine",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      110,
+      80,
+      100,
+      80,
+      95
+    ]
+  }
+}

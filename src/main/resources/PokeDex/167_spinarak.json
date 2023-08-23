@@ -1,0 +1,18 @@
+{
+  "id": 167,
+  "name": "Spinarak",
+  "type": [
+    "BUG",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      60,
+      40,
+      40,
+      40,
+      30
+    ]
+  }
+}

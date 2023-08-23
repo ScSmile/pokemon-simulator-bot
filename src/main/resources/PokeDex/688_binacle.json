@@ -1,0 +1,18 @@
+{
+  "id": 688,
+  "name": "Binacle",
+  "type": [
+    "ROCK",
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      42,
+      52,
+      67,
+      39,
+      56,
+      50
+    ]
+  }
+}

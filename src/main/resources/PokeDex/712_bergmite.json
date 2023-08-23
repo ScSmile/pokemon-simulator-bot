@@ -1,0 +1,17 @@
+{
+  "id": 712,
+  "name": "Bergmite",
+  "type": [
+    "ICE"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      69,
+      85,
+      32,
+      35,
+      28
+    ]
+  }
+}

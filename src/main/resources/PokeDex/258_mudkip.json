@@ -1,0 +1,17 @@
+{
+  "id": 258,
+  "name": "Mudkip",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      70,
+      50,
+      50,
+      50,
+      40
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 450,
+  "name": "Hippowdon",
+  "type": [
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      108,
+      112,
+      118,
+      68,
+      72,
+      47
+    ]
+  }
+}

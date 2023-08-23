@@ -1,0 +1,18 @@
+{
+  "id": 81,
+  "name": "Magnemite",
+  "type": [
+    "ELECTRIC",
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      25,
+      35,
+      70,
+      95,
+      55,
+      45
+    ]
+  }
+}

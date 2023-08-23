@@ -1,0 +1,17 @@
+{
+  "id": 422,
+  "name": "Shellos",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      76,
+      48,
+      48,
+      57,
+      62,
+      34
+    ]
+  }
+}

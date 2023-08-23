@@ -1,0 +1,17 @@
+{
+  "id": 446,
+  "name": "Munchlax",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      135,
+      85,
+      40,
+      40,
+      85,
+      5
+    ]
+  }
+}

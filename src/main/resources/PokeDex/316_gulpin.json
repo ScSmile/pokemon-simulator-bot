@@ -1,0 +1,17 @@
+{
+  "id": 316,
+  "name": "Gulpin",
+  "type": [
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      43,
+      53,
+      43,
+      53,
+      40
+    ]
+  }
+}

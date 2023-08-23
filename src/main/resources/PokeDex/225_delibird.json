@@ -1,0 +1,18 @@
+{
+  "id": 225,
+  "name": "Delibird",
+  "type": [
+    "ICE",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      55,
+      45,
+      65,
+      45,
+      75
+    ]
+  }
+}

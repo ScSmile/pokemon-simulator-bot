@@ -1,0 +1,17 @@
+{
+  "id": 196,
+  "name": "Espeon",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      65,
+      60,
+      130,
+      95,
+      110
+    ]
+  }
+}

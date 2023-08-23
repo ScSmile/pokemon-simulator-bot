@@ -1,0 +1,17 @@
+{
+  "id": 186,
+  "name": "Politoed",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      75,
+      75,
+      90,
+      100,
+      70
+    ]
+  }
+}

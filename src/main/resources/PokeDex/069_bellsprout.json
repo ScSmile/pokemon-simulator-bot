@@ -1,0 +1,18 @@
+{
+  "id": 69,
+  "name": "Bellsprout",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      75,
+      35,
+      70,
+      30,
+      40
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 607,
+  "name": "Litwick",
+  "type": [
+    "GHOST",
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      30,
+      55,
+      65,
+      55,
+      20
+    ]
+  }
+}

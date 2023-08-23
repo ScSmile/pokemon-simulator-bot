@@ -1,0 +1,17 @@
+{
+  "id": 555,
+  "name": "Darmanitan",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      105,
+      140,
+      55,
+      30,
+      55,
+      95
+    ]
+  }
+}

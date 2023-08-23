@@ -1,0 +1,18 @@
+{
+  "id": 646,
+  "name": "Kyurem",
+  "type": [
+    "DRAGON",
+    "ICE"
+  ],
+  "stats": {
+    "baseStats": [
+      125,
+      130,
+      90,
+      130,
+      90,
+      95
+    ]
+  }
+}

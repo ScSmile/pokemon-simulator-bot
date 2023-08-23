@@ -1,0 +1,18 @@
+{
+  "id": 479,
+  "name": "Rotom",
+  "type": [
+    "ELECTRIC",
+    "GHOST"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      50,
+      77,
+      95,
+      77,
+      91
+    ]
+  }
+}

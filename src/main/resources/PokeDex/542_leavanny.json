@@ -1,0 +1,18 @@
+{
+  "id": 542,
+  "name": "Leavanny",
+  "type": [
+    "BUG",
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      103,
+      80,
+      70,
+      80,
+      92
+    ]
+  }
+}

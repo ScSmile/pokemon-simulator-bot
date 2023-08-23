@@ -1,0 +1,17 @@
+{
+  "id": 104,
+  "name": "Cubone",
+  "type": [
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      50,
+      95,
+      40,
+      50,
+      35
+    ]
+  }
+}

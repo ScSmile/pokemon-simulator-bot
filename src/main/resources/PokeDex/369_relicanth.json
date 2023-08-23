@@ -1,0 +1,18 @@
+{
+  "id": 369,
+  "name": "Relicanth",
+  "type": [
+    "WATER",
+    "ROCK"
+  ],
+  "stats": {
+    "baseStats": [
+      100,
+      90,
+      130,
+      45,
+      65,
+      55
+    ]
+  }
+}

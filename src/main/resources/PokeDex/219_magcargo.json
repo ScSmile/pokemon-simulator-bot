@@ -1,0 +1,18 @@
+{
+  "id": 219,
+  "name": "Magcargo",
+  "type": [
+    "FIRE",
+    "ROCK"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      50,
+      120,
+      90,
+      80,
+      30
+    ]
+  }
+}

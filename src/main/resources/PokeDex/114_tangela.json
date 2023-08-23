@@ -1,0 +1,17 @@
+{
+  "id": 114,
+  "name": "Tangela",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      55,
+      115,
+      100,
+      40,
+      60
+    ]
+  }
+}

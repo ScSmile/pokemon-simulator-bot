@@ -1,0 +1,18 @@
+{
+  "id": 785,
+  "name": "Tapu Koko",
+  "type": [
+    "ELECTRIC",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      115,
+      85,
+      95,
+      75,
+      130
+    ]
+  }
+}

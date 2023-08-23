@@ -1,0 +1,17 @@
+{
+  "id": 512,
+  "name": "Simisage",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      98,
+      63,
+      98,
+      63,
+      101
+    ]
+  }
+}

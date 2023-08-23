@@ -1,0 +1,17 @@
+{
+  "id": 497,
+  "name": "Serperior",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      75,
+      95,
+      75,
+      95,
+      113
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 55,
+  "name": "Golduck",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      82,
+      78,
+      95,
+      80,
+      85
+    ]
+  }
+}

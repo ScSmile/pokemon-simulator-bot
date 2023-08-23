@@ -1,0 +1,17 @@
+{
+  "id": 371,
+  "name": "Bagon",
+  "type": [
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      75,
+      60,
+      40,
+      30,
+      50
+    ]
+  }
+}

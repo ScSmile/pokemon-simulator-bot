@@ -1,0 +1,18 @@
+{
+  "id": 452,
+  "name": "Drapion",
+  "type": [
+    "POISON",
+    "DARK"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      90,
+      110,
+      60,
+      75,
+      95
+    ]
+  }
+}

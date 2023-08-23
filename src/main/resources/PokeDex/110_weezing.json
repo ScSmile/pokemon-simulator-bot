@@ -1,0 +1,17 @@
+{
+  "id": 110,
+  "name": "Weezing",
+  "type": [
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      90,
+      120,
+      85,
+      70,
+      60
+    ]
+  }
+}

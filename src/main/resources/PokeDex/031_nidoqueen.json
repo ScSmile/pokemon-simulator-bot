@@ -1,0 +1,18 @@
+{
+  "id": 31,
+  "name": "Nidoqueen",
+  "type": [
+    "POISON",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      92,
+      87,
+      75,
+      85,
+      76
+    ]
+  }
+}

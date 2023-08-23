@@ -1,0 +1,18 @@
+{
+  "id": 776,
+  "name": "Turtonator",
+  "type": [
+    "FIRE",
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      78,
+      135,
+      91,
+      85,
+      36
+    ]
+  }
+}

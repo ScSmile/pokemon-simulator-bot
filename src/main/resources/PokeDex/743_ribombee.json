@@ -1,0 +1,18 @@
+{
+  "id": 743,
+  "name": "Ribombee",
+  "type": [
+    "BUG",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      55,
+      60,
+      95,
+      70,
+      124
+    ]
+  }
+}

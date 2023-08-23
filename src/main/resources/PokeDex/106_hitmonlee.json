@@ -1,0 +1,17 @@
+{
+  "id": 106,
+  "name": "Hitmonlee",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      120,
+      53,
+      35,
+      110,
+      87
+    ]
+  }
+}

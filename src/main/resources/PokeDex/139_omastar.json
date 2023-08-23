@@ -1,0 +1,18 @@
+{
+  "id": 139,
+  "name": "Omastar",
+  "type": [
+    "ROCK",
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      60,
+      125,
+      115,
+      70,
+      55
+    ]
+  }
+}

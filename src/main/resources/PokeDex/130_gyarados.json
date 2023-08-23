@@ -1,0 +1,18 @@
+{
+  "id": 130,
+  "name": "Gyarados",
+  "type": [
+    "WATER",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      95,
+      125,
+      79,
+      60,
+      100,
+      81
+    ]
+  }
+}

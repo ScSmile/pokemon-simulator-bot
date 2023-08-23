@@ -1,0 +1,17 @@
+{
+  "id": 531,
+  "name": "Audino",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      103,
+      60,
+      86,
+      60,
+      86,
+      50
+    ]
+  }
+}

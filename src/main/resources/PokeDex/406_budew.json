@@ -1,0 +1,18 @@
+{
+  "id": 406,
+  "name": "Budew",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      30,
+      35,
+      50,
+      70,
+      55
+    ]
+  }
+}

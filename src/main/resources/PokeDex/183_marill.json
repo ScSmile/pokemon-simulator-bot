@@ -1,0 +1,18 @@
+{
+  "id": 183,
+  "name": "Marill",
+  "type": [
+    "WATER",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      20,
+      50,
+      20,
+      50,
+      40
+    ]
+  }
+}

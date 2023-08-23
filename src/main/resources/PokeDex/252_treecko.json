@@ -1,0 +1,17 @@
+{
+  "id": 252,
+  "name": "Treecko",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      45,
+      35,
+      65,
+      55,
+      70
+    ]
+  }
+}

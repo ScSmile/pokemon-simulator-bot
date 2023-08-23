@@ -1,0 +1,18 @@
+{
+  "id": 627,
+  "name": "Rufflet",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      83,
+      50,
+      37,
+      50,
+      60
+    ]
+  }
+}

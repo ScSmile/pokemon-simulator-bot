@@ -1,0 +1,17 @@
+{
+  "id": 457,
+  "name": "Lumineon",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      69,
+      69,
+      76,
+      69,
+      86,
+      91
+    ]
+  }
+}

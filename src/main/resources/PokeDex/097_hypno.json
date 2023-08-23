@@ -1,0 +1,17 @@
+{
+  "id": 97,
+  "name": "Hypno",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      85,
+      73,
+      70,
+      73,
+      115,
+      67
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 578,
+  "name": "Duosion",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      40,
+      50,
+      125,
+      60,
+      30
+    ]
+  }
+}

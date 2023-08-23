@@ -1,0 +1,18 @@
+{
+  "id": 587,
+  "name": "Emolga",
+  "type": [
+    "ELECTRIC",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      75,
+      60,
+      75,
+      60,
+      103
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 107,
+  "name": "Hitmonchan",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      105,
+      79,
+      35,
+      110,
+      76
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 374,
+  "name": "Beldum",
+  "type": [
+    "STEEL",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      55,
+      80,
+      35,
+      60,
+      30
+    ]
+  }
+}

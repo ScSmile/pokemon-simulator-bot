@@ -1,0 +1,18 @@
+{
+  "id": 469,
+  "name": "Yanmega",
+  "type": [
+    "BUG",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      86,
+      76,
+      86,
+      116,
+      56,
+      95
+    ]
+  }
+}

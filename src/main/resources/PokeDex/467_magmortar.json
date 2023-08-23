@@ -1,0 +1,17 @@
+{
+  "id": 467,
+  "name": "Magmortar",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      95,
+      67,
+      125,
+      95,
+      83
+    ]
+  }
+}

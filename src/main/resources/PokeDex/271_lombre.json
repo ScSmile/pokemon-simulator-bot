@@ -1,0 +1,18 @@
+{
+  "id": 271,
+  "name": "Lombre",
+  "type": [
+    "WATER",
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      50,
+      50,
+      60,
+      70,
+      50
+    ]
+  }
+}

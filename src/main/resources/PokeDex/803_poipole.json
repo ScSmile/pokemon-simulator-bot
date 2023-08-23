@@ -1,0 +1,17 @@
+{
+  "id": 803,
+  "name": "Poipole",
+  "type": [
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      67,
+      73,
+      67,
+      73,
+      67,
+      73
+    ]
+  }
+}

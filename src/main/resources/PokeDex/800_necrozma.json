@@ -1,0 +1,17 @@
+{
+  "id": 800,
+  "name": "Necrozma",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      97,
+      107,
+      101,
+      127,
+      89,
+      79
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 140,
+  "name": "Kabuto",
+  "type": [
+    "ROCK",
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      30,
+      80,
+      90,
+      55,
+      45,
+      55
+    ]
+  }
+}

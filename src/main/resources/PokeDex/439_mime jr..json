@@ -1,0 +1,18 @@
+{
+  "id": 439,
+  "name": "Mime Jr.",
+  "type": [
+    "PSYCHIC",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      20,
+      25,
+      45,
+      70,
+      90,
+      60
+    ]
+  }
+}

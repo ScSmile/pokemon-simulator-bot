@@ -1,0 +1,18 @@
+{
+  "id": 230,
+  "name": "Kingdra",
+  "type": [
+    "WATER",
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      95,
+      95,
+      95,
+      95,
+      85
+    ]
+  }
+}

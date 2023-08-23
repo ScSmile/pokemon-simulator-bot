@@ -1,0 +1,18 @@
+{
+  "id": 280,
+  "name": "Ralts",
+  "type": [
+    "PSYCHIC",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      28,
+      25,
+      25,
+      45,
+      35,
+      40
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 770,
+  "name": "Palossand",
+  "type": [
+    "GHOST",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      85,
+      75,
+      110,
+      100,
+      75,
+      35
+    ]
+  }
+}

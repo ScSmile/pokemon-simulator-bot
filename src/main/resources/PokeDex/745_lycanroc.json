@@ -1,0 +1,17 @@
+{
+  "id": 745,
+  "name": "Lycanroc",
+  "type": [
+    "ROCK"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      115,
+      65,
+      55,
+      65,
+      112
+    ]
+  }
+}

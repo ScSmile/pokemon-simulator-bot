@@ -1,0 +1,18 @@
+{
+  "id": 146,
+  "name": "Moltres",
+  "type": [
+    "FIRE",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      100,
+      90,
+      125,
+      85,
+      90
+    ]
+  }
+}

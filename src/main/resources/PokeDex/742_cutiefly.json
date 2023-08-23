@@ -1,0 +1,18 @@
+{
+  "id": 742,
+  "name": "Cutiefly",
+  "type": [
+    "BUG",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      45,
+      40,
+      55,
+      40,
+      84
+    ]
+  }
+}

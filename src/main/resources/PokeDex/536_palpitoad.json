@@ -1,0 +1,18 @@
+{
+  "id": 536,
+  "name": "Palpitoad",
+  "type": [
+    "WATER",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      65,
+      55,
+      65,
+      55,
+      69
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 67,
+  "name": "Machoke",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      100,
+      70,
+      50,
+      60,
+      45
+    ]
+  }
+}

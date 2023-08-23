@@ -1,0 +1,18 @@
+{
+  "id": 645,
+  "name": "Landorus",
+  "type": [
+    "GROUND",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      89,
+      125,
+      90,
+      115,
+      80,
+      101
+    ]
+  }
+}

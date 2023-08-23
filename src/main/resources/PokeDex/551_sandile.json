@@ -1,0 +1,18 @@
+{
+  "id": 551,
+  "name": "Sandile",
+  "type": [
+    "GROUND",
+    "DARK"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      72,
+      35,
+      35,
+      35,
+      65
+    ]
+  }
+}

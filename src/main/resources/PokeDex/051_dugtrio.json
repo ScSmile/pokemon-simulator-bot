@@ -1,0 +1,17 @@
+{
+  "id": 51,
+  "name": "Dugtrio",
+  "type": [
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      35,
+      100,
+      50,
+      50,
+      70,
+      120
+    ]
+  }
+}

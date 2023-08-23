@@ -1,0 +1,18 @@
+{
+  "id": 87,
+  "name": "Dewgong",
+  "type": [
+    "WATER",
+    "ICE"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      70,
+      80,
+      70,
+      95,
+      70
+    ]
+  }
+}

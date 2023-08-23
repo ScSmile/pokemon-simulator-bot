@@ -1,0 +1,17 @@
+{
+  "id": 641,
+  "name": "Tornadus",
+  "type": [
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      79,
+      115,
+      70,
+      125,
+      80,
+      111
+    ]
+  }
+}

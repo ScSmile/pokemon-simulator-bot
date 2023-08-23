@@ -1,0 +1,18 @@
+{
+  "id": 375,
+  "name": "Metang",
+  "type": [
+    "STEEL",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      75,
+      100,
+      55,
+      80,
+      50
+    ]
+  }
+}

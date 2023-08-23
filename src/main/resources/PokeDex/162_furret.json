@@ -1,0 +1,17 @@
+{
+  "id": 162,
+  "name": "Furret",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      85,
+      76,
+      64,
+      45,
+      55,
+      90
+    ]
+  }
+}

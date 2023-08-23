@@ -1,0 +1,17 @@
+{
+  "id": 117,
+  "name": "Seadra",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      65,
+      95,
+      95,
+      45,
+      85
+    ]
+  }
+}

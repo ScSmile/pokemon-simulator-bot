@@ -1,0 +1,18 @@
+{
+  "id": 804,
+  "name": "Naganadel",
+  "type": [
+    "POISON",
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      73,
+      73,
+      73,
+      127,
+      73,
+      121
+    ]
+  }
+}

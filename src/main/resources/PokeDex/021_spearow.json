@@ -1,0 +1,18 @@
+{
+  "id": 21,
+  "name": "Spearow",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      60,
+      30,
+      31,
+      31,
+      70
+    ]
+  }
+}

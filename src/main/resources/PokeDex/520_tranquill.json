@@ -1,0 +1,18 @@
+{
+  "id": 520,
+  "name": "Tranquill",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      62,
+      77,
+      62,
+      50,
+      42,
+      65
+    ]
+  }
+}

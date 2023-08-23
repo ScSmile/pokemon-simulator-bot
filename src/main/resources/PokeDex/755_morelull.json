@@ -1,0 +1,18 @@
+{
+  "id": 755,
+  "name": "Morelull",
+  "type": [
+    "GRASS",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      35,
+      55,
+      65,
+      75,
+      15
+    ]
+  }
+}

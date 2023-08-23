@@ -1,0 +1,17 @@
+{
+  "id": 153,
+  "name": "Bayleef",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      62,
+      80,
+      63,
+      80,
+      60
+    ]
+  }
+}

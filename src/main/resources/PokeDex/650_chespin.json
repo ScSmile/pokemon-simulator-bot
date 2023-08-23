@@ -1,0 +1,17 @@
+{
+  "id": 650,
+  "name": "Chespin",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      56,
+      61,
+      65,
+      48,
+      45,
+      38
+    ]
+  }
+}

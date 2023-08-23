@@ -1,0 +1,18 @@
+{
+  "id": 62,
+  "name": "Poliwrath",
+  "type": [
+    "WATER",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      95,
+      95,
+      70,
+      90,
+      70
+    ]
+  }
+}

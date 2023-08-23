@@ -1,0 +1,17 @@
+{
+  "id": 182,
+  "name": "Bellossom",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      80,
+      95,
+      90,
+      100,
+      50
+    ]
+  }
+}

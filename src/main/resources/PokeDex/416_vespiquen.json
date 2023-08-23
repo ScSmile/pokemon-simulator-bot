@@ -1,0 +1,18 @@
+{
+  "id": 416,
+  "name": "Vespiquen",
+  "type": [
+    "BUG",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      80,
+      102,
+      80,
+      102,
+      40
+    ]
+  }
+}

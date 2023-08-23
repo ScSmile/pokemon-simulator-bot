@@ -1,0 +1,18 @@
+{
+  "id": 484,
+  "name": "Palkia",
+  "type": [
+    "WATER",
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      120,
+      100,
+      150,
+      120,
+      100
+    ]
+  }
+}

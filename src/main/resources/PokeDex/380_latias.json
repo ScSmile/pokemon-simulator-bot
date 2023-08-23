@@ -1,0 +1,18 @@
+{
+  "id": 380,
+  "name": "Latias",
+  "type": [
+    "DRAGON",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      80,
+      90,
+      110,
+      130,
+      110
+    ]
+  }
+}

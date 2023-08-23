@@ -1,0 +1,17 @@
+{
+  "id": 401,
+  "name": "Kricketot",
+  "type": [
+    "BUG"
+  ],
+  "stats": {
+    "baseStats": [
+      37,
+      25,
+      41,
+      25,
+      41,
+      25
+    ]
+  }
+}

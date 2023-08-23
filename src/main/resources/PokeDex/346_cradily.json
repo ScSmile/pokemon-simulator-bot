@@ -1,0 +1,18 @@
+{
+  "id": 346,
+  "name": "Cradily",
+  "type": [
+    "ROCK",
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      86,
+      81,
+      97,
+      81,
+      107,
+      43
+    ]
+  }
+}

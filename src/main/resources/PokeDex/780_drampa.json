@@ -1,0 +1,18 @@
+{
+  "id": 780,
+  "name": "Drampa",
+  "type": [
+    "NORMAL",
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      78,
+      60,
+      85,
+      135,
+      91,
+      36
+    ]
+  }
+}

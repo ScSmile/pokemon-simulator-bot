@@ -1,0 +1,17 @@
+{
+  "id": 262,
+  "name": "Mightyena",
+  "type": [
+    "DARK"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      90,
+      70,
+      60,
+      60,
+      70
+    ]
+  }
+}

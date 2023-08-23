@@ -1,0 +1,18 @@
+{
+  "id": 546,
+  "name": "Cottonee",
+  "type": [
+    "GRASS",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      27,
+      60,
+      37,
+      50,
+      66
+    ]
+  }
+}

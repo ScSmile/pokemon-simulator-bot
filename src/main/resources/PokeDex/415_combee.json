@@ -1,0 +1,18 @@
+{
+  "id": 415,
+  "name": "Combee",
+  "type": [
+    "BUG",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      30,
+      30,
+      42,
+      30,
+      42,
+      70
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 35,
+  "name": "Clefairy",
+  "type": [
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      45,
+      48,
+      60,
+      65,
+      35
+    ]
+  }
+}

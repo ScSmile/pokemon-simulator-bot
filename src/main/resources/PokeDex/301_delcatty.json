@@ -1,0 +1,17 @@
+{
+  "id": 301,
+  "name": "Delcatty",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      65,
+      65,
+      55,
+      55,
+      90
+    ]
+  }
+}

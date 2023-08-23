@@ -1,0 +1,17 @@
+{
+  "id": 288,
+  "name": "Vigoroth",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      80,
+      80,
+      55,
+      55,
+      90
+    ]
+  }
+}

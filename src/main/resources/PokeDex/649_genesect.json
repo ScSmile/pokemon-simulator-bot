@@ -1,0 +1,18 @@
+{
+  "id": 649,
+  "name": "Genesect",
+  "type": [
+    "BUG",
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      71,
+      120,
+      95,
+      120,
+      95,
+      99
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 685,
+  "name": "Slurpuff",
+  "type": [
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      82,
+      80,
+      86,
+      85,
+      75,
+      72
+    ]
+  }
+}

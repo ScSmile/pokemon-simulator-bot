@@ -1,0 +1,17 @@
+{
+  "id": 409,
+  "name": "Rampardos",
+  "type": [
+    "ROCK"
+  ],
+  "stats": {
+    "baseStats": [
+      97,
+      165,
+      60,
+      65,
+      50,
+      58
+    ]
+  }
+}

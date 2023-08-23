@@ -1,0 +1,17 @@
+{
+  "id": 477,
+  "name": "Dusknoir",
+  "type": [
+    "GHOST"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      100,
+      135,
+      65,
+      135,
+      45
+    ]
+  }
+}

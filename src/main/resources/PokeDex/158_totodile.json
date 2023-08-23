@@ -1,0 +1,17 @@
+{
+  "id": 158,
+  "name": "Totodile",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      65,
+      64,
+      44,
+      48,
+      43
+    ]
+  }
+}

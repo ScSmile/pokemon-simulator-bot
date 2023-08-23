@@ -1,0 +1,18 @@
+{
+  "id": 187,
+  "name": "Hoppip",
+  "type": [
+    "GRASS",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      35,
+      35,
+      40,
+      35,
+      55,
+      50
+    ]
+  }
+}

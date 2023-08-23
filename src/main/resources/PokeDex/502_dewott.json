@@ -1,0 +1,17 @@
+{
+  "id": 502,
+  "name": "Dewott",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      75,
+      60,
+      83,
+      60,
+      60
+    ]
+  }
+}

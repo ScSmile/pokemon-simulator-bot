@@ -1,0 +1,18 @@
+{
+  "id": 74,
+  "name": "Geodude",
+  "type": [
+    "ROCK",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      80,
+      100,
+      30,
+      30,
+      20
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 283,
+  "name": "Surskit",
+  "type": [
+    "BUG",
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      30,
+      32,
+      50,
+      52,
+      65
+    ]
+  }
+}

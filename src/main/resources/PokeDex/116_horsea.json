@@ -1,0 +1,17 @@
+{
+  "id": 116,
+  "name": "Horsea",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      30,
+      40,
+      70,
+      70,
+      25,
+      60
+    ]
+  }
+}

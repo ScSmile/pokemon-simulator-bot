@@ -1,0 +1,18 @@
+{
+  "id": 347,
+  "name": "Anorith",
+  "type": [
+    "ROCK",
+    "BUG"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      95,
+      50,
+      40,
+      50,
+      75
+    ]
+  }
+}

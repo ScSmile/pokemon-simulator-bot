@@ -1,0 +1,17 @@
+{
+  "id": 185,
+  "name": "Sudowoodo",
+  "type": [
+    "ROCK"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      100,
+      115,
+      30,
+      65,
+      30
+    ]
+  }
+}

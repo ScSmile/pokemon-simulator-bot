@@ -1,0 +1,17 @@
+{
+  "id": 664,
+  "name": "Scatterbug",
+  "type": [
+    "BUG"
+  ],
+  "stats": {
+    "baseStats": [
+      38,
+      35,
+      40,
+      27,
+      25,
+      35
+    ]
+  }
+}

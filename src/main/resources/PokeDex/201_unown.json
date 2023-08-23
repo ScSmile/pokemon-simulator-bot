@@ -1,0 +1,17 @@
+{
+  "id": 201,
+  "name": "Unown",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      48,
+      72,
+      48,
+      72,
+      48,
+      48
+    ]
+  }
+}

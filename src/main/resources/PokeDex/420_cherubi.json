@@ -1,0 +1,17 @@
+{
+  "id": 420,
+  "name": "Cherubi",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      35,
+      45,
+      62,
+      53,
+      35
+    ]
+  }
+}

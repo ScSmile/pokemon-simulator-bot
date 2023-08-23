@@ -1,0 +1,18 @@
+{
+  "id": 214,
+  "name": "Heracross",
+  "type": [
+    "BUG",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      125,
+      75,
+      40,
+      95,
+      85
+    ]
+  }
+}

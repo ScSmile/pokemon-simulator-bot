@@ -1,0 +1,17 @@
+{
+  "id": 192,
+  "name": "Sunflora",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      75,
+      55,
+      105,
+      85,
+      30
+    ]
+  }
+}

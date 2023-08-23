@@ -1,0 +1,17 @@
+{
+  "id": 160,
+  "name": "Feraligatr",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      85,
+      105,
+      100,
+      79,
+      83,
+      78
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 150,
+  "name": "Mewtwo",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      106,
+      110,
+      90,
+      154,
+      90,
+      130
+    ]
+  }
+}

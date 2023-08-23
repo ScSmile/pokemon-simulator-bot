@@ -1,0 +1,18 @@
+{
+  "id": 701,
+  "name": "Hawlucha",
+  "type": [
+    "FIGHTING",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      78,
+      92,
+      75,
+      74,
+      63,
+      118
+    ]
+  }
+}

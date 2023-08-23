@@ -1,0 +1,17 @@
+{
+  "id": 224,
+  "name": "Octillery",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      105,
+      75,
+      105,
+      75,
+      45
+    ]
+  }
+}

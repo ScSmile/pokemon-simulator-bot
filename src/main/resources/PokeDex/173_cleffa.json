@@ -1,0 +1,17 @@
+{
+  "id": 173,
+  "name": "Cleffa",
+  "type": [
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      25,
+      28,
+      45,
+      55,
+      15
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 534,
+  "name": "Conkeldurr",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      105,
+      140,
+      95,
+      55,
+      65,
+      45
+    ]
+  }
+}

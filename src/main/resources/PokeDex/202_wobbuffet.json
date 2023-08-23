@@ -1,0 +1,17 @@
+{
+  "id": 202,
+  "name": "Wobbuffet",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      190,
+      33,
+      58,
+      33,
+      58,
+      33
+    ]
+  }
+}

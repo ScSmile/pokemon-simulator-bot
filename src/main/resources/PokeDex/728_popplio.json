@@ -1,0 +1,17 @@
+{
+  "id": 728,
+  "name": "Popplio",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      54,
+      54,
+      66,
+      56,
+      40
+    ]
+  }
+}

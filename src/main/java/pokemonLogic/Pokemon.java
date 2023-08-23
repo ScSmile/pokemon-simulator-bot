@@ -49,6 +49,7 @@ public class Pokemon {
       moveSet2 = PokemonBuilder.getMoves(this.type[1], 2);
     }
     this.moves = ArrayUtils.addAll(moveSet1, moveSet2);
+    this.movesCount = this.moves.length;
   }
 
   public void learnMove(Move newMove) {

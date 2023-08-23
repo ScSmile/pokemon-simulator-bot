@@ -1,0 +1,17 @@
+{
+  "id": 328,
+  "name": "Trapinch",
+  "type": [
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      100,
+      45,
+      45,
+      45,
+      10
+    ]
+  }
+}

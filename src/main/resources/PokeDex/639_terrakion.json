@@ -1,0 +1,18 @@
+{
+  "id": 639,
+  "name": "Terrakion",
+  "type": [
+    "ROCK",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      91,
+      129,
+      90,
+      72,
+      90,
+      108
+    ]
+  }
+}

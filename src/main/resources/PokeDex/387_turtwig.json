@@ -1,0 +1,17 @@
+{
+  "id": 387,
+  "name": "Turtwig",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      68,
+      64,
+      45,
+      55,
+      31
+    ]
+  }
+}

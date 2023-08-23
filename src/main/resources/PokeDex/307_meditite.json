@@ -1,0 +1,18 @@
+{
+  "id": 307,
+  "name": "Meditite",
+  "type": [
+    "FIGHTING",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      30,
+      40,
+      55,
+      40,
+      55,
+      60
+    ]
+  }
+}

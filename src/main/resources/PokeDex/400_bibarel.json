@@ -1,0 +1,18 @@
+{
+  "id": 400,
+  "name": "Bibarel",
+  "type": [
+    "NORMAL",
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      79,
+      85,
+      60,
+      55,
+      60,
+      71
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 282,
+  "name": "Gardevoir",
+  "type": [
+    "PSYCHIC",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      68,
+      65,
+      65,
+      125,
+      115,
+      80
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 72,
+  "name": "Tentacool",
+  "type": [
+    "WATER",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      40,
+      35,
+      50,
+      100,
+      70
+    ]
+  }
+}

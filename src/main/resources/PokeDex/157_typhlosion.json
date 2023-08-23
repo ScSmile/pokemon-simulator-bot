@@ -1,0 +1,17 @@
+{
+  "id": 157,
+  "name": "Typhlosion",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      78,
+      84,
+      78,
+      109,
+      85,
+      100
+    ]
+  }
+}

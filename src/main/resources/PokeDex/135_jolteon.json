@@ -1,0 +1,17 @@
+{
+  "id": 135,
+  "name": "Jolteon",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      65,
+      60,
+      110,
+      95,
+      130
+    ]
+  }
+}

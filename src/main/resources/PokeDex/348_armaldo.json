@@ -1,0 +1,18 @@
+{
+  "id": 348,
+  "name": "Armaldo",
+  "type": [
+    "ROCK",
+    "BUG"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      125,
+      100,
+      70,
+      80,
+      45
+    ]
+  }
+}

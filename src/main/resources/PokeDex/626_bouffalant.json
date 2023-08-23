@@ -1,0 +1,17 @@
+{
+  "id": 626,
+  "name": "Bouffalant",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      95,
+      110,
+      95,
+      40,
+      95,
+      55
+    ]
+  }
+}

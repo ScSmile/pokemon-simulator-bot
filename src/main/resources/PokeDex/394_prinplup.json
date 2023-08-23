@@ -1,0 +1,17 @@
+{
+  "id": 394,
+  "name": "Prinplup",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      64,
+      66,
+      68,
+      81,
+      76,
+      50
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 504,
+  "name": "Patrat",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      55,
+      39,
+      35,
+      39,
+      42
+    ]
+  }
+}

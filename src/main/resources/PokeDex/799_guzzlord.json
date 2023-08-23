@@ -1,0 +1,18 @@
+{
+  "id": 799,
+  "name": "Guzzlord",
+  "type": [
+    "DARK",
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      223,
+      101,
+      53,
+      97,
+      53,
+      43
+    ]
+  }
+}

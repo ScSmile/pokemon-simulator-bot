@@ -1,0 +1,18 @@
+{
+  "id": 695,
+  "name": "Heliolisk",
+  "type": [
+    "ELECTRIC",
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      62,
+      55,
+      52,
+      109,
+      94,
+      109
+    ]
+  }
+}

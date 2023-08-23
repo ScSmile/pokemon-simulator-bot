@@ -1,0 +1,18 @@
+{
+  "id": 205,
+  "name": "Forretress",
+  "type": [
+    "BUG",
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      90,
+      140,
+      60,
+      60,
+      40
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 789,
+  "name": "Cosmog",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      43,
+      29,
+      31,
+      29,
+      31,
+      37
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 304,
+  "name": "Aron",
+  "type": [
+    "STEEL",
+    "ROCK"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      70,
+      100,
+      40,
+      40,
+      30
+    ]
+  }
+}

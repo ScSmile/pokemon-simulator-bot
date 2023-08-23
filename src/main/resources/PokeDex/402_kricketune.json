@@ -1,0 +1,17 @@
+{
+  "id": 402,
+  "name": "Kricketune",
+  "type": [
+    "BUG"
+  ],
+  "stats": {
+    "baseStats": [
+      77,
+      85,
+      51,
+      55,
+      51,
+      65
+    ]
+  }
+}

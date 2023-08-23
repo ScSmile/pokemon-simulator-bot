@@ -1,0 +1,17 @@
+{
+  "id": 556,
+  "name": "Maractus",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      86,
+      67,
+      106,
+      67,
+      60
+    ]
+  }
+}

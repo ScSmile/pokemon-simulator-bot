@@ -1,0 +1,17 @@
+{
+  "id": 506,
+  "name": "Lillipup",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      60,
+      45,
+      25,
+      45,
+      55
+    ]
+  }
+}

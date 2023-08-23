@@ -1,0 +1,18 @@
+{
+  "id": 169,
+  "name": "Crobat",
+  "type": [
+    "POISON",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      85,
+      90,
+      80,
+      70,
+      80,
+      130
+    ]
+  }
+}

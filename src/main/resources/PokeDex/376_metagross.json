@@ -1,0 +1,18 @@
+{
+  "id": 376,
+  "name": "Metagross",
+  "type": [
+    "STEEL",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      135,
+      130,
+      95,
+      90,
+      70
+    ]
+  }
+}

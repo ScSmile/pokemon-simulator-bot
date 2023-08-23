@@ -1,0 +1,18 @@
+{
+  "id": 323,
+  "name": "Camerupt",
+  "type": [
+    "FIRE",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      100,
+      70,
+      105,
+      75,
+      40
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 155,
+  "name": "Cyndaquil",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      39,
+      52,
+      43,
+      60,
+      50,
+      65
+    ]
+  }
+}

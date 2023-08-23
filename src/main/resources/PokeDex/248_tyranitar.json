@@ -1,0 +1,18 @@
+{
+  "id": 248,
+  "name": "Tyranitar",
+  "type": [
+    "ROCK",
+    "DARK"
+  ],
+  "stats": {
+    "baseStats": [
+      100,
+      134,
+      110,
+      95,
+      100,
+      61
+    ]
+  }
+}

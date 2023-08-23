@@ -1,0 +1,18 @@
+{
+  "id": 246,
+  "name": "Larvitar",
+  "type": [
+    "ROCK",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      64,
+      50,
+      45,
+      50,
+      41
+    ]
+  }
+}

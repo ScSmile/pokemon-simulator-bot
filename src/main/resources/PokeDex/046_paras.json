@@ -1,0 +1,18 @@
+{
+  "id": 46,
+  "name": "Paras",
+  "type": [
+    "BUG",
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      35,
+      70,
+      55,
+      45,
+      55,
+      25
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 193,
+  "name": "Yanma",
+  "type": [
+    "BUG",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      65,
+      45,
+      75,
+      45,
+      95
+    ]
+  }
+}

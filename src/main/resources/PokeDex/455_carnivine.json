@@ -1,0 +1,17 @@
+{
+  "id": 455,
+  "name": "Carnivine",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      74,
+      100,
+      72,
+      90,
+      72,
+      46
+    ]
+  }
+}

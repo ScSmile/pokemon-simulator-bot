@@ -1,0 +1,18 @@
+{
+  "id": 633,
+  "name": "Deino",
+  "type": [
+    "DARK",
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      52,
+      65,
+      50,
+      45,
+      50,
+      38
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 129,
+  "name": "Magikarp",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      20,
+      10,
+      55,
+      15,
+      20,
+      80
+    ]
+  }
+}

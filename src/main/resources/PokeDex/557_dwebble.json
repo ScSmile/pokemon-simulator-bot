@@ -1,0 +1,18 @@
+{
+  "id": 557,
+  "name": "Dwebble",
+  "type": [
+    "BUG",
+    "ROCK"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      65,
+      85,
+      35,
+      35,
+      55
+    ]
+  }
+}

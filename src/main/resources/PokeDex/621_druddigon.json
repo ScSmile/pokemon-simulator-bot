@@ -1,0 +1,17 @@
+{
+  "id": 621,
+  "name": "Druddigon",
+  "type": [
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      77,
+      120,
+      90,
+      60,
+      90,
+      48
+    ]
+  }
+}

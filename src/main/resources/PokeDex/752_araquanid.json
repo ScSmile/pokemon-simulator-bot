@@ -1,0 +1,18 @@
+{
+  "id": 752,
+  "name": "Araquanid",
+  "type": [
+    "WATER",
+    "BUG"
+  ],
+  "stats": {
+    "baseStats": [
+      68,
+      70,
+      92,
+      50,
+      132,
+      42
+    ]
+  }
+}

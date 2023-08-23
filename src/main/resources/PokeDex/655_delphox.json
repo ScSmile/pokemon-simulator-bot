@@ -1,0 +1,18 @@
+{
+  "id": 655,
+  "name": "Delphox",
+  "type": [
+    "FIRE",
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      69,
+      72,
+      114,
+      100,
+      104
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 729,
+  "name": "Brionne",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      69,
+      69,
+      91,
+      81,
+      50
+    ]
+  }
+}

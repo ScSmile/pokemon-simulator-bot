@@ -1,0 +1,17 @@
+{
+  "id": 517,
+  "name": "Munna",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      76,
+      25,
+      45,
+      67,
+      55,
+      24
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 181,
+  "name": "Ampharos",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      75,
+      85,
+      115,
+      90,
+      55
+    ]
+  }
+}

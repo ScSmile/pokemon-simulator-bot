@@ -1,0 +1,18 @@
+{
+  "id": 303,
+  "name": "Mawile",
+  "type": [
+    "STEEL",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      85,
+      85,
+      55,
+      55,
+      50
+    ]
+  }
+}

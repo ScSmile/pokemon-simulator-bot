@@ -1,0 +1,18 @@
+{
+  "id": 625,
+  "name": "Bisharp",
+  "type": [
+    "DARK",
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      125,
+      100,
+      60,
+      70,
+      70
+    ]
+  }
+}

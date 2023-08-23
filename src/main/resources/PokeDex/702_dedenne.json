@@ -1,0 +1,18 @@
+{
+  "id": 702,
+  "name": "Dedenne",
+  "type": [
+    "ELECTRIC",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      67,
+      58,
+      57,
+      81,
+      67,
+      101
+    ]
+  }
+}

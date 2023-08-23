@@ -1,0 +1,17 @@
+{
+  "id": 605,
+  "name": "Elgyem",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      55,
+      55,
+      85,
+      55,
+      30
+    ]
+  }
+}

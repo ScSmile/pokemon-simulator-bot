@@ -1,0 +1,18 @@
+{
+  "id": 717,
+  "name": "Yveltal",
+  "type": [
+    "DARK",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      126,
+      131,
+      95,
+      131,
+      98,
+      99
+    ]
+  }
+}

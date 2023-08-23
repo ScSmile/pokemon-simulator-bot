@@ -1,0 +1,17 @@
+{
+  "id": 386,
+  "name": "Deoxys",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      150,
+      50,
+      150,
+      50,
+      150
+    ]
+  }
+}

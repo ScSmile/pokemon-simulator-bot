@@ -1,0 +1,17 @@
+{
+  "id": 152,
+  "name": "Chikorita",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      49,
+      65,
+      49,
+      65,
+      45
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 367,
+  "name": "Huntail",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      104,
+      105,
+      94,
+      75,
+      52
+    ]
+  }
+}

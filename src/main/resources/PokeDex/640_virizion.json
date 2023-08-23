@@ -1,0 +1,18 @@
+{
+  "id": 640,
+  "name": "Virizion",
+  "type": [
+    "GRASS",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      91,
+      90,
+      72,
+      90,
+      129,
+      108
+    ]
+  }
+}

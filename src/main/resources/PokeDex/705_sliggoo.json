@@ -1,0 +1,17 @@
+{
+  "id": 705,
+  "name": "Sliggoo",
+  "type": [
+    "DRAGON"
+  ],
+  "stats": {
+    "baseStats": [
+      68,
+      75,
+      53,
+      83,
+      113,
+      60
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 231,
+  "name": "Phanpy",
+  "type": [
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      90,
+      60,
+      60,
+      40,
+      40,
+      40
+    ]
+  }
+}

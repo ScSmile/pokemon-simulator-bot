@@ -1,0 +1,18 @@
+{
+  "id": 759,
+  "name": "Stufful",
+  "type": [
+    "NORMAL",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      75,
+      50,
+      45,
+      50,
+      50
+    ]
+  }
+}

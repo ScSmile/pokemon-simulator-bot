@@ -1,0 +1,17 @@
+{
+  "id": 10,
+  "name": "Caterpie",
+  "type": [
+    "BUG"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      30,
+      35,
+      20,
+      20,
+      45
+    ]
+  }
+}

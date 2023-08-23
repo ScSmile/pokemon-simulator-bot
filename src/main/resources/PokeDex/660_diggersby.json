@@ -1,0 +1,18 @@
+{
+  "id": 660,
+  "name": "Diggersby",
+  "type": [
+    "NORMAL",
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      85,
+      56,
+      77,
+      50,
+      77,
+      78
+    ]
+  }
+}

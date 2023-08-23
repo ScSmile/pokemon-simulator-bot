@@ -1,0 +1,18 @@
+{
+  "id": 527,
+  "name": "Woobat",
+  "type": [
+    "PSYCHIC",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      45,
+      43,
+      55,
+      43,
+      72
+    ]
+  }
+}

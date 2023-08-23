@@ -1,0 +1,18 @@
+{
+  "id": 638,
+  "name": "Cobalion",
+  "type": [
+    "STEEL",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      91,
+      90,
+      129,
+      90,
+      72,
+      108
+    ]
+  }
+}

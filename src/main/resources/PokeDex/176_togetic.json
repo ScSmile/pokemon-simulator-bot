@@ -1,0 +1,18 @@
+{
+  "id": 176,
+  "name": "Togetic",
+  "type": [
+    "FAIRY",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      40,
+      85,
+      80,
+      105,
+      40
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 341,
+  "name": "Corphish",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      43,
+      80,
+      65,
+      50,
+      35,
+      35
+    ]
+  }
+}

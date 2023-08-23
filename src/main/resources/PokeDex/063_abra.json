@@ -1,0 +1,17 @@
+{
+  "id": 63,
+  "name": "Abra",
+  "type": [
+    "PSYCHIC"
+  ],
+  "stats": {
+    "baseStats": [
+      25,
+      20,
+      15,
+      105,
+      55,
+      90
+    ]
+  }
+}

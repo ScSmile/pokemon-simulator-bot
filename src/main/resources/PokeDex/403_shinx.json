@@ -1,0 +1,17 @@
+{
+  "id": 403,
+  "name": "Shinx",
+  "type": [
+    "ELECTRIC"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      65,
+      34,
+      40,
+      34,
+      45
+    ]
+  }
+}

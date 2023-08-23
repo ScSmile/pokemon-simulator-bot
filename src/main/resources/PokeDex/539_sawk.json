@@ -1,0 +1,17 @@
+{
+  "id": 539,
+  "name": "Sawk",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      125,
+      75,
+      30,
+      75,
+      85
+    ]
+  }
+}

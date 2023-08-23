@@ -1,0 +1,18 @@
+{
+  "id": 647,
+  "name": "Keldeo",
+  "type": [
+    "WATER",
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      91,
+      72,
+      90,
+      129,
+      90,
+      108
+    ]
+  }
+}

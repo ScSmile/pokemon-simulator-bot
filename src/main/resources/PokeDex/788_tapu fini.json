@@ -1,0 +1,18 @@
+{
+  "id": 788,
+  "name": "Tapu Fini",
+  "type": [
+    "WATER",
+    "FAIRY"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      75,
+      115,
+      95,
+      130,
+      85
+    ]
+  }
+}

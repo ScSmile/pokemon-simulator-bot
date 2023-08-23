@@ -1,0 +1,17 @@
+{
+  "id": 474,
+  "name": "Porygon-Z",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      85,
+      80,
+      70,
+      135,
+      75,
+      90
+    ]
+  }
+}

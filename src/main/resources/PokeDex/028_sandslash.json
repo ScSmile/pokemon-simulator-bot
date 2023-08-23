@@ -1,0 +1,17 @@
+{
+  "id": 28,
+  "name": "Sandslash",
+  "type": [
+    "GROUND"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      100,
+      110,
+      45,
+      55,
+      65
+    ]
+  }
+}

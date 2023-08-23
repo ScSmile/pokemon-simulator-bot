@@ -1,0 +1,18 @@
+{
+  "id": 227,
+  "name": "Skarmory",
+  "type": [
+    "STEEL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      80,
+      140,
+      40,
+      70,
+      70
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 215,
+  "name": "Sneasel",
+  "type": [
+    "DARK",
+    "ICE"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      95,
+      55,
+      35,
+      75,
+      115
+    ]
+  }
+}

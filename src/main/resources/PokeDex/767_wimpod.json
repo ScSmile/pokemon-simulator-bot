@@ -1,0 +1,18 @@
+{
+  "id": 767,
+  "name": "Wimpod",
+  "type": [
+    "BUG",
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      25,
+      35,
+      40,
+      20,
+      30,
+      80
+    ]
+  }
+}

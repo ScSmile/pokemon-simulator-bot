@@ -1,0 +1,18 @@
+{
+  "id": 82,
+  "name": "Magneton",
+  "type": [
+    "ELECTRIC",
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      60,
+      95,
+      120,
+      70,
+      70
+    ]
+  }
+}

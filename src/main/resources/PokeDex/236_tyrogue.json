@@ -1,0 +1,17 @@
+{
+  "id": 236,
+  "name": "Tyrogue",
+  "type": [
+    "FIGHTING"
+  ],
+  "stats": {
+    "baseStats": [
+      35,
+      35,
+      35,
+      35,
+      35,
+      35
+    ]
+  }
+}

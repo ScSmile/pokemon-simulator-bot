@@ -1,0 +1,17 @@
+{
+  "id": 496,
+  "name": "Servine",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      60,
+      75,
+      60,
+      75,
+      83
+    ]
+  }
+}

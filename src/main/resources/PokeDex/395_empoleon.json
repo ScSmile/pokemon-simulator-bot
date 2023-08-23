@@ -1,0 +1,18 @@
+{
+  "id": 395,
+  "name": "Empoleon",
+  "type": [
+    "WATER",
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      84,
+      86,
+      88,
+      111,
+      101,
+      60
+    ]
+  }
+}

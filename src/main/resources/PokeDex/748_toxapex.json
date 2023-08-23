@@ -1,0 +1,18 @@
+{
+  "id": 748,
+  "name": "Toxapex",
+  "type": [
+    "POISON",
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      63,
+      152,
+      53,
+      142,
+      35
+    ]
+  }
+}

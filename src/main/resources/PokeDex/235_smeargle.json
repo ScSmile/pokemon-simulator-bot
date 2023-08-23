@@ -1,0 +1,17 @@
+{
+  "id": 235,
+  "name": "Smeargle",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      55,
+      20,
+      35,
+      20,
+      45,
+      75
+    ]
+  }
+}

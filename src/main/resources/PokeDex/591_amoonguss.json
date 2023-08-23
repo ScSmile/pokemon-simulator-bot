@@ -1,0 +1,18 @@
+{
+  "id": 591,
+  "name": "Amoonguss",
+  "type": [
+    "GRASS",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      114,
+      85,
+      70,
+      85,
+      80,
+      30
+    ]
+  }
+}

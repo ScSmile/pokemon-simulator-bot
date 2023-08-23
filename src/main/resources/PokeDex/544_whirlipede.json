@@ -1,0 +1,18 @@
+{
+  "id": 544,
+  "name": "Whirlipede",
+  "type": [
+    "BUG",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      40,
+      55,
+      99,
+      40,
+      79,
+      47
+    ]
+  }
+}

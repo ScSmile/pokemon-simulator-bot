@@ -1,0 +1,17 @@
+{
+  "id": 143,
+  "name": "Snorlax",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      160,
+      110,
+      65,
+      65,
+      110,
+      30
+    ]
+  }
+}

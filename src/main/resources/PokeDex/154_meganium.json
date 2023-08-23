@@ -1,0 +1,17 @@
+{
+  "id": 154,
+  "name": "Meganium",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      82,
+      100,
+      83,
+      100,
+      80
+    ]
+  }
+}

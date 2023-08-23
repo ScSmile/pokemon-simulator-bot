@@ -1,0 +1,17 @@
+{
+  "id": 113,
+  "name": "Chansey",
+  "type": [
+    "NORMAL"
+  ],
+  "stats": {
+    "baseStats": [
+      250,
+      5,
+      5,
+      35,
+      105,
+      50
+    ]
+  }
+}

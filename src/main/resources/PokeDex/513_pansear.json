@@ -1,0 +1,17 @@
+{
+  "id": 513,
+  "name": "Pansear",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      50,
+      53,
+      48,
+      53,
+      48,
+      64
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 112,
+  "name": "Rhydon",
+  "type": [
+    "GROUND",
+    "ROCK"
+  ],
+  "stats": {
+    "baseStats": [
+      105,
+      130,
+      120,
+      45,
+      45,
+      40
+    ]
+  }
+}

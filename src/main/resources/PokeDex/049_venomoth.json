@@ -1,0 +1,18 @@
+{
+  "id": 49,
+  "name": "Venomoth",
+  "type": [
+    "BUG",
+    "POISON"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      65,
+      60,
+      90,
+      75,
+      90
+    ]
+  }
+}

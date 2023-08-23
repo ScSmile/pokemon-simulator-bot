@@ -1,0 +1,17 @@
+{
+  "id": 808,
+  "name": "Meltan",
+  "type": [
+    "STEEL"
+  ],
+  "stats": {
+    "baseStats": [
+      46,
+      65,
+      65,
+      55,
+      35,
+      34
+    ]
+  }
+}

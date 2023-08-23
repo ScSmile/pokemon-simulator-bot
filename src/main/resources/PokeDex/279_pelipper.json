@@ -1,0 +1,18 @@
+{
+  "id": 279,
+  "name": "Pelipper",
+  "type": [
+    "WATER",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      50,
+      100,
+      95,
+      70,
+      65
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 581,
+  "name": "Swanna",
+  "type": [
+    "WATER",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      75,
+      87,
+      63,
+      87,
+      63,
+      98
+    ]
+  }
+}

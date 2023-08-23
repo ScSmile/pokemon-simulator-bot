@@ -1,0 +1,18 @@
+{
+  "id": 141,
+  "name": "Kabutops",
+  "type": [
+    "ROCK",
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      60,
+      115,
+      105,
+      65,
+      70,
+      80
+    ]
+  }
+}

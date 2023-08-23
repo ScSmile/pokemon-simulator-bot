@@ -1,0 +1,18 @@
+{
+  "id": 426,
+  "name": "Drifblim",
+  "type": [
+    "GHOST",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      150,
+      80,
+      44,
+      90,
+      54,
+      80
+    ]
+  }
+}

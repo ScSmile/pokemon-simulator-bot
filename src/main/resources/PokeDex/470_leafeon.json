@@ -1,0 +1,17 @@
+{
+  "id": 470,
+  "name": "Leafeon",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      65,
+      110,
+      130,
+      60,
+      65,
+      95
+    ]
+  }
+}

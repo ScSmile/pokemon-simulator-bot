@@ -1,0 +1,18 @@
+{
+  "id": 461,
+  "name": "Weavile",
+  "type": [
+    "DARK",
+    "ICE"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      120,
+      65,
+      45,
+      85,
+      125
+    ]
+  }
+}

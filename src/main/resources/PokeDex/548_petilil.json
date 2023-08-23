@@ -1,0 +1,17 @@
+{
+  "id": 548,
+  "name": "Petilil",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      45,
+      35,
+      50,
+      70,
+      50,
+      30
+    ]
+  }
+}

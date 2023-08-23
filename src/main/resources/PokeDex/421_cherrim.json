@@ -1,0 +1,17 @@
+{
+  "id": 421,
+  "name": "Cherrim",
+  "type": [
+    "GRASS"
+  ],
+  "stats": {
+    "baseStats": [
+      70,
+      60,
+      70,
+      87,
+      78,
+      85
+    ]
+  }
+}

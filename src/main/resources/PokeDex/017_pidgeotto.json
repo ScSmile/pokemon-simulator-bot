@@ -1,0 +1,18 @@
+{
+  "id": 17,
+  "name": "Pidgeotto",
+  "type": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "stats": {
+    "baseStats": [
+      63,
+      60,
+      55,
+      50,
+      50,
+      71
+    ]
+  }
+}

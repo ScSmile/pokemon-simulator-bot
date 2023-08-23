@@ -1,0 +1,17 @@
+{
+  "id": 489,
+  "name": "Phione",
+  "type": [
+    "WATER"
+  ],
+  "stats": {
+    "baseStats": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+    ]
+  }
+}

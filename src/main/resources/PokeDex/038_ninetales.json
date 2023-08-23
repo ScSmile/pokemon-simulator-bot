@@ -1,0 +1,17 @@
+{
+  "id": 38,
+  "name": "Ninetales",
+  "type": [
+    "FIRE"
+  ],
+  "stats": {
+    "baseStats": [
+      73,
+      76,
+      75,
+      81,
+      100,
+      100
+    ]
+  }
+}
